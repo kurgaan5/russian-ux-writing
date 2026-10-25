@@ -1,6 +1,6 @@
 ---
 name: russian-ux-writing
-license: "Proprietary; see LICENSE"
+license: "CC-BY-4.0"
 metadata:
   author: "Ivan Okulovsky"
 description: "Write, edit, and review clear, natural Russian for interfaces, website pages, presentations and reports. Use for UX-копирайтинг, редактура русского текста, микрокопия, тексты сайта, слайдов и отчётов. Preserve facts, uncertainty and terminology; adapt structure and brevity to the medium. Handles wording and editorial review, not slide/file rendering, data analysis, SEO strategy, fiction or full visual UX audits."
