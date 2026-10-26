@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Редактура макета</title>
+<style>
+  :root { color-scheme:light dark; --bg:light-dark(#f7f8fa,#17191d); --panel:light-dark(#fff,#22262c); --text:light-dark(#1e242c,#f0f2f5); --muted:light-dark(#596474,#b6bec9); --line:light-dark(#d6dce4,#454e5c); --active:light-dark(#005bd8,#89b8ff); --meaning:light-dark(#ba3226,#ff9286); --language:light-dark(#8c5700,#f5c36f); --question:light-dark(#1165b8,#8abfff); }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:clamp(16px,3vw,40px); background:var(--bg); color:var(--text); font:16px/1.5 system-ui,sans-serif; }
+  main { max-width:1440px; margin:auto; }
+  h1 { margin:0 0 8px; font-size:clamp(24px,3vw,34px); line-height:1.15; font-weight:650; }
+  h2 { margin:0 0 12px; font-size:22px; line-height:1.25; font-weight:600; }
+  p { margin:0; }
+  .scope,.meta,.layout { color:var(--muted); }
+  .scope { max-width:85ch; }
+  .legend { display:flex; flex-wrap:wrap; gap:10px 24px; margin:18px 0; font-size:14px; }
+  .legend span { display:inline-flex; align-items:center; gap:8px; }
+  .swatch { width:12px; height:12px; border:2px solid; border-radius:3px; }
+  .meaning { --kind:var(--meaning); }
+  .language { --kind:var(--language); }
+  .question { --kind:var(--question); }
+  .swatch { border-color:var(--kind); }
+  .workspace { display:grid; grid-template-columns:minmax(0,1.45fr) minmax(310px,1fr); gap:24px; align-items:start; }
+  .overview { position:relative; }
+  .overview svg { display:block; width:100%; height:auto; }
+  .marks { position:absolute; inset:0; }
+  .box { position:absolute; border:2px solid var(--kind); border-radius:4px; pointer-events:none; }
+  .box.selected { border-width:3px; background:color-mix(in srgb,var(--kind) 10%,transparent); }
+  button,select { font:inherit; }
+  button { cursor:pointer; }
+  button:focus-visible,select:focus-visible,summary:focus-visible { outline:3px solid var(--active); outline-offset:3px; }
+  .pin { position:absolute; transform:translate(-15%,-35%); }
+  .pin button { display:block; padding:5px 7px; min-width:36px; border:1px solid var(--line); border-radius:20px; background:var(--panel); color:var(--text); font-size:13px; font-weight:650; }
+  .pin button[aria-pressed="true"] { background:var(--active); border-color:var(--active); color:light-dark(#fff,#152031); }
+  .navigation { display:flex; gap:8px; margin-bottom:12px; }
+  .navigation button,.navigation select { min-height:44px; border:1px solid var(--line); border-radius:9px; padding:8px 12px; background:var(--panel); color:var(--text); }
+  .navigation select { flex:1; min-width:0; }
+  .finding { padding:20px; border:1px solid var(--line); border-radius:12px; background:var(--panel); }
+  .meta { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:8px; font-size:14px; }
+  .zoom { margin:16px 0; }
+  .zoom svg { width:100%; max-height:190px; display:block; }
+  .zoom rect { stroke:var(--kind); stroke-width:2; }
+  dl { margin:0; }
+  dt { color:var(--muted); font-size:14px; }
+  dd { margin:4px 0 16px; white-space:pre-line; overflow-wrap:anywhere; }
+  .after { font-weight:600; }
+  .reason { margin-bottom:12px; }
+  .layout,.note { font-size:14px; }
+  .note { margin-top:10px; }
+  .note:empty { display:none; }
+  details { margin-top:24px; }
+  summary { cursor:pointer; font-weight:600; }
+  .all-findings { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,290px),1fr)); gap:16px; margin:16px 0; padding:0; list-style:none; }
+  .all-findings li { padding:16px; border-top:2px solid var(--kind); }
+  .all-findings button { padding:0; margin:0 0 10px; border:0; background:transparent; color:var(--text); text-align:left; font-weight:600; }
+  .all-findings .small-label { color:var(--muted); font-size:14px; margin:10px 0 3px; }
+  @media(max-width:850px) { .workspace { grid-template-columns:minmax(0,1fr); } }
+  @media(pointer:coarse) { .pin button { min-height:44px; min-width:44px; } }
+</style>
+<main>
+  <h1 id="review-title"></h1>
+  <p id="review-scope" class="scope"></p>
+  <div class="legend" aria-label="Типы замечаний">
+    <span><i class="swatch meaning" aria-hidden="true"></i>Смысл</span>
+    <span><i class="swatch language" aria-hidden="true"></i>Язык</span>
+    <span><i class="swatch question" aria-hidden="true"></i>Уточнить</span>
+  </div>
+  <div class="workspace">
+    <div class="overview" aria-label="Исходный макет с отметками">
+      <svg id="overview-image" role="img" aria-label="Общая картина замечаний">
+        <image id="source-image" href="__REVIEW_IMAGE__"></image>
+      </svg>
+      <div class="marks"></div>
+    </div>
+    <div>
+      <nav class="navigation" aria-label="Замечания">
+        <button type="button" data-step="-1" aria-label="Предыдущее замечание">←</button>
+        <select aria-label="Выберите замечание"></select>
+        <button type="button" data-step="1" aria-label="Следующее замечание">→</button>
+      </nav>
+      <section class="finding" aria-live="polite" aria-atomic="true">
+        <div class="meta"><span class="finding-id"></span><span class="finding-type"></span></div>
+        <h2 class="finding-title"></h2>
+        <div class="zoom"><svg role="img" aria-label="Фрагмент исходного макета"><image></image><rect fill="none" vector-effect="non-scaling-stroke"></rect></svg></div>
+        <dl><dt>Сейчас</dt><dd class="before"></dd><dt class="after-label">Предлагаю</dt><dd class="after"></dd></dl>
+        <p class="reason"></p>
+        <p class="layout"></p>
+        <p class="note"></p>
+      </section>
+    </div>
+  </div>
+  <details><summary>Все замечания</summary><ol class="all-findings"></ol></details>
+</main>
+<script id="review-data" type="application/json">__REVIEW_DATA__</script>
+<script>
+(() => {
+  const data=JSON.parse(document.getElementById('review-data').textContent);
+  const source=document.getElementById('source-image');
+  const crop=data.crop||[0,0,data.width,data.height];
+  const svg=document.getElementById('overview-image');
+  svg.setAttribute('viewBox',crop.join(' '));
+  source.setAttribute('width',data.width); source.setAttribute('height',data.height);
+  document.title=data.title;
+  document.getElementById('review-title').textContent=data.title;
+  document.getElementById('review-scope').textContent=data.scope;
+  const types={meaning:'Смысл',language:'Язык',question:'Уточнить'};
+  const marks=document.querySelector('.marks'),list=document.querySelector('.all-findings'),select=document.querySelector('select');
+  const add=(tag,parent,text,cls)=>{const e=document.createElement(tag); if(text!==undefined)e.textContent=text;if(cls)e.className=cls;parent.appendChild(e);return e;};
+  data.findings.forEach(f=>{
+    const [x,y,w,h]=f.box;
+    const rect=add('div',marks,undefined,'box '+f.type); rect.dataset.id=f.id; rect.setAttribute('aria-hidden','true');
+    Object.assign(rect.style,{left:(x-crop[0])/crop[2]*100+'%',top:(y-crop[1])/crop[3]*100+'%',width:w/crop[2]*100+'%',height:h/crop[3]*100+'%'});
+    const pin=add('div',marks,undefined,'pin');
+    const [px,py]=f.pin||[x+Math.min(14,w/4),y];
+    Object.assign(pin.style,{left:(px-crop[0])/crop[2]*100+'%',top:(py-crop[1])/crop[3]*100+'%'});
+    const button=add('button',pin,f.id);button.type='button';button.dataset.id=f.id;button.setAttribute('aria-label',f.id+'. '+f.title);button.addEventListener('click',()=>show(f.id));
+    const option=add('option',select,f.id+' · '+f.title);option.value=f.id;
+    const item=add('li',list,undefined,f.type);item.dataset.id=f.id;
+    const link=add('button',item,f.id+' · '+f.title);link.type='button';link.addEventListener('click',()=>{show(f.id);document.querySelector('.finding').scrollIntoView({block:'nearest'});});
+    add('div',item,'Сейчас','small-label');add('p',item,f.before);
+    add('div',item,f.type==='question'?'Нужно уточнить':'Предлагаю','small-label');add('p',item,f.after||f.note||f.reason);
+    add('div',item,'Почему','small-label');add('p',item,f.reason);
+  });
+  let current=0;
+  function show(id){
+    const index=data.findings.findIndex(f=>f.id===id);current=index<0?0:index;
+    const f=data.findings[current];select.value=f.id;
+    document.querySelectorAll('.box').forEach(e=>e.classList.toggle('selected',e.dataset.id===f.id));
+    document.querySelectorAll('.pin button').forEach(e=>e.setAttribute('aria-pressed',String(e.dataset.id===f.id)));
+    document.querySelector('.finding-id').textContent=f.id;
+    document.querySelector('.finding-type').textContent=types[f.type];
+    document.querySelector('.finding-title').textContent=f.title;
+    document.querySelector('.before').textContent=f.before;
+    document.querySelector('.after-label').textContent=f.type==='question'?'Нужно уточнить':'Предлагаю';
+    document.querySelector('.after').textContent=f.after||f.note||'Требуется продуктовый факт';
+    document.querySelector('.reason').textContent=f.reason;
+    document.querySelector('.layout').textContent=f.layout||'Вёрстка не проверена';
+    document.querySelector('.note').textContent=f.note||'';
+    const zoom=document.querySelector('.zoom svg'),image=zoom.querySelector('image'),rect=zoom.querySelector('rect');
+    const pad=18,box=f.focus||[Math.max(0,f.box[0]-pad),Math.max(0,f.box[1]-pad),Math.min(data.width-f.box[0]+pad,f.box[2]+pad*2),Math.min(data.height-f.box[1]+pad,f.box[3]+pad*2)];
+    zoom.setAttribute('viewBox',box.join(' '));zoom.style.aspectRatio=box[2]+'/'+box[3];
+    image.setAttribute('href',source.getAttribute('href'));image.setAttribute('width',data.width);image.setAttribute('height',data.height);
+    ['x','y','width','height'].forEach((a,i)=>rect.setAttribute(a,f.box[i]));rect.setAttribute('class',f.type);
+  }
+  select.addEventListener('change',()=>show(select.value));
+  document.querySelectorAll('[data-step]').forEach(b=>b.addEventListener('click',()=>show(data.findings[(current+Number(b.dataset.step)+data.findings.length)%data.findings.length].id)));
+  show(data.findings[0].id);
+})();
+</script>
+</html>
