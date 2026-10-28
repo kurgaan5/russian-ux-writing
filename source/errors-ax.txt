@@ -1,0 +1,1239 @@
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5954&scaling=min-zoom&starting-point-node-id=1%3A6116".
+1 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5954&scaling=min-zoom&starting-point-node-id=1%3A6116
+	2 container react-page
+		3 container
+			4 container Prototype controls
+			5 container
+				165 container ✅ Ошибки
+					166 button ic_m_step_back_filled
+						167 container ic_m_step_back_filled
+					168 container Device Button
+						169 link ic_m_mobile_phone_filled
+							170 container ic_m_mobile_phone_filled
+					171 button 🟢 TagButtonCustom
+						172 container 🟢 TagButtonCustom
+							173 text Как писать тексты ошибок
+					174 button 🟢 TagButtonCustom
+						175 container 🟢 TagButtonCustom
+							176 text Типовые тексты
+					177 link logo ozon blue
+					178 container Header Desk
+						179 button ic_m_step_back_filled
+							180 container ic_m_step_back_filled
+						181 container Title&Subtitle
+							182 container 🟢 Text
+								183 container Vertical / None
+									184 container Spacer
+								185 container Horisontal / None
+								186 text Экраны ошибок
+								187 container Horisontal / None
+								188 container Vertical / None
+									189 container Spacer
+						190 container sign-error_m
+							191 image Img
+					192 container Ошибки
+						193 container Title&Subtitle
+							194 container 🟢 Text
+								195 container Vertical / None
+									196 container Spacer
+								197 container Horisontal / None
+								198 text Тексты ошибок: можно брать и использовать
+								199 container Horisontal / None
+								200 container Vertical / None
+									201 container Spacer
+						202 container Compare
+							203 container 🌀Status Widget/App
+								204 container 🟢 Image
+									205 container .ImageRatio
+										206 container message-crack_lighting_m
+											207 image Img
+								208 container 🟢 Text
+									209 container Horisontal / None
+										210 container Spacer
+									211 container Vertical / 500 [16]
+										212 container Spacer
+									213 text Чаты не загрузились
+									214 container Vertical / 500 [16]
+										215 container Spacer
+									216 container Horisontal / None
+										217 container Spacer
+								218 container 🟢 Text
+									219 container Horisontal / None
+										220 container Spacer
+									221 container Vertical / 500 [16]
+										222 container Spacer
+									223 text Обновите страницу или зайдите позже
+									224 container Vertical / 500 [16]
+										225 container Spacer
+									226 container Horisontal / None
+										227 container Spacer
+								228 container Кнопки, 32 px
+									229 container 🟢 Button
+										230 text Обновить
+							231 container 🟢 Text
+								232 container Vertical / None
+									233 container Spacer
+								234 container Horisontal / None
+								235 text Не загрузился чат
+								236 container Horisontal / None
+								237 container Vertical / None
+									238 container Spacer
+						239 container Compare
+							240 container 🌀Status Widget/App
+								241 container 🟢 Image
+									242 container .ImageRatio
+										243 container message-crack_lighting_m
+											244 image Img
+								245 container 🟢 Text
+									246 container Horisontal / None
+										247 container Spacer
+									248 container Vertical / 500 [16]
+										249 container Spacer
+									250 text Не удалось загрузить новые сообщения
+									251 container Vertical / 500 [16]
+										252 container Spacer
+									253 container Horisontal / None
+										254 container Spacer
+								255 container Кнопки, 32 px
+									256 container 🟢 Button
+										257 text Обновить
+							258 container 🟢 Text
+								259 container Vertical / None
+									260 container Spacer
+								261 container Horisontal / None
+								262 text Не загрузились новые сообщения
+								263 container Horisontal / None
+								264 container Vertical / None
+									265 container Spacer
+						266 container Compare
+							267 container 🌀Status Widget/App
+								268 container 🟢 Image
+									269 container .ImageRatio
+										270 container message-crack_lighting_m
+											271 image Img
+								272 container 🟢 Text
+									273 container Horisontal / None
+										274 container Spacer
+									275 container Vertical / 500 [16]
+										276 container Spacer
+									277 text Не удалось загрузить сообщение
+									278 container Vertical / 500 [16]
+										279 container Spacer
+									280 container Horisontal / None
+										281 container Spacer
+								282 container Кнопки, 32 px
+									283 container 🟢 Button
+										284 text Обновить
+							285 container 🟢 Text
+								286 container Vertical / None
+									287 container Spacer
+								288 container Horisontal / None
+								289 text Ошибка отображения сообщения
+								290 container Horisontal / None
+								291 container Vertical / None
+									292 container Spacer
+						293 container Compare
+							294 container 🌀Status Widget/App
+								295 container 🟢 Image
+									296 container .ImageRatio
+										297 container wifi-off_m
+											298 image Img
+								299 container 🟢 Text
+									300 container Horisontal / None
+										301 container Spacer
+									302 container Vertical / 500 [16]
+										303 container Spacer
+									304 text Нет доступа к интернету
+									305 container Vertical / 500 [16]
+										306 container Spacer
+									307 container Horisontal / None
+										308 container Spacer
+								309 container Кнопки, 32 px
+									310 container 🟢 Button
+										311 text Отправить ещё раз
+							312 container 🟢 Text
+								313 container Vertical / None
+									314 container Spacer
+								315 container Horisontal / None
+								316 text Ошибка отправки сообщения
+								317 container Horisontal / None
+								318 container Vertical / None
+									319 container Spacer
+						320 container Compare
+							321 container 🌀Status Widget/App
+								322 container 🟢 Image
+									323 container .ImageRatio
+										324 container sign-warning_m
+											325 image Img
+								326 container 🟢 Text
+									327 container Horisontal / None
+										328 container Spacer
+									329 container Vertical / 500 [16]
+										330 container Spacer
+									331 text Что-то не так, попробуйте ещё раз
+									332 container Vertical / 500 [16]
+										333 container Spacer
+									334 container Horisontal / None
+										335 container Spacer
+							336 container 🟢 Text
+								337 container Vertical / None
+									338 container Spacer
+								339 container Horisontal / None
+								340 text Ошибка при нажатии кнопки бота
+								341 container Horisontal / None
+								342 container Vertical / None
+									343 container Spacer
+						344 container Compare
+							345 container 🌀Status Widget/App
+								346 container 🟢 Image
+									347 container .ImageRatio
+										348 container wifi-off_m
+											349 image Img
+								350 container 🟢 Text
+									351 container Horisontal / None
+										352 container Spacer
+									353 container Vertical / 500 [16]
+										354 container Spacer
+									355 text Нет интернета
+									356 container Vertical / 500 [16]
+										357 container Spacer
+									358 container Horisontal / None
+										359 container Spacer
+								360 container 🟢 Text
+									361 container Horisontal / None
+										362 container Spacer
+									363 container Vertical / 500 [16]
+										364 container Spacer
+									365 text Обновите страницу
+									366 container Vertical / 500 [16]
+										367 container Spacer
+									368 container Horisontal / None
+										369 container Spacer
+								370 container Кнопки, 32 px
+									371 container 🟢 Button
+										372 text Обновить
+							373 container 🟢 Text
+								374 container Vertical / None
+									375 container Spacer
+								376 container Horisontal / None
+								377 text Сообщение не грузится
+								378 container Horisontal / None
+								379 container Vertical / None
+									380 container Spacer
+						381 container Compare
+							382 container 🌀Status Widget/App
+								383 container 🟢 Image
+									384 container .ImageRatio
+										385 container wifi-off_m
+											386 image Img
+								387 container 🟢 Text
+									388 container Horisontal / None
+										389 container Spacer
+									390 container Vertical / 500 [16]
+										391 container Spacer
+									392 text Нет интернета
+									393 container Vertical / 500 [16]
+										394 container Spacer
+									395 container Horisontal / None
+										396 container Spacer
+								397 container Кнопки, 32 px
+									398 container 🟢 Button
+										399 text Обновить
+							400 container 🟢 Text
+								401 container Vertical / None
+									402 container Spacer
+								403 container Horisontal / None
+								404 text Список чатов, моргнул инет
+								405 container Horisontal / None
+								406 container Vertical / None
+									407 container Spacer
+						408 container Compare
+							409 container 🌀Status Widget/App
+								410 container 🟢 Image
+									411 container .ImageRatio
+										412 container sign-warning_m
+											413 image Img
+								414 container 🟢 Text
+									415 container Horisontal / None
+										416 container Spacer
+									417 container Vertical / 500 [16]
+										418 container Spacer
+									419 text Что-то пошло не так
+									420 container Vertical / 500 [16]
+										421 container Spacer
+									422 container Horisontal / None
+										423 container Spacer
+								424 container 🟢 Text
+									425 container Horisontal / None
+										426 container Spacer
+									427 container Vertical / 500 [16]
+										428 container Spacer
+									429 text Отправьте отзыв ещё раз
+									430 container Vertical / 500 [16]
+										431 container Spacer
+									432 container Horisontal / None
+										433 container Spacer
+								434 container Кнопки, 32 px
+									435 container 🟢 Button
+										436 text Отправить
+							437 container 🟢 Text
+								438 container Vertical / None
+									439 container Spacer
+								440 container Horisontal / None
+								441 text Ошибка отправки отзыва
+								442 container Horisontal / None
+								443 container Vertical / None
+									444 container Spacer
+						445 container Compare
+							446 container 🌀Status Widget/App
+								447 container 🟢 Image
+									448 container .ImageRatio
+										449 container message-crack_lighting_m
+											450 image Img
+								451 container 🟢 Text
+									452 container Horisontal / None
+										453 container Spacer
+									454 container Vertical / 500 [16]
+										455 container Spacer
+									456 text Не удалось загрузить сообщение
+									457 container Vertical / 500 [16]
+										458 container Spacer
+									459 container Horisontal / None
+										460 container Spacer
+								461 container Кнопки, 32 px
+									462 container 🟢 Button
+										463 text Повторить
+							464 container 🟢 Text
+								465 container Vertical / None
+									466 container Spacer
+								467 container Horisontal / None
+								468 text Ошибка отображения сообщения
+								469 container Horisontal / None
+								470 container Vertical / None
+									471 container Spacer
+						472 container Compare
+							473 container 🌀Status Widget/App
+								474 container 🟢 Image
+									475 container .ImageRatio
+										476 container sign-error_m
+											477 image Img
+								478 container 🟢 Text
+									479 container Horisontal / None
+										480 container Spacer
+									481 container Vertical / 500 [16]
+										482 container Spacer
+									483 text Нельзя отправлять ссылки на другие ресурсы
+									484 container Vertical / 500 [16]
+										485 container Spacer
+									486 container Horisontal / None
+										487 container Spacer
+							488 container 🟢 Text
+								489 container Vertical / None
+									490 container Spacer
+								491 container Horisontal / None
+								492 text Ссылка на сторонний ресурс
+								493 container Horisontal / None
+								494 container Vertical / None
+									495 container Spacer
+						496 container Compare
+							497 container 🌀Status Widget/App
+								498 container 🟢 Image
+									499 container .ImageRatio
+										500 container message-crack_lighting-pink_m
+											501 image Img
+								502 container 🟢 Text
+									503 container Horisontal / None
+										504 container Spacer
+									505 container Vertical / 500 [16]
+										506 container Spacer
+									507 text Что-то пошло не так
+									508 container Vertical / 500 [16]
+										509 container Spacer
+									510 container Horisontal / None
+										511 container Spacer
+								512 container 🟢 Text
+									513 container Horisontal / None
+										514 container Spacer
+									515 container Vertical / 500 [16]
+										516 container Spacer
+									517 text Чаты не загрузились, попробуйте обновить страницу
+									518 container Vertical / 500 [16]
+										519 container Spacer
+									520 container Horisontal / None
+										521 container Spacer
+								522 container Кнопки, 32 px
+									523 container 🟢 Button
+										524 text Обновить
+							525 container 🟢 Text
+								526 container Vertical / None
+									527 container Spacer
+								528 container Horisontal / None
+								529 text Не знаем, в чём причина, но чаты не загрузились
+								530 container Horisontal / None
+								531 container Vertical / None
+									532 container Spacer
+						533 container Compare
+							534 container 🌀Status Widget/App
+								535 container 🟢 Image
+									536 container .ImageRatio
+										537 container wifi-off_m
+											538 image Img
+								539 container 🟢 Text
+									540 container Horisontal / None
+										541 container Spacer
+									542 container Vertical / 500 [16]
+										543 container Spacer
+									544 text Что-то с интернетом
+									545 container Vertical / 500 [16]
+										546 container Spacer
+									547 container Horisontal / None
+										548 container Spacer
+								549 container 🟢 Text
+									550 container Horisontal / None
+										551 container Spacer
+									552 container Vertical / 500 [16]
+										553 container Spacer
+									554 text Выключите VPN или перезагрузите роутер. А ещё помогает включить и выключить авиарежим
+									555 container Vertical / 500 [16]
+										556 container Spacer
+									557 container Horisontal / None
+										558 container Spacer
+								559 container Кнопки, 32 px
+									560 container 🟢 Button
+										561 text Попробую
+							562 container 🟢 Text
+								563 container Vertical / None
+									564 container Spacer
+								565 container Horisontal / None
+								566 text Нет интернета, предполагаем, что дело в VPN
+								567 container Horisontal / None
+								568 container Vertical / None
+									569 container Spacer
+						570 container Compare
+							571 container 🌀Status Widget/App
+								572 container 🟢 Image
+									573 container .ImageRatio
+										574 container wifi-off_m
+											575 image Img
+								576 container 🟢 Text
+									577 container Horisontal / None
+										578 container Spacer
+									579 container Vertical / 500 [16]
+										580 container Spacer
+									581 text Технические неполадки
+									582 container Vertical / 500 [16]
+										583 container Spacer
+									584 container Horisontal / None
+										585 container Spacer
+								586 container 🟢 Text
+									587 container Horisontal / None
+										588 container Spacer
+									589 container Vertical / 500 [16]
+										590 container Spacer
+									591 text Это временно. Скоро всё наладим
+									592 container Vertical / 500 [16]
+										593 container Spacer
+									594 container Horisontal / None
+										595 container Spacer
+							596 container 🟢 Text
+								597 container Vertical / None
+									598 container Spacer
+								599 container Horisontal / None
+								600 text Непонятные проблемы, нужно успокоить пользователя
+								601 container Horisontal / None
+								602 container Vertical / None
+									603 container Spacer
+						604 container Compare
+							605 container 🌀Status Widget/App
+								606 container 🟢 Image
+									607 container .ImageRatio
+										608 container watch-blue_m
+											609 image Img
+								610 container 🟢 Text
+									611 container Horisontal / None
+										612 container Spacer
+									613 container Vertical / 500 [16]
+										614 container Spacer
+									615 text Заказы пока не принимаем
+									616 container Vertical / 500 [16]
+										617 container Spacer
+									618 container Horisontal / None
+										619 container Spacer
+								620 container 🟢 Text
+									621 container Horisontal / None
+										622 container Spacer
+									623 container Vertical / 500 [16]
+										624 container Spacer
+									625 text Это временно, скоро всё наладим
+									626 container Vertical / 500 [16]
+										627 container Spacer
+									628 container Horisontal / None
+										629 container Spacer
+							630 container 🟢 Text
+								631 container Vertical / None
+									632 container Spacer
+								633 container Horisontal / None
+								634 text Технические проблемы, не можем принимать заказы
+								635 container Horisontal / None
+								636 container Vertical / None
+									637 container Spacer
+						638 container Compare
+							639 container 🌀Status Widget/App
+								640 container 🟢 Image
+									641 container .ImageRatio
+										642 container сhar_fast-delivery-courier-delay_m
+											643 image Img
+								644 container 🟢 Text
+									645 container Horisontal / None
+										646 container Spacer
+									647 container Vertical / 500 [16]
+										648 container Spacer
+									649 text Пока без быстрой доставки
+									650 container Vertical / 500 [16]
+										651 container Spacer
+									652 container Horisontal / None
+										653 container Spacer
+								654 container 🟢 Text
+									655 container Horisontal / None
+										656 container Spacer
+									657 container Vertical / 500 [16]
+										658 container Spacer
+									659 text Но можно заказать ко времени
+									660 container Vertical / 500 [16]
+										661 container Spacer
+									662 container Horisontal / None
+										663 container Spacer
+							664 container 🟢 Text
+								665 container Vertical / None
+									666 container Spacer
+								667 container Horisontal / None
+								668 text Не принимаем заказы на быструю доставку
+								669 container Horisontal / None
+								670 container Vertical / None
+									671 container Spacer
+						672 container Compare
+							673 container 🌀Status Widget/App
+								674 container 🟢 Image
+									675 container .ImageRatio
+										676 container сhar_fast-delivery-courier-delay_m
+											677 image Img
+								678 container 🟢 Text
+									679 container Horisontal / None
+										680 container Spacer
+									681 container Vertical / 500 [16]
+										682 container Spacer
+									683 text Доставка может задержаться
+									684 container Vertical / 500 [16]
+										685 container Spacer
+									686 container Horisontal / None
+										687 container Spacer
+								688 container 🟢 Text
+									689 container Horisontal / None
+										690 container Spacer
+									691 container Vertical / 500 [16]
+										692 container Spacer
+									693 text Делаем всё, чтобы успеть вовремя
+									694 container Vertical / 500 [16]
+										695 container Spacer
+									696 container Horisontal / None
+										697 container Spacer
+							698 container 🟢 Text
+								699 container Vertical / None
+									700 container Spacer
+								701 container Horisontal / None
+								702 text Доставка задерживается, немного извиняемся
+								703 container Horisontal / None
+								704 container Vertical / None
+									705 container Spacer
+						706 container Compare
+							707 container 🌀Status Widget/App
+								708 container 🟢 Image
+									709 container .ImageRatio
+										710 container сhar_fast-delivery-courier-delay_m
+											711 image Img
+								712 container 🟢 Text
+									713 container Horisontal / None
+										714 container Spacer
+									715 container Vertical / 500 [16]
+										716 container Spacer
+									717 text Пока без быстрой доставки
+									718 container Vertical / 500 [16]
+										719 container Spacer
+									720 container Horisontal / None
+										721 container Spacer
+								722 container 🟢 Text
+									723 container Horisontal / None
+										724 container Spacer
+									725 container Vertical / 500 [16]
+										726 container Spacer
+									727 text Погода бушует, курьерам нужно больше времени
+									728 container Vertical / 500 [16]
+										729 container Spacer
+									730 container Horisontal / None
+										731 container Spacer
+							732 container 🟢 Text
+								733 container Vertical / None
+									734 container Spacer
+								735 container Horisontal / None
+								736 text Плохая погода, экспресс-доставка недоступна
+								737 container Horisontal / None
+								738 container Vertical / None
+									739 container Spacer
+						740 container Compare
+							741 container 🌀Status Widget/App
+								742 container 🟢 Image
+									743 container .ImageRatio
+										744 container snowflake-blue_m
+											745 image Img
+								746 container 🟢 Text
+									747 container Horisontal / None
+										748 container Spacer
+									749 container Vertical / 500 [16]
+										750 container Spacer
+									751 text Пока без быстрой доставки
+									752 container Vertical / 500 [16]
+										753 container Spacer
+									754 container Horisontal / None
+										755 container Spacer
+								756 container 🟢 Text
+									757 container Horisontal / None
+										758 container Spacer
+									759 container Vertical / 500 [16]
+										760 container Spacer
+									761 text Всё засыпало снегом, курьерам нужно больше времени
+									762 container Vertical / 500 [16]
+										763 container Spacer
+									764 container Horisontal / None
+										765 container Spacer
+							766 container 🟢 Text
+								767 container Vertical / None
+									768 container Spacer
+								769 container Horisontal / None
+								770 text Снег, экспресс-доставка недоступна
+								771 container Horisontal / None
+								772 container Vertical / None
+									773 container Spacer
+						774 container Compare
+							775 container 🌀Status Widget/App
+								776 container 🟢 Image
+									777 container .ImageRatio
+										778 container cloud-rain-snowflake_m
+											779 image Img
+								780 container 🟢 Text
+									781 container Horisontal / None
+										782 container Spacer
+									783 container Vertical / 500 [16]
+										784 container Spacer
+									785 text Доставка может задержаться
+									786 container Vertical / 500 [16]
+										787 container Spacer
+									788 container Horisontal / None
+										789 container Spacer
+								790 container 🟢 Text
+									791 container Horisontal / None
+										792 container Spacer
+									793 container Vertical / 500 [16]
+										794 container Spacer
+									795 text Льёт как из ведра, курьерам нужно больше времени
+									796 container Vertical / 500 [16]
+										797 container Spacer
+									798 container Horisontal / None
+										799 container Spacer
+							800 container 🟢 Text
+								801 container Vertical / None
+									802 container Spacer
+								803 container Horisontal / None
+								804 text Ливень, доставка задерживается
+								805 container Horisontal / None
+								806 container Vertical / None
+									807 container Spacer
+						808 container Compare
+							809 container 🌀Status Widget/App
+								810 container 🟢 Image
+									811 container .ImageRatio
+										812 container snowflake-blue_m
+											813 image Img
+								814 container 🟢 Text
+									815 container Horisontal / None
+										816 container Spacer
+									817 container Vertical / 500 [16]
+										818 container Spacer
+									819 text Доставка может задержаться
+									820 container Vertical / 500 [16]
+										821 container Spacer
+									822 container Horisontal / None
+										823 container Spacer
+								824 container 🟢 Text
+									825 container Horisontal / None
+										826 container Spacer
+									827 container Vertical / 500 [16]
+										828 container Spacer
+									829 text На дорогах гололёд, курьерам нужно больше времени
+									830 container Vertical / 500 [16]
+										831 container Spacer
+									832 container Horisontal / None
+										833 container Spacer
+							834 container 🟢 Text
+								835 container Vertical / None
+									836 container Spacer
+								837 container Horisontal / None
+								838 text Гололёд, доставка задерживается
+								839 container Horisontal / None
+								840 container Vertical / None
+									841 container Spacer
+						842 container Compare
+							843 container 🌀Status Widget/App
+								844 container 🟢 Image
+									845 container .ImageRatio
+										846 container car-front-pink_m
+											847 image Img
+								848 container 🟢 Text
+									849 container Horisontal / None
+										850 container Spacer
+									851 container Vertical / 500 [16]
+										852 container Spacer
+									853 text Пока без быстрой доставки
+									854 container Vertical / 500 [16]
+										855 container Spacer
+									856 container Horisontal / None
+										857 container Spacer
+								858 container 🟢 Text
+									859 container Horisontal / None
+										860 container Spacer
+									861 container Vertical / 500 [16]
+										862 container Spacer
+									863 text На дорогах пробки, едем обходными путями
+									864 container Vertical / 500 [16]
+										865 container Spacer
+									866 container Horisontal / None
+										867 container Spacer
+							868 container 🟢 Text
+								869 container Vertical / None
+									870 container Spacer
+								871 container Horisontal / None
+								872 text Пробки и перекрытие дорог, экспресс-доставка недоступна
+								873 container Horisontal / None
+								874 container Vertical / None
+									875 container Spacer
+						876 container Compare
+							877 container 🌀Status Widget/App
+								878 container 🟢 Image
+									879 container .ImageRatio
+										880 container car-front-pink_m
+											881 image Img
+								882 container 🟢 Text
+									883 container Horisontal / None
+										884 container Spacer
+									885 container Vertical / 500 [16]
+										886 container Spacer
+									887 text Доставка может задержаться
+									888 container Vertical / 500 [16]
+										889 container Spacer
+									890 container Horisontal / None
+										891 container Spacer
+								892 container 🟢 Text
+									893 container Horisontal / None
+										894 container Spacer
+									895 container Vertical / 500 [16]
+										896 container Spacer
+									897 text Дороги перекрыли, едем обходными путями
+									898 container Vertical / 500 [16]
+										899 container Spacer
+									900 container Horisontal / None
+										901 container Spacer
+							902 container 🟢 Text
+								903 container Vertical / None
+									904 container Spacer
+								905 container Horisontal / None
+								906 text Пробки и перекрытие дорог, доставка задерживается 
+								907 container Horisontal / None
+								908 container Vertical / None
+									909 container Spacer
+						910 container Compare
+							911 container 🌀Status Widget/App
+								912 container 🟢 Image
+									913 container .ImageRatio
+										914 container sign-warning_m
+											915 image Img
+								916 container 🟢 Text
+									917 container Horisontal / None
+										918 container Spacer
+									919 container Vertical / 500 [16]
+										920 container Spacer
+									921 text Что-то пошло не так
+									922 container Vertical / 500 [16]
+										923 container Spacer
+									924 container Horisontal / None
+										925 container Spacer
+								926 container 🟢 Text
+									927 container Horisontal / None
+										928 container Spacer
+									929 container Vertical / 500 [16]
+										930 container Spacer
+									931 text Обновите страницу или зайдите позже
+									932 container Vertical / 500 [16]
+										933 container Spacer
+									934 container Horisontal / None
+										935 container Spacer
+								936 container Кнопки, 32 px
+									937 container 🟢 Button
+										938 text Обновить
+							939 container 🟢 Text
+								940 container Vertical / None
+									941 container Spacer
+								942 container Horisontal / None
+								943 text Не знаем, в чём причина, но ничего не грузит
+								944 container Horisontal / None
+								945 container Vertical / None
+									946 container Spacer
+					947 container Ошибки
+						948 container Title&Subtitle
+							949 container 🟢 Text
+								950 container Vertical / None
+									951 container Spacer
+								952 container Horisontal / None
+								953 text Ошибки
+								954 container Horisontal / None
+								955 container Vertical / None
+									956 container Spacer
+							957 container 🟢 Text
+								958 container Vertical / None
+									959 container Spacer
+								960 container Horisontal / None
+								961 container
+									962 text Больше информации про ошибки читайте в 
+									963 link Description: статье на Хабре, Value: habr.com/ru/companies/ozontech/articles/753022/
+									964 text . Экраны ошибок показывают, что что-то пошло не так. На таком экране пользователю принято сообщать, что делать в этой ситуации. Ошибку можно считать разновидностью пустого состояния — пользователь куда-то шёл, но не дошёл из-за обстоятельств непреодолимой силы.
+								965 container Horisontal / None
+								966 container Vertical / None
+									967 container Spacer
+						968 container Title&Subtitle
+							969 container 🟢 Text
+								970 container Vertical / None
+									971 container Spacer
+								972 container Horisontal / None
+								973 text Как писать тексты про ошибки
+								974 container Horisontal / None
+								975 container Vertical / None
+									976 container Spacer
+						977 container Title&Subtitle
+							978 container 🟢 Icon
+								979 text 1
+							980 container 🟢 Text
+								981 container Vertical / None
+									982 container Spacer
+								983 container Horisontal / None
+								984 text Объясните пользователю, что произошло
+								985 container Horisontal / None
+								986 container Vertical / None
+									987 container Spacer
+							988 container 🟢 Text
+								989 container Vertical / None
+									990 container Spacer
+								991 container Horisontal / None
+								992 text По возможности расскажите, в чём проблема.
+								993 container Horisontal / None
+								994 container Vertical / None
+									995 container Spacer
+						996 container Title&Subtitle
+							997 container 🟢 Icon
+								998 text 2
+							999 container 🟢 Text
+								1000 container Vertical / None
+									1001 container Spacer
+								1002 container Horisontal / None
+								1003 text Предложите решение, как исправить или что делать
+								1004 container Horisontal / None
+								1005 container Vertical / None
+									1006 container Spacer
+							1007 container 🟢 Text
+								1008 container Vertical / None
+									1009 container Spacer
+								1010 container Horisontal / None
+								1011 text Если это не исказит смысл, постарайтесь придерживаться правила «Стакан UX-редактора всегда наполовину полон» — превращайте негатив в позитив.
+								1012 container Horisontal / None
+								1013 container Vertical / None
+									1014 container Spacer
+						1015 container ContentCompare
+							1016 container Compare
+								1017 container 🌀Status Widget/App
+									1018 container 🟢 Image
+										1019 container .ImageRatio
+											1020 container sign-warning_m
+												1021 image Img
+									1022 container 🟢 Text
+										1023 container Horisontal / None
+											1024 container Spacer
+										1025 container Vertical / 500 [16]
+											1026 container Spacer
+										1027 text Введите корректный телефон
+										1028 container Vertical / 500 [16]
+											1029 container Spacer
+										1030 container Horisontal / None
+											1031 container Spacer
+							1032 container Compare
+								1033 container 🌀Status Widget/App
+									1034 container 🟢 Image
+										1035 container .ImageRatio
+											1036 container sign-warning_m
+												1037 image Img
+									1038 container 🟢 Text
+										1039 container Horisontal / None
+											1040 container Spacer
+										1041 container Vertical / 500 [16]
+											1042 container Spacer
+										1043 text Неправильно введен телефон
+										1044 container Vertical / 500 [16]
+											1045 container Spacer
+										1046 container Horisontal / None
+											1047 container Spacer
+						1048 container ContentCompare
+							1049 container Compare
+								1050 container 🌀Status Widget/App
+									1051 container 🟢 Image
+										1052 container .ImageRatio
+											1053 container sign-warning_m
+												1054 image Img
+									1055 container 🟢 Text
+										1056 container Horisontal / None
+											1057 container Spacer
+										1058 container Vertical / 500 [16]
+											1059 container Spacer
+										1060 text Измените цену, чтобы отправить товар
+										1061 container Vertical / 500 [16]
+											1062 container Spacer
+										1063 container Horisontal / None
+											1064 container Spacer
+							1065 container Compare
+								1066 container 🌀Status Widget/App
+									1067 container 🟢 Image
+										1068 container .ImageRatio
+											1069 container sign-warning_m
+												1070 image Img
+									1071 container 🟢 Text
+										1072 container Horisontal / None
+											1073 container Spacer
+										1074 container Vertical / 500 [16]
+											1075 container Spacer
+										1076 text Доставка будет отменена
+										1077 container Vertical / 500 [16]
+											1078 container Spacer
+										1079 container Horisontal / None
+											1080 container Spacer
+						1081 container ContentCompare
+							1082 container Compare
+								1083 container 🌀Status Widget/App
+									1084 container 🟢 Image
+										1085 container .ImageRatio
+											1086 container sign-warning_m
+												1087 image Img
+									1088 container 🟢 Text
+										1089 container Horisontal / None
+											1090 container Spacer
+										1091 container Vertical / 500 [16]
+											1092 container Spacer
+										1093 text Товары доступны только для физических лиц
+										1094 container Vertical / 500 [16]
+											1095 container Spacer
+										1096 container Horisontal / None
+											1097 container Spacer
+							1098 container Compare
+								1099 container 🌀Status Widget/App
+									1100 container 🟢 Image
+										1101 container .ImageRatio
+											1102 container sign-warning_m
+												1103 image Img
+									1104 container 🟢 Text
+										1105 container Horisontal / None
+											1106 container Spacer
+										1107 container Vertical / 500 [16]
+											1108 container Spacer
+										1109 text Эти товары недоступны для юридических лиц
+										1110 container Vertical / 500 [16]
+											1111 container Spacer
+										1112 container Horisontal / None
+											1113 container Spacer
+						1114 container Title&Subtitle
+							1115 container 🟢 Icon
+								1116 text 3
+							1117 container 🟢 Text
+								1118 container Vertical / None
+									1119 container Spacer
+								1120 container Horisontal / None
+								1121 text Не превращайте текст ошибки в ребус
+								1122 container Horisontal / None
+								1123 container Vertical / None
+									1124 container Spacer
+							1125 container 🟢 Text
+								1126 container Vertical / None
+									1127 container Spacer
+								1128 container Horisontal / None
+								1129 text Сообщение должно быть коротким, понятным и чётким, без возможных разночтений.
+								1130 container Horisontal / None
+								1131 container Vertical / None
+									1132 container Spacer
+						1133 container Title&Subtitle
+							1134 container 🟢 Icon
+								1135 text 4
+							1136 container 🟢 Text
+								1137 container Vertical / None
+									1138 container Spacer
+								1139 container Horisontal / None
+								1140 text Следите за консистентностью аналогичных сообщений
+								1141 container Horisontal / None
+								1142 container Vertical / None
+									1143 container Spacer
+							1144 container 🟢 Text
+								1145 container Vertical / None
+									1146 container Spacer
+								1147 container Horisontal / None
+								1148 container
+									1149 text Допустим, мы везде пишем: «Не можем привезти сюда эти товары». В таком случае не стоит писать в похожем кейсе «Данные товары невозможно доставить в этот пункт выдачи».  Если писать об одном и том же обстоятельстве в ошибках по-разному, пользователю будет сложно: ему каждый раз придётся вникать.
+								1150 container Horisontal / None
+								1151 container Vertical / None
+									1152 container Spacer
+						1153 container Title&Subtitle
+							1154 container 🟢 Icon
+								1155 container ic_s_danger_filled
+							1156 container 🟢 Text
+								1157 container Vertical / None
+									1158 container Spacer
+								1159 container Horisontal / None
+								1160 text Маленькая деталь
+								1161 container Horisontal / None
+								1162 container Vertical / None
+									1163 container Spacer
+							1164 container 🟢 Text
+								1165 container Vertical / None
+									1166 container Spacer
+								1167 container Horisontal / None
+								1168 container
+									1169 text Если ошибка возникает в случае, когда мы вообще такого никогда не делаем, используйте формулу «Мы не привозим Х cюда».  Если мы не делаем что-то только по обстоятельствам, но в принципе можем, напишите «Не можем привезти Х сюда».  Это просто работает 🙂
+								1170 container Horisontal / None
+								1171 container Vertical / None
+									1172 container Spacer
+						1173 container Title&Subtitle
+							1174 container 🟢 Text
+								1175 container Vertical / None
+									1176 container Spacer
+								1177 container Horisontal / None
+								1178 text Ошибки: не надо так
+								1179 container Horisontal / None
+								1180 container Vertical / None
+									1181 container Spacer
+						1182 container Title&Subtitle
+							1183 container 🟢 Icon
+								1184 text 1
+							1185 container 🟢 Text
+								1186 container Vertical / None
+									1187 container Spacer
+								1188 container Horisontal / None
+								1189 text Недостаточно сказать, что произошла какая-то ошибка
+								1190 container Horisontal / None
+								1191 container Vertical / None
+									1192 container Spacer
+							1193 container 🟢 Text
+								1194 container Vertical / None
+									1195 container Spacer
+								1196 container Horisontal / None
+								1197 container
+									1198 text Нужно объяснить пользователю, что делать в такой ситуации. Если есть возможность, стоит рассказать, в чём конкретно проблема.
+								1199 container Horisontal / None
+								1200 container Vertical / None
+									1201 container Spacer
+						1202 container ContentCompare
+							1203 container Compare
+								1204 container 🌀Status Widget/App
+									1205 container 🟢 Image
+										1206 container .ImageRatio
+											1207 container wifi-off_m
+												1208 image Img
+									1209 container 🟢 Text
+										1210 container Horisontal / None
+											1211 container Spacer
+										1212 container Vertical / 500 [16]
+											1213 container Spacer
+										1214 text Проблемы с сетью
+										1215 container Vertical / 500 [16]
+											1216 container Spacer
+										1217 container Horisontal / None
+											1218 container Spacer
+									1219 container 🟢 Text
+										1220 container Horisontal / None
+											1221 container Spacer
+										1222 container Vertical / 500 [16]
+											1223 container Spacer
+										1224 text Такое происходит, когда включен VPN. Если он отключен, обновите страницу
+										1225 container Vertical / 500 [16]
+											1226 container Spacer
+										1227 container Horisontal / None
+											1228 container Spacer
+									1229 container Кнопки, 32 px
+										1230 container 🟢 Button
+											1231 text Обновить
+							1232 container Compare
+								1233 container 🌀Status Widget/App
+									1234 container 🟢 Image
+										1235 container .ImageRatio
+											1236 container wifi-off_m
+												1237 image Img
+									1238 container 🟢 Text
+										1239 container Horisontal / None
+											1240 container Spacer
+										1241 container Vertical / 500 [16]
+											1242 container Spacer
+										1243 text Что-то пошло не так
+										1244 container Vertical / 500 [16]
+											1245 container Spacer
+										1246 container Horisontal / None
+											1247 container Spacer
+									1248 container 🟢 Text
+										1249 container Horisontal / None
+											1250 container Spacer
+										1251 container Vertical / 500 [16]
+											1252 container Spacer
+										1253 text Техническая ошибка
+										1254 container Vertical / 500 [16]
+											1255 container Spacer
+										1256 container Horisontal / None
+											1257 container Spacer
+									1258 container Кнопки, 32 px
+										1259 container 🟢 Button
+											1260 text Обновить
+						1261 container Title&Subtitle
+							1262 container 🟢 Icon
+								1263 text 2
+							1264 container 🟢 Text
+								1265 container Vertical / None
+									1266 container Spacer
+								1267 container Horisontal / None
+								1268 text Если есть возможность, давайте полезные ссылки
+								1269 container Horisontal / None
+								1270 container Vertical / None
+									1271 container Spacer
+							1272 container 🟢 Text
+								1273 container Vertical / None
+									1274 container Spacer
+								1275 container Horisontal / None
+								1276 text Например, можно направить пользователя в службу поддержки, если нет других вариантов. Другое дело, что это повышает контактность, но тут уже приходится выбирать.
+								1277 container Horisontal / None
+								1278 container Vertical / None
+									1279 container Spacer
+						1280 container Title&Subtitle
+							1281 container 🟢 Icon
+								1282 text 3
+							1283 container 🟢 Text
+								1284 container Vertical / None
+									1285 container Spacer
+								1286 container Horisontal / None
+								1287 text Нет смысла просить пользователя проверить сеть
+								1288 container Horisontal / None
+								1289 container Vertical / None
+									1290 container Spacer
+							1291 container 🟢 Text
+								1292 container Vertical / None
+									1293 container Spacer
+								1294 container Horisontal / None
+								1295 text Большинство пользователей не понимают, как именно это сделать, в итоге всё равно жмут на «Обновить».
+								1296 container Horisontal / None
+								1297 container Vertical / None
+									1298 container Spacer
+						1299 container ContentCompare
+							1300 container Compare
+								1301 container 🌀Status Widget/App
+									1302 container 🟢 Image
+										1303 container .ImageRatio
+											1304 container wifi-off_m
+												1305 image Img
+									1306 container 🟢 Text
+										1307 container Horisontal / None
+											1308 container Spacer
+										1309 container Vertical / 500 [16]
+											1310 container Spacer
+										1311 text Нет интернета
+										1312 container Vertical / 500 [16]
+											1313 container Spacer
+										1314 container Horisontal / None
+											1315 container Spacer
+									1316 container Кнопки, 32 px
+										1317 container 🟢 Button
+											1318 text Обновить
+							1319 container Compare
+								1320 container 🌀Status Widget/App
+									1321 container 🟢 Image
+										1322 container .ImageRatio
+											1323 container wifi-off_m
+												1324 image Img
+									1325 container 🟢 Text
+										1326 container Horisontal / None
+											1327 container Spacer
+										1328 container Vertical / 500 [16]
+											1329 container Spacer
+										1330 text Ой, сеть пропала
+										1331 container Vertical / 500 [16]
+											1332 container Spacer
+										1333 container Horisontal / None
+											1334 container Spacer
+									1335 container 🟢 Text
+										1336 container Horisontal / None
+											1337 container Spacer
+										1338 container Vertical / 500 [16]
+											1339 container Spacer
+										1340 text Проверьте, есть ли сеть в телефоне, потому что без неё ничего не заработает
+										1341 container Vertical / 500 [16]
+											1342 container Spacer
+										1343 container Horisontal / None
+											1344 container Spacer
+									1345 container Кнопки, 32 px
+										1346 container 🟢 Button
+											1347 text Обновить
+						1348 container Title&Subtitle
+							1349 container 🟢 Icon
+								1350 text 4
+							1351 container 🟢 Text
+								1352 container Vertical / None
+									1353 container Spacer
+								1354 container Horisontal / None
+								1355 text Избегайте пассивного залога
+								1356 container Horisontal / None
+								1357 container Vertical / None
+									1358 container Spacer
+							1359 container 🟢 Text
+								1360 container Vertical / None
+									1361 container Spacer
+								1362 container Horisontal / None
+								1363 container
+									1364 text Это когда нет субъекта, который выполняет действие. Например, «Товары с экспресс-доставкой не доставляются в пункты выдачи и постаматы». Сразу хочется спросить: кем не доставляются?  Лучше добавить субъект, который делает или не делает действие — это звучит понятнее и дружелюбнее. «Мы не привозим товары с экспресс-доставкой в пункты выдачи и постаматы». В некоторых случаях «мы» можно не прописывать, если это подразумевается: «Не можем привезти Х сюда».
+								1365 container Horisontal / None
+								1366 container Vertical / None
+									1367 container Spacer
+						1368 container Title&Subtitle
+							1369 container 🟢 Icon
+								1370 text 5
+							1371 container 🟢 Text
+								1372 container Vertical / None
+									1373 container Spacer
+								1374 container Horisontal / None
+								1375 text Не используйте технический жаргон
+								1376 container Horisontal / None
+								1377 container Vertical / None
+									1378 container Spacer
+							1379 container 🟢 Text
+								1380 container Vertical / None
+									1381 container Spacer
+								1382 container Horisontal / None
+								1383 text Текст на экране должен быть понятен любым категориям пользователей.
+								1384 container Horisontal / None
+								1385 container Vertical / None
+									1386 container Spacer
+				156 container Pages
+					157 toolbar Stepper
+						158 button Previous frame
+							159 image
+						160 button Next frame
+							161 image
+					162 button Restart
+						163 image
+						164 text Restart
+
+The focused UI element is 165 container ✅ Ошибки

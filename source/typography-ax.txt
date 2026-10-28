@@ -1,0 +1,752 @@
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5877&scaling=min-zoom&starting-point-node-id=1%3A6116".
+1 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5877&scaling=min-zoom&starting-point-node-id=1%3A6116
+	2 container react-page
+		3 container
+			4 container Prototype controls
+			5 container
+				6 container ✅ Знаки
+					7 button ic_m_step_back_filled
+						8 container ic_m_step_back_filled
+					9 container Device Button
+						10 link ic_m_mobile_phone_filled
+							11 container ic_m_mobile_phone_filled
+					12 container
+						13 button 🟢 TagButtonCustom
+							14 container 🟢 TagButtonCustom
+								15 text Точка
+						16 button 🟢 TagButtonCustom
+							17 container 🟢 TagButtonCustom
+								18 text Минус
+						19 button 🟢 TagButtonCustom
+							20 container 🟢 TagButtonCustom
+								21 text Дефис и тире
+						22 button 🟢 TagButtonCustom
+							23 container 🟢 TagButtonCustom
+								24 text Знак рубля
+						25 button 🟢 TagButtonCustom
+							26 container 🟢 TagButtonCustom
+								27 text Кавычки
+						28 button 🟢 TagButtonCustom
+							29 container 🟢 TagButtonCustom
+								30 text Слеш
+						31 button 🟢 TagButtonCustom
+							32 container 🟢 TagButtonCustom
+								33 text Пробел
+						34 button 🟢 TagButtonCustom
+							35 container 🟢 TagButtonCustom
+								36 text Восклицательный знак
+						37 button 🟢 TagButtonCustom
+							38 container 🟢 TagButtonCustom
+								39 text Буква «ё»
+						40 button 🟢 TagButtonCustom
+							41 container 🟢 TagButtonCustom
+								42 text Капслок
+					43 link logo ozon blue
+					44 container Header Desk
+						45 container tag-three-violet_m
+							46 image Img
+						47 button ic_m_step_back_filled
+							48 container ic_m_step_back_filled
+						49 container Title&Subtitle
+							50 container 🟢 Text
+								51 container Vertical / None
+									52 container Spacer
+								53 container Horisontal / None
+								54 text Знаки
+								55 container Horisontal / None
+								56 container Vertical / None
+									57 container Spacer
+					58 container Знаки
+						59 container Title&Subtitle
+							60 container 🟢 Text
+								61 container Vertical / None
+									62 container Spacer
+								63 container Horisontal / None
+								64 text Капслок
+								65 container Horisontal / None
+								66 container Vertical / None
+									67 container Spacer
+							68 container 🟢 Text
+								69 container Vertical / None
+									70 container Spacer
+								71 container Horisontal / None
+								72 text Не пишем капслоком интерфейсные тексты, такие как письма, пуши и поп-апы. Из-за капслока текст выглядит кричащим и излишне эмоциональным.
+								73 container Horisontal / None
+								74 container Vertical / None
+									75 container Spacer
+						76 container ContentCompare
+							77 container 🟢 Text
+								78 container Vertical / None
+									79 container Spacer
+								80 container Horisontal / None
+								81 text Спасибо за чаевые! Курьер будет рад
+								82 container Horisontal / None
+								83 container Vertical / None
+									84 container Spacer
+							85 container 🟢 Text
+								86 container Vertical / None
+									87 container Spacer
+								88 container Horisontal / None
+								89 text Спасибо за чаевые! Курьер будет рад
+								90 container Horisontal / None
+								91 container Vertical / None
+									92 container Spacer
+						93 container Title&Subtitle
+							94 container 🟢 Text
+								95 container Vertical / None
+									96 container Spacer
+								97 container Horisontal / None
+								98 text При этом капслоком можно набирать некоторые форматы, например, бейджи. Но только если это необходимо с точки зрения визуального оформления или общего стиля.
+								99 container Horisontal / None
+								100 container Vertical / None
+									101 container Spacer
+					102 container Знаки
+						103 container Title&Subtitle
+							104 container 🟢 Text
+								105 container Vertical / None
+									106 container Spacer
+								107 container Horisontal / None
+								108 text Буква «ё»
+								109 container Horisontal / None
+								110 container Vertical / None
+									111 container Spacer
+							112 container 🟢 Text
+								113 container Vertical / None
+									114 container Spacer
+								115 container Horisontal / None
+								116 text Пишем букву «ё» везде, где она есть.
+								117 container Horisontal / None
+								118 container Vertical / None
+									119 container Spacer
+						120 container ContentCompare
+							121 container 🟢 Text
+								122 container Vertical / None
+									123 container Spacer
+								124 container Horisontal / None
+								125 text Ёлка
+								126 container Horisontal / None
+								127 container Vertical / None
+									128 container Spacer
+							129 container 🟢 Text
+								130 container Vertical / None
+									131 container Spacer
+								132 container Horisontal / None
+								133 text Елка
+								134 container Horisontal / None
+								135 container Vertical / None
+									136 container Spacer
+					137 container Знаки
+						138 container Title&Subtitle
+							139 container 🟢 Text
+								140 container Vertical / None
+									141 container Spacer
+								142 container Horisontal / None
+								143 text Восклицательный знак
+								144 container Horisontal / None
+								145 container Vertical / None
+									146 container Spacer
+							147 container 🟢 Text
+								148 container Vertical / None
+									149 container Spacer
+								150 container Horisontal / None
+								151 text Если в тексте много восклицательных знаков, он выглядит истеричным и кричащим. Мы применяем восклицательный знак только там, где это соответствует тональности: в поздравлении, благодарности, приветствии, пожелании.
+								152 container Horisontal / None
+								153 container Vertical / None
+									154 container Spacer
+						155 container ContentCompare
+							156 container 🟢 Text
+								157 container Vertical / None
+									158 container Spacer
+								159 container Horisontal / None
+								160 container
+									161 text Здравствуйте! Поздравляем! Спасибо!
+								162 container Horisontal / None
+								163 container Vertical / None
+									164 container Spacer
+							165 container 🟢 Text
+								166 container Vertical / None
+									167 container Spacer
+								168 container Horisontal / None
+								169 container
+									170 text Новый пароль! Товар в корзине! Заказ отменён!
+								171 container Horisontal / None
+								172 container Vertical / None
+									173 container Spacer
+						174 container Title&Subtitle
+							175 container 🟢 Text
+								176 container Vertical / None
+									177 container Spacer
+								178 container Horisontal / None
+								179 text В конце предложения может быть только один восклицательный знак.
+								180 container Horisontal / None
+								181 container Vertical / None
+									182 container Spacer
+						183 container ContentCompare
+							184 container 🟢 Text
+								185 container Vertical / None
+									186 container Spacer
+								187 container Horisontal / None
+								188 text Поздравляем!
+								189 container Horisontal / None
+								190 container Vertical / None
+									191 container Spacer
+							192 container 🟢 Text
+								193 container Vertical / None
+									194 container Spacer
+								195 container Horisontal / None
+								196 text Поздравляем!!!
+								197 container Horisontal / None
+								198 container Vertical / None
+									199 container Spacer
+						200 container Title&Subtitle
+							201 container 🟢 Text
+								202 container Vertical / None
+									203 container Spacer
+								204 container Horisontal / None
+								205 text В соседних предложениях нельзя размещать восклицательные знаки.
+								206 container Horisontal / None
+								207 container Vertical / None
+									208 container Spacer
+						209 container ContentCompare
+							210 container 🟢 Text
+								211 container Vertical / None
+									212 container Spacer
+								213 container Horisontal / None
+								214 text Спасибо за чаевые! Курьер будет рад
+								215 container Horisontal / None
+								216 container Vertical / None
+									217 container Spacer
+							218 container 🟢 Text
+								219 container Vertical / None
+									220 container Spacer
+								221 container Horisontal / None
+								222 text Спасибо за чаевые! Курьер будет рад!
+								223 container Horisontal / None
+								224 container Vertical / None
+									225 container Spacer
+					226 container Знаки
+						227 container Title&Subtitle
+							228 container 🟢 Text
+								229 container Vertical / None
+									230 container Spacer
+								231 container Horisontal / None
+								232 text Пробел
+								233 container Horisontal / None
+								234 container Vertical / None
+									235 container Spacer
+						236 container Title&Subtitle
+							237 container 🟢 Text
+								238 container Vertical / None
+									239 container Spacer
+								240 container Horisontal / None
+								241 text Неразрывный пробел
+								242 container Horisontal / None
+								243 container Vertical / None
+									244 container Spacer
+							245 container 🟢 Text
+								246 container Vertical / None
+									247 container Spacer
+								248 container Horisontal / None
+								249 container
+									250 text Используем после предлогов, союзов, местоимений, междометий и чисел. Это позволяет избежать «висяков». Как ставить неразрывный пробел: Option + Space (пробел).
+								251 container Horisontal / None
+								252 container Vertical / None
+									253 container Spacer
+						254 container ContentCompare
+							255 container 🟢 Text
+								256 container Vertical / None
+									257 container Spacer
+								258 container Horisontal / None
+								259 text За висячими предлогами, союзами и местоимениями нужно следить
+								260 container Horisontal / None
+								261 container Vertical / None
+									262 container Spacer
+							263 container 🟢 Text
+								264 container Vertical / None
+									265 container Spacer
+								266 container Horisontal / None
+								267 container
+									268 text За висячими предлогами, союзами  и  местоимениями нужно следить
+								269 container Horisontal / None
+								270 container Vertical / None
+									271 container Spacer
+						272 container Title&Subtitle
+							273 container 🟢 Text
+								274 container Vertical / None
+									275 container Spacer
+								276 container Horisontal / None
+								277 text Узкий пробел (полпробела)
+								278 container Horisontal / None
+								279 container Vertical / None
+									280 container Spacer
+							281 container 🟢 Text
+								282 container Vertical / None
+									283 container Spacer
+								284 container Horisontal / None
+								285 container
+									286 text Ставим внутри больших чисел («1 999»), между цифрой и знаком рубля, в диапазонах чисел. Узкий пробел можно взять с 
+									287 link Description: сайта символов, Value: symbl.cc/ru/202F/
+									288 text .  Как набрать на Маке: ctrl+cmd+пробел —> выбрать thin space. Также на Маке в символах можно добавить его в избранное, чтобы каждый раз не искать.
+								289 container Horisontal / None
+								290 container Vertical / None
+									291 container Spacer
+						292 container ContentCompare
+							293 text 5 845 ₽
+							294 text 5 845 ₽
+					295 container Знаки
+						296 container Title&Subtitle
+							297 container 🟢 Text
+								298 container Vertical / None
+									299 container Spacer
+								300 container Horisontal / None
+								301 text Слеш
+								302 container Horisontal / None
+								303 container Vertical / None
+									304 container Spacer
+							305 container 🟢 Text
+								306 container Vertical / None
+									307 container Spacer
+								308 container Horisontal / None
+								309 container
+									310 text Слеш — это косая черта, которую используют в кейсах «или/или». Например, «заказ/заказы», «б/у». Слеш пишем без пробелов.  Если есть возможность, вместо слеша лучше писать «или».
+								311 container Horisontal / None
+								312 container Vertical / None
+									313 container Spacer
+						314 container ContentCompare
+							315 container 🟢 Text
+								316 container Vertical / None
+									317 container Spacer
+								318 container Horisontal / None
+								319 container
+									320 text Заказ или заказы Выберите одну или несколько Заказ/заказы б/у
+								321 container Horisontal / None
+								322 container Vertical / None
+									323 container Spacer
+					324 container Знаки
+						325 container Title&Subtitle
+							326 container 🟢 Text
+								327 container Vertical / None
+									328 container Spacer
+								329 container Horisontal / None
+								330 text Кавычки
+								331 container Horisontal / None
+								332 container Vertical / None
+									333 container Spacer
+							334 container 🟢 Text
+								335 container Vertical / None
+									336 container Spacer
+								337 container Horisontal / None
+								338 text Не кавычим названия разделов приложения в интерфейсных текстах. Чтобы обозначить названия разделов, пишем их с большой буквы.
+								339 container Horisontal / None
+								340 container Vertical / None
+									341 container Spacer
+						342 container ContentCompare
+							343 container 🟢 Text
+								344 container Vertical / None
+									345 container Spacer
+								346 container Horisontal / None
+								347 text Смотрите в разделе Возвраты
+								348 container Horisontal / None
+								349 container Vertical / None
+									350 container Spacer
+							351 container 🟢 Text
+								352 container Vertical / None
+									353 container Spacer
+								354 container Horisontal / None
+								355 text Смотрите в разделе «Возвраты»
+								356 container Horisontal / None
+								357 container Vertical / None
+									358 container Spacer
+					359 container Знаки
+						360 container Title&Subtitle
+							361 container 🟢 Text
+								362 container Vertical / None
+									363 container Spacer
+								364 container Horisontal / None
+								365 text Знак рубля
+								366 container Horisontal / None
+								367 container Vertical / None
+									368 container Spacer
+							369 container 🟢 Text
+								370 container Vertical / None
+									371 container Spacer
+								372 container Horisontal / None
+								373 container
+									374 text Используем знак рубля после цифры, чтобы обозначить сумму. Между цифрой и знаком рубля ставим полупробел. Если сокращаем слово «рубль» до «руб.», например, в письмах, то пишем с точкой в конце. Однако предпочтительнее писать слово «рублей» целиком.
+								375 container Horisontal / None
+								376 container Vertical / None
+									377 container Spacer
+						378 container 🟢 ButtonCustom
+							379 text 100 ₽
+						380 container 🟢 ButtonCustom
+							381 text 100 руб.
+						382 container 🟢 ButtonCustom
+							383 text 100 рублей
+					384 container Знаки
+						385 container Title&Subtitle
+							386 container 🟢 Text
+								387 container Vertical / None
+									388 container Spacer
+								389 container Horisontal / None
+								390 text Дефис и тире
+								391 container Horisontal / None
+								392 container Vertical / None
+									393 container Spacer
+							394 container 🟢 Text
+								395 container Vertical / None
+									396 container Spacer
+								397 container Horisontal / None
+								398 text Используем длинное, среднее тире и дефис.
+								399 container Horisontal / None
+								400 container Vertical / None
+									401 container Spacer
+						402 container ContentCompare
+							403 text —
+							404 text –
+							405 text -
+							406 container 🟢 Text
+								407 container Vertical / None
+									408 container Spacer
+								409 container Horisontal / None
+								410 text Длинное тире, короткое тире и дефис
+								411 container Horisontal / None
+								412 container Vertical / None
+									413 container Spacer
+						414 container Title&Subtitle
+							415 container 🟢 Text
+								416 container Vertical / None
+									417 container Spacer
+								418 container Horisontal / None
+								419 text Длинное тире — в предложениях
+								420 container Horisontal / None
+								421 container Vertical / None
+									422 container Spacer
+							423 container 🟢 Text
+								424 container Vertical / None
+									425 container Spacer
+								426 container Horisontal / None
+								427 container
+									428 content list
+										429 text вместо отсутствующего слова (Вам — мили и бонусы в подарок)
+										430 text между подлежащим и сказуемым (Мили — это внутренняя валюта)
+										431 text чтобы подчеркнуть мысль и сделать паузу (Ищите — и найдёте)
+										432 text при перечислении в маркированных списках
+									433 text Быстрые клавиши для написания длинного тире: Shift + Option + дефис. Тире не переносится на вторую строку.
+								434 container Horisontal / None
+								435 container Vertical / None
+									436 container Spacer
+						437 container Title&Subtitle
+							438 container 🟢 Text
+								439 container Vertical / None
+									440 container Spacer
+								441 container Horisontal / None
+								442 text Среднее тире — в диапазонах
+								443 container Horisontal / None
+								444 container Vertical / None
+									445 container Spacer
+							446 container 🟢 Text
+								447 container Vertical / None
+									448 container Spacer
+								449 container Horisontal / None
+								450 container
+									451 content list
+										452 text для обозначения диапазонов чисел (2023 – 2024, 100 – 200)
+										453 text для обозначения диапазонов дней недели (понедельник – пятница)
+									454 text В интерфейсных элементах мы пишем диапазоны, отделяя среднее тире полупробелами с обеих сторон. Это позволяет добиться консистентности в форматах, где встречается несколько таких интервалов. Например, в выборе дат доставки на странице подтверждения заказа. Быстрые клавиши для написания среднего тире: Option + дефис. Тире не переносится на вторую строку.
+								455 container Horisontal / None
+								456 container Vertical / None
+									457 container Spacer
+						458 container Title&Subtitle
+							459 container 🟢 Text
+								460 container Vertical / None
+									461 container Spacer
+								462 container Horisontal / None
+								463 text Дефис — в словах и сокращениях
+								464 container Horisontal / None
+								465 container Vertical / None
+									466 container Spacer
+							467 container 🟢 Text
+								468 container Vertical / None
+									469 container Spacer
+								470 container Horisontal / None
+								471 content list
+									472 text для присоединения частиц (кто-то, где-то)
+									473 text для присоединения префиксов (во-первых, по-русски)
+									474 text в словосочетаниях и сложносоставных словах (интернет-магазин, премиум-товар)
+								475 container Horisontal / None
+								476 container Vertical / None
+									477 container Spacer
+						478 container ContentCompare
+							479 container 🟢 Text
+								480 container Vertical / None
+									481 container Spacer
+								482 container Horisontal / None
+								483 text Бонусы и скидки каждому сто первому клиенту — за покупку товаров от премиум-магазинов. Кому-то повезёт!
+								484 container Horisontal / None
+								485 container Vertical / None
+									486 container Spacer
+							487 container 🟢 Text
+								488 container Vertical / None
+									489 container Spacer
+								490 container Horisontal / None
+								491 text Бонусы и скидки каждому сто первому клиенту - за покупку товаров от премиум — магазинов. Кому то повезёт!
+								492 container Horisontal / None
+								493 container Vertical / None
+									494 container Spacer
+					495 container Знаки
+						496 container Title&Subtitle
+							497 container 🟢 Text
+								498 container Vertical / None
+									499 container Spacer
+								500 container Horisontal / None
+								501 text Минус и знак процента
+								502 container Horisontal / None
+								503 container Vertical / None
+									504 container Spacer
+							505 container 🟢 Text
+								506 container Vertical / None
+									507 container Spacer
+								508 container Horisontal / None
+								509 container
+									510 text Не ставим пробел между цифрой и минусом. Используем знак минуса, НЕ дефис!  Аналогичное правило работает со знаком процента: между ним и числом пробел не нужен.
+								511 container Horisontal / None
+								512 container Vertical / None
+									513 container Spacer
+						514 container ContentCompare
+							515 text −20%
+							516 container
+								517 text —  20 %
+					518 container Знаки
+						519 container Title&Subtitle
+							520 container 🟢 Text
+								521 container Vertical / None
+									522 container Spacer
+								523 container Horisontal / None
+								524 text Точка
+								525 container Horisontal / None
+								526 container Vertical / None
+									527 container Spacer
+						528 container Title&Subtitle
+							529 container 🟢 Text
+								530 container Vertical / None
+									531 container Spacer
+								532 container Horisontal / None
+								533 text Не ставим точку в конце блока
+								534 container Horisontal / None
+								535 container Vertical / None
+									536 container Spacer
+							537 container 🟢 Text
+								538 container Vertical / None
+									539 container Spacer
+								540 container Horisontal / None
+								541 container
+									542 text Никогда НЕ ставим точку в последнем предложении. Если в интерфейсном элементе 2 предложения, не ставим после второго и так далее. Исключение: письма на почту и сообщения в NC. В таких форматах пользуемся стандартными правилами русского языка.
+								543 container Horisontal / None
+								544 container Vertical / None
+									545 container Spacer
+						546 container ContentCompare
+							547 container 🟢 Text
+								548 container Vertical / None
+									549 container Spacer
+								550 container Horisontal / None
+								551 text Спасибо!
+								552 container Horisontal / None
+								553 container Vertical / None
+									554 container Spacer
+							555 container 🟢 Text
+								556 container Vertical / None
+									557 container Spacer
+								558 container Horisontal / None
+								559 text Отправили отзыв команде контроля качества
+								560 container Horisontal / None
+								561 container Vertical / None
+									562 container Spacer
+							563 container 🟢 Text
+								564 container Vertical / None
+									565 container Spacer
+								566 container Horisontal / None
+								567 text Спасибо!
+								568 container Horisontal / None
+								569 container Vertical / None
+									570 container Spacer
+							571 container 🟢 Text
+								572 container Vertical / None
+									573 container Spacer
+								574 container Horisontal / None
+								575 text Отправили отзыв команде контроля качества.
+								576 container Horisontal / None
+								577 container Vertical / None
+									578 container Spacer
+						579 container Title&Subtitle
+							580 container 🟢 Text
+								581 container Vertical / None
+									582 container Spacer
+								583 container Horisontal / None
+								584 text При этом ставим точку в конце абзацев, если их 2 или больше.
+								585 container Horisontal / None
+								586 container Vertical / None
+									587 container Spacer
+						588 container ContentCompare
+							589 container 🟢 Text
+								590 container Vertical / None
+									591 container Spacer
+								592 container Horisontal / None
+								593 text Спасибо!
+								594 container Horisontal / None
+								595 container Vertical / None
+									596 container Spacer
+							597 container 🟢 Text
+								598 container Vertical / None
+									599 container Spacer
+								600 container Horisontal / None
+								601 container
+									602 text Отправили отзыв команде контроля качества.  Узнать подробности можно в личном кабинете
+								603 container Horisontal / None
+								604 container Vertical / None
+									605 container Spacer
+							606 container 🟢 Text
+								607 container Vertical / None
+									608 container Spacer
+								609 container Horisontal / None
+								610 text Спасибо!
+								611 container Horisontal / None
+								612 container Vertical / None
+									613 container Spacer
+							614 container 🟢 Text
+								615 container Vertical / None
+									616 container Spacer
+								617 container Horisontal / None
+								618 container
+									619 text Отправили отзыв команде контроля качества Узнать подробности можно в личном кабинете
+								620 container Horisontal / None
+								621 container Vertical / None
+									622 container Spacer
+						623 container Title&Subtitle
+							624 container 🟢 Text
+								625 container Vertical / None
+									626 container Spacer
+								627 container Horisontal / None
+								628 text Причины
+								629 container Horisontal / None
+								630 container Vertical / None
+									631 container Spacer
+						632 container Title&Subtitle
+							633 container 🟢 Icon
+								634 text 1
+							635 container 🟢 Text
+								636 container Vertical / None
+									637 container Spacer
+								638 container Horisontal / None
+								639 text Точки в конце не нужны
+								640 container Horisontal / None
+								641 container Vertical / None
+									642 container Spacer
+							643 container 🟢 Text
+								644 container Vertical / None
+									645 container Spacer
+								646 container Horisontal / None
+								647 container
+									648 text В интерфейсе каждый элемент должен иметь значение. Если его можно убрать без потери смысла, то стоит убирать.  Точки между предложениями отделяют фразы друг от друга, если их удалить, то текст будет непонятным. А точки в конце интерфейсного элемента не несут смысла, и так ясно, что текст закончился. Значит, их можно убрать.
+								649 container Horisontal / None
+								650 container Vertical / None
+									651 container Spacer
+						652 container Title&Subtitle
+							653 container 🟢 Icon
+								654 text 2
+							655 container 🟢 Text
+								656 container Vertical / None
+									657 container Spacer
+								658 container Horisontal / None
+								659 text Так консистентнее
+								660 container Horisontal / None
+								661 container Vertical / None
+									662 container Spacer
+							663 container 🟢 Text
+								664 container Vertical / None
+									665 container Spacer
+								666 container Horisontal / None
+								667 container
+									668 text Раньше у нас действовало такое правило: если в интерфейсном элементе одно предложение, то точку в конце не ставим. Если два и больше, то ставим.  Однако если полистать экраны на проде и наткнуться на несколько таких элементов подряд, можно заметить, что они отличаются наличием или отсутствием той самой точки. Где фраза одна, точки нет, а где две и больше, точка есть. От этого кажется, что где-то точку поставили, а где-то забыли или забили.  Ожидаемое решение — пытаться ужимать все интерфейсные тексты до одного предложения, лишь бы избежать этой точки. Но это тоже не работает: не всегда можно уместить весь необходимый смысл в одну фразу.
+								669 container Horisontal / None
+								670 container Vertical / None
+									671 container Spacer
+						672 container Title&Subtitle
+							673 container 🟢 Icon
+								674 text 3
+							675 container 🟢 Text
+								676 container Vertical / None
+									677 container Spacer
+								678 container Horisontal / None
+								679 text Заголовок равен интерфейсному элементу
+								680 container Horisontal / None
+								681 container Vertical / None
+									682 container Spacer
+							683 container 🟢 Text
+								684 container Vertical / None
+									685 container Spacer
+								686 container Horisontal / None
+								687 text Есть сходство между правилами написания заголовков и интерфейсных элементов. Соответственно, в заголовках в конце мы не ставим точки, а если заг состоит из двух предложений, то точку ставим только после первого. Людей это не смущает в заголовках, так почему бы и не применить это к интерфейсным элементам.
+								688 container Horisontal / None
+								689 container Vertical / None
+									690 container Spacer
+						691 container Title&Subtitle
+							692 container 🟢 Text
+								693 container Vertical / None
+									694 container Spacer
+								695 container Horisontal / None
+								696 text Не ставим точку после эмодзи
+								697 container Horisontal / None
+								698 container Vertical / None
+									699 container Spacer
+							700 container 🟢 Text
+								701 container Vertical / None
+									702 container Spacer
+								703 container Horisontal / None
+								704 container
+									705 text НЕ ставим точку или другой знак препинания в интерфейсном элементе после эмодзи. А ещё не стоит ставить эмодзи между двумя предложениями. Лучше всего располагать этот знак в самом конце блока, где точка не требуется.
+								706 container Horisontal / None
+								707 container Vertical / None
+									708 container Spacer
+						709 container ContentCompare
+							710 container 🟢 Text
+								711 container Vertical / None
+									712 container Spacer
+								713 container Vertical / None
+									714 container Spacer
+							715 container 🟢 Text
+								716 container Vertical / None
+									717 container Spacer
+								718 container Horisontal / None
+								719 text Спасибо! Отправили отзыв команде контроля качества ☺️
+								720 container Horisontal / None
+								721 container Vertical / None
+									722 container Spacer
+							723 container 🟢 Text
+								724 container Vertical / None
+									725 container Spacer
+								726 container Horisontal / None
+								727 text Спасибо ☺️. Отправили отзыв команде контроля качества.
+								728 container Horisontal / None
+								729 container Vertical / None
+									730 container Spacer
+						731 container Title&Subtitle
+							732 container 🟢 Text
+								733 container Vertical / None
+									734 container Spacer
+								735 container Horisontal / None
+								736 container
+									737 text Чаще всего можно обойтись без эмодзи и передать эмоции текстом. Но бывают случаи, когда эмодзи действительно помогает решить вашу задачу. В таком случае лучше ставить смайл в самом начале текста или в самом конце.
+								738 container Horisontal / None
+								739 container Vertical / None
+									740 container Spacer
+				741 container Pages
+					742 toolbar Stepper
+						743 button (disabled) Previous frame
+							744 image
+						745 button Next frame
+							746 image
+					747 button Restart
+						748 image
+						749 text Restart
+
+The focused UI element is 1 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5877&scaling=min-zoom&starting-point-node-id=1%3A6116

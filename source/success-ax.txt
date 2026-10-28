@@ -1,0 +1,210 @@
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5973&scaling=min-zoom&starting-point-node-id=1%3A6116".
+1 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5973&scaling=min-zoom&starting-point-node-id=1%3A6116
+	2 container react-page
+		3 container
+			4 container Prototype controls
+			5 container
+				165 container ✅ Экраны успеха
+					166 button ic_m_step_back_filled
+						167 container ic_m_step_back_filled
+					168 container Device Button
+						169 link ic_m_mobile_phone_filled
+							170 container ic_m_mobile_phone_filled
+					171 link logo ozon blue
+					172 container Header Desk
+						173 button ic_m_step_back_filled
+							174 container ic_m_step_back_filled
+						175 container Title&Subtitle
+							176 container 🟢 Text
+								177 container Vertical / None
+									178 container Spacer
+								179 container Horisontal / None
+								180 text Экраны успеха
+								181 container Horisontal / None
+								182 container Vertical / None
+									183 container Spacer
+						184 container sign-success_m
+							185 image Img
+					186 container Экраны успеха
+						187 container Title&Subtitle
+							188 container 🟢 Text
+								189 container Vertical / None
+									190 container Spacer
+								191 container Horisontal / None
+								192 container
+									193 text Экран успеха показывает, что пользователь сделал правильное действие и всё получилось. Если действие не требовало от пользователя больших усилий, например, он шёл по сценарию и сделал очередной клик, то можно просто сказать, что всё хорошо, без подробностей. Если же пользователь применил усилие для действия, нужно сказать, что именно он правильно сделал. В отдельных случаях стоит ещё и поблагодарить пользователя, например, за оставленный отзыв или отправленные чаевые.
+								194 container Horisontal / None
+								195 container Vertical / None
+									196 container Spacer
+						197 container Title&Subtitle
+							198 container 🟢 Text
+								199 container Vertical / None
+									200 container Spacer
+								201 container Horisontal / None
+								202 text Тексты для экранов успеха: можно брать и использовать
+								203 container Horisontal / None
+								204 container Vertical / None
+									205 container Spacer
+						206 container 🌀Status Widget/App
+							207 container 🟢 Image
+								208 container .ImageRatio
+									209 container sign-success_m
+										210 image Img
+							211 container 🟢 Text
+								212 container Horisontal / None
+									213 container Spacer
+								214 container Vertical / 500 [16]
+									215 container Spacer
+								216 text Всё получилось
+								217 container Vertical / 500 [16]
+									218 container Spacer
+								219 container Horisontal / None
+									220 container Spacer
+							221 container 🟢 Text
+								222 container Horisontal / None
+									223 container Spacer
+								224 container Vertical / 500 [16]
+									225 container Spacer
+								226 text Можно вернуться обратно к покупкам
+								227 container Vertical / 500 [16]
+									228 container Spacer
+								229 container Horisontal / None
+									230 container Spacer
+							231 container Кнопки, 32 px
+								232 container 🟢 Button
+									233 text К покупкам
+						234 container 🌀Status Widget/App
+							235 container 🟢 Image
+								236 container .ImageRatio
+									237 container sign-success_m
+										238 image Img
+							239 container 🟢 Text
+								240 container Horisontal / None
+									241 container Spacer
+								242 container Vertical / 500 [16]
+									243 container Spacer
+								244 text Оплата прошла
+								245 container Vertical / 500 [16]
+									246 container Spacer
+								247 container Horisontal / None
+									248 container Spacer
+							249 container 🟢 Text
+								250 container Horisontal / None
+									251 container Spacer
+								252 container Vertical / 500 [16]
+									253 container Spacer
+								254 text Списали 10 143 ₽ с вашей карты
+								255 container Vertical / 500 [16]
+									256 container Spacer
+								257 container Horisontal / None
+									258 container Spacer
+							259 container Кнопки, 32 px
+								260 container 🟢 Button
+									261 text К заказу
+						262 container 🌀Status Widget/App
+							263 container 🟢 Image
+								264 container .ImageRatio
+									265 container feedback-star_m
+										266 image Img
+							267 container 🟢 Text
+								268 container Horisontal / None
+									269 container Spacer
+								270 container Vertical / 500 [16]
+									271 container Spacer
+								272 text Спасибо, что поделились мнением
+								273 container Vertical / 500 [16]
+									274 container Spacer
+								275 container Horisontal / None
+									276 container Spacer
+							277 container 🟢 Text
+								278 container Horisontal / None
+									279 container Spacer
+								280 container Vertical / 500 [16]
+									281 container Spacer
+								282 text Отправили ваш отзыв в отдел контроля качества
+								283 container Vertical / 500 [16]
+									284 container Spacer
+								285 container Horisontal / None
+									286 container Spacer
+							287 container Кнопки, 32 px
+								288 container 🟢 Button
+									289 text К покупкам
+						290 container 🌀Status Widget/App
+							291 container 🟢 Image
+								292 container .ImageRatio
+									293 container coin-gold-comp-four_m
+										294 image Img
+							295 container 🟢 Text
+								296 container Horisontal / None
+									297 container Spacer
+								298 container Vertical / 500 [16]
+									299 container Spacer
+								300 text Спасибо
+								301 container Vertical / 500 [16]
+									302 container Spacer
+								303 container Horisontal / None
+									304 container Spacer
+							305 container 🟢 Text
+								306 container Horisontal / None
+									307 container Spacer
+								308 container Vertical / 500 [16]
+									309 container Spacer
+								310 text Отправили чаевые курьеру. Ему будет приятно!
+								311 container Vertical / 500 [16]
+									312 container Spacer
+								313 container Horisontal / None
+									314 container Spacer
+							315 container Кнопки, 32 px
+								316 container 🟢 Button
+									317 text К заказу
+						318 container 🌀Status Widget/App
+							319 container 🟢 Image
+								320 container .ImageRatio
+									321 container basket-stars-blue_m
+										322 image Img
+							323 container 🟢 Text
+								324 container Horisontal / None
+									325 container Spacer
+								326 container Vertical / 500 [16]
+									327 container Spacer
+								328 text Спасибо за заказ!
+								329 container Vertical / 500 [16]
+									330 container Spacer
+								331 container Horisontal / None
+									332 container Spacer
+							333 container 🟢 Text
+								334 container Horisontal / None
+									335 container Spacer
+								336 container Vertical / 500 [16]
+									337 container Spacer
+								338 text Уже собираем
+								339 container Vertical / 500 [16]
+									340 container Spacer
+								341 container Horisontal / None
+									342 container Spacer
+						343 container 🌀Status Widget/App
+							344 container 🟢 Image
+								345 container .ImageRatio
+									346 container sign-success_m
+										347 image Img
+							348 container 🟢 Text
+								349 container Horisontal / None
+									350 container Spacer
+								351 container Vertical / 500 [16]
+									352 container Spacer
+								353 text Готово
+								354 container Vertical / 500 [16]
+									355 container Spacer
+								356 container Horisontal / None
+									357 container Spacer
+				156 container Pages
+					157 toolbar Stepper
+						158 button Previous frame
+							159 image
+						160 button Next frame
+							161 image
+					162 button Restart
+						163 image
+						164 text Restart
+
+The focused UI element is 165 container ✅ Экраны успеха

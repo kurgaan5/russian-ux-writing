@@ -1,0 +1,341 @@
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&type=design&node-id=1-5921&viewport=465%2C392%2C0.05&t=ZNZQbkJk17MrDI9c-1&scaling=min-zoom&starting-point-node-id=1%3A6116".
+0 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&type=design&node-id=1-5921&viewport=465%2C392%2C0.05&t=ZNZQbkJk17MrDI9c-1&scaling=min-zoom&starting-point-node-id=1%3A6116
+	1 container react-page
+		2 container
+			3 container Prototype controls
+			4 container
+				890 container ✅ Как проверять интерфейсные тексты 
+					891 button ic_m_step_back_filled
+						892 container ic_m_step_back_filled
+					893 container Device Button
+						894 link ic_m_mobile_phone_filled
+							895 container ic_m_mobile_phone_filled
+					896 button 🟢 TagButtonCustom
+						897 container 🟢 TagButtonCustom
+							898 text Как проверять тексты
+					899 button 🟢 TagButtonCustom
+						900 container 🟢 TagButtonCustom
+							901 text Почему важен контекст
+					902 link logo ozon blue
+					903 container Header Desk
+						904 button ic_m_step_back_filled
+							905 container ic_m_step_back_filled
+						906 image Img
+						907 container Title&Subtitle
+							908 container 🟢 Text
+								909 container Vertical / None
+									910 container Spacer
+								911 container Horisontal / None
+								912 text Как проверять интерфейсные тексты
+								913 container Horisontal / None
+								914 container Vertical / None
+									915 container Spacer
+					916 container Как проверять тексты
+						917 container Title&Subtitle
+							918 container 🟢 Text
+								919 container Vertical / None
+									920 container Spacer
+								921 container Horisontal / None
+								922 text Почему важно учитывать контекст
+								923 container Horisontal / None
+								924 container Vertical / None
+									925 container Spacer
+							926 container 🟢 Text
+								927 container Vertical / None
+									928 container Spacer
+								929 container Horisontal / None
+								930 container
+									931 text Контекст — это всё, что окружает ваш текст. Настроение и состояние пользователя, его предыдущий опыт в приложении и конкретный этап пользовательского пути, на котором он находится. А также текст окружает много всего скрытого, например, личный опыт человека, его отношение к бренду, последние известные ему новости и даже политическая ситуация.  В кино существует такое явление, как эффект Кулешова. Его суть в том, что при сопоставлении двух кадров они приобретают новый смысл.
+								932 container Horisontal / None
+								933 container Vertical / None
+									934 container Spacer
+						935 container Title&Subtitle
+							936 container 🟢 Text
+								937 container Vertical / None
+									938 container Spacer
+								939 container Horisontal / None
+								940 text Из Википедии
+								941 container Horisontal / None
+								942 container Vertical / None
+									943 container Spacer
+							944 container 🟢 Text
+								945 container Vertical / None
+									946 container Spacer
+								947 container Horisontal / None
+								948 container
+									949 text Сначала отсняли крупным планом актёра Ивана Мозжухина, когда тот сидит и просто смотрит куда-то. Для эксперимента были сняты также 3 других плана: тарелка горячего, испускающего пар супа; ребёнок в гробу; девочка, играющая с куклой на диване.  Затем плёнка с планом актёра была разрезана на три части и склеена отдельно с кадрами наполненной супом тарелки, с кадрами ребёнка в гробу и с кадрами девочки на диване. Каждый из получившихся монтажных кусков, с портретом Мозжухина в начале, Кулешов продемонстрировал небольшой аудитории, состоящей из его коллег по кинопроизводству. Все зрители, посмотревшие фрагменты, независимо друг от друга пришли к выводу, что на первом фрагменте герой хочет поесть и привлечён хорошим обедом, во втором — опечален смертью ребёнка, в третьем — очарован играющей девочкой. В действительности выражение лица актёра во всех трёх случаях было одним и тем же. Эксперимент убедительно показал, что содержание последующего кадра способно полностью изменить смысл кадра предыдущего. Это явление было названо «эффектом Кулешова».
+								950 container Horisontal / None
+								951 container Vertical / None
+									952 container Spacer
+						953 container Title&Subtitle
+							954 container 🟢 Text
+								955 container Vertical / None
+									956 container Spacer
+								957 container Horisontal / None
+								958 container
+									959 text В интерфейсе этот эффект работает также. Можно писать тексты и делать дизайн конкретного элемента интерфейса в отрыве от контекста, однако пользователи всегда будут воспринимать его как один из элементов пользовательского пути.  Поэтому на один и тот же текст пользователь может отреагировать по-разному, в зависимости от своего эмоционального состояния и от того, какой путь был проделан до этого.
+								960 container Horisontal / None
+								961 container Vertical / None
+									962 container Spacer
+						963 container Title&Subtitle
+							964 container 🟢 Text
+								965 container Vertical / None
+									966 container Spacer
+								967 container Horisontal / None
+								968 text Пример 1
+								969 container Horisontal / None
+								970 container Vertical / None
+									971 container Spacer
+							972 container 🟢 Text
+								973 container Vertical / None
+									974 container Spacer
+								975 container Horisontal / None
+								976 container
+									977 text Стоите вы на парковке аэропорта. Мороз, мокрый снегопад. В одной руке чемодан, в другой — телефон с 5% заряда. Миссия — вызывать такси так, чтобы ничего не уронить и не промокнуть вконец. Открываете приложение, а оно такое: «Вот наша новая фича! Очень полезная и интересная. Почитайте ещё 5 слайдов про неё. Нет, пропустить нельзя». А вот другая ситуация — вы лежите дома на диване, сейчас выходной, никуда не надо. Вы расслабленно сёрфите по приложению и натыкаетесь на такое же сообщение. В первом случае вы будете раздражены таким вторжением, во втором — спокойно пролистаете сторис, может даже и с интересом.
+								978 container Horisontal / None
+								979 container Vertical / None
+									980 container Spacer
+						981 container Title&Subtitle
+							982 container 🟢 Text
+								983 container Vertical / None
+									984 container Spacer
+								985 container Horisontal / None
+								986 text Пример 2
+								987 container Horisontal / None
+								988 container Vertical / None
+									989 container Spacer
+							990 container 🟢 Text
+								991 container Vertical / None
+									992 container Spacer
+								993 container Horisontal / None
+								994 container
+									995 text В приложении нужно реализовать кнопку для быстрого вызова аварийной службы. Человек приходит домой, а там потоп. Вода хлещет из трубы во все стороны, ковер уже полностью промок. Он вспоминает, что соседи снизу только что сделали дорогущий ремонт. Медлить нельзя, надо срочно вызывать помощь! Допустим, в приложении будет простой и ясный интерфейс с большой кнопкой, до которой легко дотянуться. В таком случае пользователь быстро нажмет на кнопку вызова и сможет связаться с аварийкой.  Неправильно будет здесь тормозить пользователя лишними вопросами в духе «Вы точно хотите вызвать аварийную службу?» и «Посмотрите наш раздел Помощь, возможно, там вы найдёте ответы на вопросы».
+								996 container Horisontal / None
+								997 container Vertical / None
+									998 container Spacer
+					999 container Как проверять тексты
+						1000 container Title&Subtitle
+							1001 container 🟢 Text
+								1002 container Vertical / None
+									1003 container Spacer
+								1004 container Horisontal / None
+								1005 text Как проверять интерфейсные тексты
+								1006 container Horisontal / None
+								1007 container Vertical / None
+									1008 container Spacer
+							1009 container 🟢 Text
+								1010 container Vertical / None
+									1011 container Spacer
+								1012 container Horisontal / None
+								1013 text Каждый элемент нужно последовательно проверять на соответствие следующим пунктам:
+								1014 container Horisontal / None
+								1015 container Vertical / None
+									1016 container Spacer
+						1017 container Title&Subtitle
+							1018 container 🟢 Icon
+								1019 text 1
+							1020 container 🟢 Text
+								1021 container Vertical / None
+									1022 container Spacer
+								1023 container Horisontal / None
+								1024 text Контекст и эмоции
+								1025 container Horisontal / None
+								1026 container Vertical / None
+									1027 container Spacer
+							1028 container 🟢 Text
+								1029 container Vertical / None
+									1030 container Spacer
+								1031 container Horisontal / None
+								1032 text В каком контексте находится пользователь, какое у него настроение, насколько для него критично наткнуться на пустое состояние. Надо ли его успокаивать или можно немного пошутить.
+								1033 container Horisontal / None
+								1034 container Vertical / None
+									1035 container Spacer
+						1036 container Title&Subtitle
+							1037 container 🟢 Icon
+								1038 text 2
+							1039 container 🟢 Text
+								1040 container Vertical / None
+									1041 container Spacer
+								1042 container Horisontal / None
+								1043 text Универсальность
+								1044 container Horisontal / None
+								1045 container Vertical / None
+									1046 container Spacer
+							1047 container 🟢 Text
+								1048 container Vertical / None
+									1049 container Spacer
+								1050 container Horisontal / None
+								1051 text Учитывает ли текст все ограничения и особенности. Подходит ли он под все кейсы, с которых может прийти пользователь.
+								1052 container Horisontal / None
+								1053 container Vertical / None
+									1054 container Spacer
+						1055 container Title&Subtitle
+							1056 container 🟢 Icon
+								1057 text 3
+							1058 container 🟢 Text
+								1059 container Vertical / None
+									1060 container Spacer
+								1061 container Horisontal / None
+								1062 text Понятность
+								1063 container Horisontal / None
+								1064 container Vertical / None
+									1065 container Spacer
+							1066 container 🟢 Text
+								1067 container Vertical / None
+									1068 container Spacer
+								1069 container Horisontal / None
+								1070 text Ясно ли из текста, что произошло и что с этим делать.
+								1071 container Horisontal / None
+								1072 container Vertical / None
+									1073 container Spacer
+						1074 container Title&Subtitle
+							1075 container 🟢 Icon
+								1076 text 4
+							1077 container 🟢 Text
+								1078 container Vertical / None
+									1079 container Spacer
+								1080 container Horisontal / None
+								1081 text Тональность
+								1082 container Horisontal / None
+								1083 container Vertical / None
+									1084 container Spacer
+							1085 container 🟢 Text
+								1086 container Vertical / None
+									1087 container Spacer
+								1088 container Horisontal / None
+								1089 text Какой текст — спокойный, дружелюбный, панибратский? Соответствует ли он вашему tone of voice?
+								1090 container Horisontal / None
+								1091 container Vertical / None
+									1092 container Spacer
+						1093 container Title&Subtitle
+							1094 container 🟢 Icon
+								1095 text 5
+							1096 container 🟢 Text
+								1097 container Vertical / None
+									1098 container Spacer
+								1099 container Horisontal / None
+								1100 text Логическая связь между элементами
+								1101 container Horisontal / None
+								1102 container Vertical / None
+									1103 container Spacer
+							1104 container 🟢 Text
+								1105 container Vertical / None
+									1106 container Spacer
+								1107 container Horisontal / None
+								1108 container
+									1109 text Заголовки, подзаголовки и кнопки должны быть связаны логически.  Чаще всего заголовок выражает основную мысль или говорит, что пользователю делать. Подзаголовок сообщает что случилось и даёт больше контекста. Ну а кнопка ведёт на активное действие.
+								1110 container Horisontal / None
+								1111 container Vertical / None
+									1112 container Spacer
+						1113 container Title&Subtitle
+							1114 container 🟢 Text
+								1115 container Vertical / None
+									1116 container Spacer
+								1117 container Horisontal / None
+								1118 text Кнопка должна быть связана с заголовком, допустим даже повтор слова.
+								1119 container Horisontal / None
+								1120 container Vertical / None
+									1121 container Spacer
+						1122 container Compare
+							1123 container 🟢 Text
+								1124 container Vertical / None
+									1125 container Spacer
+								1126 container Horisontal / None
+								1127 text Вернуть товар?
+								1128 container Horisontal / None
+								1129 container Vertical / None
+									1130 container Spacer
+							1131 container 🟢 Button
+								1132 text Вернуть
+						1133 container Title&Subtitle
+							1134 container 🟢 Text
+								1135 container Vertical / None
+									1136 container Spacer
+								1137 container Horisontal / None
+								1138 text Также в кнопке можно использовать похожую по контексту фразу или синоним.
+								1139 container Horisontal / None
+								1140 container Vertical / None
+									1141 container Spacer
+						1142 container Compare
+							1143 container 🟢 Text
+								1144 container Vertical / None
+									1145 container Spacer
+								1146 container Horisontal / None
+								1147 text Вернуть товар?
+								1148 container Horisontal / None
+								1149 container Vertical / None
+									1150 container Spacer
+							1151 container 🟢 Button
+								1152 text Оформить возврат
+						1153 container Title&Subtitle
+							1154 container 🟢 Text
+								1155 container Vertical / None
+									1156 container Spacer
+								1157 container Horisontal / None
+								1158 text Подзаголовок или основной текст должен читаться независимо от заголовка и не должен быть его продолжением.
+								1159 container Horisontal / None
+								1160 container Vertical / None
+									1161 container Spacer
+						1162 container ContentCompare
+							1163 container 🟢 Text
+								1164 container Vertical / None
+									1165 container Spacer
+								1166 container Horisontal / None
+								1167 text Оформите в рассрочку
+								1168 container Horisontal / None
+								1169 container Vertical / None
+									1170 container Spacer
+							1171 container 🟢 Text
+								1172 container Vertical / None
+									1173 container Spacer
+								1174 container Horisontal / None
+								1175 text 6 месяцев без переплаты
+								1176 container Horisontal / None
+								1177 container Vertical / None
+									1178 container Spacer
+							1179 container 🟢 Text
+								1180 container Vertical / None
+									1181 container Spacer
+								1182 container Horisontal / None
+								1183 text Отличные условия
+								1184 container Horisontal / None
+								1185 container Vertical / None
+									1186 container Spacer
+							1187 container 🟢 Text
+								1188 container Vertical / None
+									1189 container Spacer
+								1190 container Horisontal / None
+								1191 text Для оформления рассрочки
+								1192 container Horisontal / None
+								1193 container Vertical / None
+									1194 container Spacer
+						1195 container Title&Subtitle
+							1196 container 🟢 Icon
+								1197 text 6
+							1198 container 🟢 Text
+								1199 container Vertical / None
+									1200 container Spacer
+								1201 container Horisontal / None
+								1202 text Грамотность
+								1203 container Horisontal / None
+								1204 container Vertical / None
+									1205 container Spacer
+							1206 container 🟢 Text
+								1207 container Vertical / None
+									1208 container Spacer
+								1209 container Horisontal / None
+								1210 text Тут без комментариев, даже маленький UX-текст нужно вычитать много-много раз, чтобы ни в чём не ошибиться.
+								1211 container Horisontal / None
+								1212 container Vertical / None
+									1213 container Spacer
+				881 container Pages
+					882 toolbar Stepper
+						883 button Previous frame
+							884 image
+						885 button Next frame
+							886 image
+					887 button Restart
+						888 image
+						889 text Restart
+
+The focused UI element is 890 container ✅ Как проверять интерфейсные тексты 

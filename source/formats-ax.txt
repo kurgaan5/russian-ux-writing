@@ -1,0 +1,2306 @@
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-6073&scaling=min-zoom&starting-point-node-id=1%3A6116".
+1 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-6073&scaling=min-zoom&starting-point-node-id=1%3A6116
+	2 container react-page
+		3 container
+			4 container Prototype controls
+			5 container
+				165 container ✅ Форматы
+					166 button ic_m_step_back_filled
+						167 container ic_m_step_back_filled
+					168 container Device Button
+						169 link ic_m_mobile_phone_filled
+							170 container ic_m_mobile_phone_filled
+					171 container
+						172 button 🟢 TagButtonCustom
+							173 container 🟢 TagButtonCustom
+								174 text Заголовки
+						175 button 🟢 TagButtonCustom
+							176 container 🟢 TagButtonCustom
+								177 text Кнопки
+						178 button 🟢 TagButtonCustom
+							179 container 🟢 TagButtonCustom
+								180 text Пуши
+						181 button 🟢 TagButtonCustom
+							182 container 🟢 TagButtonCustom
+								183 text СМС
+						184 button 🟢 TagButtonCustom
+							185 container 🟢 TagButtonCustom
+								186 text Списки
+						187 container Scroll Tag
+							188 button Обработка данных
+								189 text Обработка данных
+						190 button 🟢 TagButtonCustom
+							191 container 🟢 TagButtonCustom
+								192 text Куки
+						193 button 🟢 TagButtonCustom
+							194 container 🟢 TagButtonCustom
+								195 text Ссылки
+						196 button 🟢 TagButtonCustom
+							197 container 🟢 TagButtonCustom
+								198 text Релиз ноутсы
+					199 link logo ozon blue
+					200 container Header Desk
+						201 button ic_m_step_back_filled
+							202 container ic_m_step_back_filled
+						203 container Title&Subtitle
+							204 container 🟢 Text
+								205 container Vertical / None
+									206 container Spacer
+								207 container Horisontal / None
+								208 text Форматы
+								209 container Horisontal / None
+								210 container Vertical / None
+									211 container Spacer
+						212 container product-card-two_m
+							213 image Img
+					214 container Форматы
+						215 container Title&Subtitle
+							216 container 🟢 Text
+								217 container Vertical / None
+									218 container Spacer
+								219 container Horisontal / None
+								220 text Сервисные письма
+								221 container Horisontal / None
+								222 container Vertical / None
+									223 container Spacer
+						224 container Title&Subtitle
+							225 container 🟢 Text
+								226 container Vertical / None
+									227 container Spacer
+								228 container Horisontal / None
+								229 text Кратко пишем тему и сниппет
+								230 container Horisontal / None
+								231 container Vertical / None
+									232 container Spacer
+							233 container 🟢 Text
+								234 container Vertical / None
+									235 container Spacer
+								236 container Horisontal / None
+								237 text Эти элементы обязательные. По теме и сниппету пользователю должно быть понятно, о чём пойдёт речь в письме. В них нужно сообщать самую суть письма.
+								238 container Horisontal / None
+								239 container Vertical / None
+									240 container Spacer
+						241 container Compare
+							242 container 🟢 Text
+								243 container Vertical / None
+									244 container Spacer
+								245 container Horisontal / None
+								246 container
+									247 text Тема: Заказ уже в пункте выдачи Сниппет: Заберите до 26 марта
+								248 container Horisontal / None
+								249 container Vertical / None
+									250 container Spacer
+						251 container Title&Subtitle
+							252 container 🟢 Text
+								253 container Vertical / None
+									254 container Spacer
+								255 container Horisontal / None
+								256 text Даём ссылку на раздел с документацией
+								257 container Horisontal / None
+								258 container Vertical / None
+									259 container Spacer
+							260 container 🟢 Text
+								261 container Vertical / None
+									262 container Spacer
+								263 container Horisontal / None
+								264 text В конце сервисных писем оставляем ссылку на соответствующий раздел помощи, где есть ответы на частые вопросы.
+								265 container Horisontal / None
+								266 container Vertical / None
+									267 container Spacer
+						268 container Compare
+							269 container 🟢 Text
+								270 container Vertical / None
+									271 container Spacer
+								272 container Horisontal / None
+								273 container
+									274 text Ответы на вопросы про возвраты можно найти в разделе  «Помощь»
+								275 container Horisontal / None
+								276 container Vertical / None
+									277 container Spacer
+						278 container Title&Subtitle
+							279 container 🟢 Text
+								280 container Vertical / None
+									281 container Spacer
+								282 container Horisontal / None
+								283 text В конце ставим точки, названия разделов пишем с кавычками
+								284 container Horisontal / None
+								285 container Vertical / None
+									286 container Spacer
+							287 container 🟢 Text
+								288 container Vertical / None
+									289 container Spacer
+								290 container Horisontal / None
+								291 text В отличие от интерфейсных форматов, в письмах больше текста, поэтому они работают по стандартным правилам русского языка. В конце ставим точки, а названия разделов пишем с кавычками.
+								292 container Horisontal / None
+								293 container Vertical / None
+									294 container Spacer
+						295 container Title&Subtitle
+							296 container 🟢 Text
+								297 container Vertical / None
+									298 container Spacer
+								299 container Horisontal / None
+								300 text Единая подпись
+								301 container Horisontal / None
+								302 container Vertical / None
+									303 container Spacer
+							304 container 🟢 Text
+								305 container Vertical / None
+									306 container Spacer
+								307 container Horisontal / None
+								308 text Все письма подписываем от имени команды Ozon.
+								309 container Horisontal / None
+								310 container Vertical / None
+									311 container Spacer
+						312 container Compare
+							313 container 🟢 Text
+								314 container Vertical / None
+									315 container Spacer
+								316 container Horisontal / None
+								317 text Команда Ozon
+								318 container Horisontal / None
+								319 container Vertical / None
+									320 container Spacer
+					321 container Форматы
+						322 container Title&Subtitle
+							323 container 🟢 Text
+								324 container Vertical / None
+									325 container Spacer
+								326 container Horisontal / None
+								327 text Релиз ноутсы (release notes)
+								328 container Horisontal / None
+								329 container Vertical / None
+									330 container Spacer
+							331 container 🟢 Text
+								332 container Vertical / None
+									333 container Spacer
+								334 container Horisontal / None
+								335 text Это информация о том, что изменилось в новой версии приложения.
+								336 container Horisontal / None
+								337 container Vertical / None
+									338 container Spacer
+						339 container Title&Subtitle
+							340 container 🟢 Text
+								341 container Vertical / None
+									342 container Spacer
+								343 container Horisontal / None
+								344 text Про редактуру
+								345 container Horisontal / None
+								346 container Vertical / None
+									347 container Spacer
+							348 container 🟢 Text
+								349 container Vertical / None
+									350 container Spacer
+								351 container Horisontal / None
+								352 content list
+									353 text Тексты release notes подчиняются редполитике Ozon;
+									354 text Названия разделов, распродаж и другие имена собственные кавычим «ёлочками»;
+									355 text Ставим точки в конце каждого абзаца;
+									356 text Если в релизе несколько инфоповодов, перечисляем их через маркированный, а не через нумерованный список.
+								357 container Horisontal / None
+								358 container Vertical / None
+									359 container Spacer
+						360 container Title&Subtitle
+							361 container 🟢 Text
+								362 container Vertical / None
+									363 container Spacer
+								364 container Horisontal / None
+								365 text Про тональность
+								366 container Horisontal / None
+								367 container Vertical / None
+									368 container Spacer
+							369 container 🟢 Text
+								370 container Vertical / None
+									371 container Spacer
+								372 container Horisontal / None
+								373 content list
+									374 text Цель релизного текста — рассказать об обновлении приложения так, чтобы его захотелось установить;
+									375 text Пишем лаконично и дружелюбно;
+									376 text Не пишем «продающие тексты», даже когда инфоповод рекламного характера.
+								377 container Horisontal / None
+								378 container Vertical / None
+									379 container Spacer
+						380 container ContentCompare
+							381 container 🟢 Text
+								382 container Vertical / None
+									383 container Spacer
+								384 container Horisontal / None
+								385 text Началась «Большая распродажа электроники» — покупайте со скидками до 80%.
+								386 container Horisontal / None
+								387 container Vertical / None
+									388 container Spacer
+							389 container 🟢 Text
+								390 container Vertical / None
+									391 container Spacer
+								392 container Horisontal / None
+								393 text Название в кавычках, в конце предложения есть знак препинания
+								394 container Horisontal / None
+								395 container Vertical / None
+									396 container Spacer
+							397 container 🟢 Text
+								398 container Vertical / None
+									399 container Spacer
+								400 container Horisontal / None
+								401 text Началась Большая распродажа электроники — покупайте со скидками до 80%
+								402 container Horisontal / None
+								403 container Vertical / None
+									404 container Spacer
+							405 container 🟢 Text
+								406 container Vertical / None
+									407 container Spacer
+								408 container Horisontal / None
+								409 text Название без кавычек, в конце предложения нет знака препинания
+								410 container Horisontal / None
+								411 container Vertical / None
+									412 container Spacer
+						413 container ContentCompare
+							414 container 🟢 Text
+								415 container Vertical / None
+									416 container Spacer
+								417 container Horisontal / None
+								418 text Началась Большая распродажа электроники — покупайте со скидками до 80%.
+								419 container Horisontal / None
+								420 container Vertical / None
+									421 container Spacer
+							422 container 🟢 Text
+								423 container Vertical / None
+									424 container Spacer
+								425 container Horisontal / None
+								426 text Лаконично и по редполитике. Понятно, что началось и что делать
+								427 container Horisontal / None
+								428 container Vertical / None
+									429 container Spacer
+							430 container 🟢 Text
+								431 container Vertical / None
+									432 container Spacer
+								433 container Horisontal / None
+								434 text Началась «Большая распродажа электроники»! Это просто супер! Заходите прямо сейчас, чтобы купить топовые смартфоны, часы и другие гаджеты с мега-скидками до 80%. Не зевайте, распродажа скоро закончится!
+								435 container Horisontal / None
+								436 container Vertical / None
+									437 container Spacer
+							438 container 🟢 Text
+								439 container Vertical / None
+									440 container Spacer
+								441 container Horisontal / None
+								442 text Тут слишком много продаж в лоб и тональность излишне эмоциональная
+								443 container Horisontal / None
+								444 container Vertical / None
+									445 container Spacer
+						446 container ContentCompare
+							447 container Compare
+								448 container 🟢 Text
+									449 container Vertical / None
+										450 container Spacer
+									451 container Horisontal / None
+									452 content list
+										453 text Началась Большая распродажа электроники — покупайте со скидками до 80%!
+										454 text Теперь отзывы можно сортировать не только по новизне, но и полезности.
+									455 container Horisontal / None
+									456 container Vertical / None
+										457 container Spacer
+								458 container 🟢 Text
+									459 container Vertical / None
+										460 container Spacer
+									461 container Horisontal / None
+									462 text Два инфоповода разбиты маркированным списком
+									463 container Horisontal / None
+									464 container Vertical / None
+										465 container Spacer
+							466 container Compare
+								467 container 🟢 Text
+									468 container Vertical / None
+										469 container Spacer
+									470 container Horisontal / None
+									471 content list
+										472 text Началась Большая распродажа электроники — покупайте со скидками до 80%!
+										473 text Теперь отзывы можно сортировать не только по новизне, но и полезности.
+									474 container Horisontal / None
+									475 container Vertical / None
+										476 container Spacer
+								477 container 🟢 Text
+									478 container Vertical / None
+										479 container Spacer
+									480 container Horisontal / None
+									481 text 2 инфоповода разбиты нумерованным списком
+									482 container Horisontal / None
+									483 container Vertical / None
+										484 container Spacer
+					485 container Форматы
+						486 container Title&Subtitle
+							487 container 🟢 Text
+								488 container Vertical / None
+									489 container Spacer
+								490 container Horisontal / None
+								491 text Оформление ссылок
+								492 container Horisontal / None
+								493 container Vertical / None
+									494 container Spacer
+							495 container 🟢 Text
+								496 container Vertical / None
+									497 container Spacer
+								498 container Horisontal / None
+								499 container
+									500 text Ссылки используются, когда нужно перенаправить пользователя на другую страницу. Обычно ссылка выполняет вспомогательное действие (даёт дополнительную информацию), а кнопка выполняет целевое действие (ведёт пользователя по флоу). В малых интерфейсных элементах (например, в тултипах и информерах) ссылки выполняют функцию кнопок. Подчеркиваем минимальную информацию, по которой можно понять, куда ведет ссылка. Предлоги не подчеркиваем, чтобы не увеличивать ссылку искусственно.
+								501 container Horisontal / None
+								502 container Vertical / None
+									503 container Spacer
+						504 container Title&Subtitle
+							505 container 🟢 Text
+								506 container Vertical / None
+									507 container Spacer
+								508 container Horisontal / None
+								509 text Подчёркиваем минимальную информацию, по которой можно понять, куда ведёт ссылка. Предлоги не подчёркиваем, чтобы не увеличивать ссылку искусственно.
+								510 container Horisontal / None
+								511 container Vertical / None
+									512 container Spacer
+						513 container ContentCompare
+							514 container 🟢 Text
+								515 container Vertical / None
+									516 container Spacer
+								517 container Horisontal / None
+								518 container
+									519 text Напишите в  Поддержку
+								520 container Horisontal / None
+								521 container Vertical / None
+									522 container Spacer
+							523 container 🟢 Text
+								524 container Vertical / None
+									525 container Spacer
+								526 container Horisontal / None
+								527 container
+									528 text Напишите  в Поддержку
+								529 container Horisontal / None
+								530 container Vertical / None
+									531 container Spacer
+						532 container Title&Subtitle
+							533 container 🟢 Text
+								534 container Vertical / None
+									535 container Spacer
+								536 container Horisontal / None
+								537 text В юридической информации у нас бывают по 2-3 ссылки, и если подчёркивать предлоги, то текст будет выглядеть сплошной ссылкой.
+								538 container Horisontal / None
+								539 container Vertical / None
+									540 container Spacer
+						541 container ContentCompare
+							542 container 🟢 Text
+								543 container Vertical / None
+									544 container Spacer
+								545 container Horisontal / None
+								546 container
+									547 text Соглашаюсь  с  условиями использования  сервисов Ozon и  обработки  персональных данных
+								548 container Horisontal / None
+								549 container Vertical / None
+									550 container Spacer
+							551 container 🟢 Text
+								552 container Vertical / None
+									553 container Spacer
+								554 container Horisontal / None
+								555 container
+									556 text Соглашаюсь  с условиями использования сервисов Ozon и обработки персональных данных
+								557 container Horisontal / None
+								558 container Vertical / None
+									559 container Spacer
+						560 container Title&Subtitle
+							561 container 🟢 Text
+								562 container Vertical / None
+									563 container Spacer
+								564 container Horisontal / None
+								565 text Текстовые ссылки можно отделять пустой строкой — тогда точка в последнем предложении не ставится.
+								566 container Horisontal / None
+								567 container Vertical / None
+									568 container Spacer
+						569 container ContentCompare
+							570 container 🟢 Text
+								571 container Vertical / None
+									572 container Spacer
+								573 container Horisontal / None
+								574 container
+									575 text Не можем оформить заказ на некоторые товары Подробнее
+								576 container Horisontal / None
+								577 container Vertical / None
+									578 container Spacer
+							579 container 🟢 Text
+								580 container Vertical / None
+									581 container Spacer
+								582 container Horisontal / None
+								583 container
+									584 text Не можем оформить заказ на некоторые товары. Подробнее
+								585 container Horisontal / None
+								586 container Vertical / None
+									587 container Spacer
+						588 container Title&Subtitle
+							589 container 🟢 Text
+								590 container Vertical / None
+									591 container Spacer
+								592 container Horisontal / None
+								593 text На маленьких форматах ссылки можно писать сразу после текста в той же строке (тогда перед ссылкой нужна точка).
+								594 container Horisontal / None
+								595 container Vertical / None
+									596 container Spacer
+						597 container ContentCompare
+							598 container 🟢 Text
+								599 container Vertical / None
+									600 container Spacer
+								601 container Horisontal / None
+								602 container
+									603 text Не можем оформить заказ на некоторые товары.  Подробнее
+								604 container Horisontal / None
+								605 container Vertical / None
+									606 container Spacer
+							607 container 🟢 Text
+								608 container Vertical / None
+									609 container Spacer
+								610 container Horisontal / None
+								611 container
+									612 text Не можем оформить заказ на некоторые товары  Подробнее
+								613 container Horisontal / None
+								614 container Vertical / None
+									615 container Spacer
+						616 container Title&Subtitle
+							617 container 🟢 Text
+								618 container Vertical / None
+									619 container Spacer
+								620 container Horisontal / None
+								621 text Из текста ссылки пользователю должно быть понятно, куда он перейдёт. Не используйте наречия места (тут, здесь).
+								622 container Horisontal / None
+								623 container Vertical / None
+									624 container Spacer
+						625 container ContentCompare
+							626 container 🟢 Text
+								627 container Vertical / None
+									628 container Spacer
+								629 container Horisontal / None
+								630 container
+									631 text Смотрите в  Возвратах
+								632 container Horisontal / None
+								633 container Vertical / None
+									634 container Spacer
+							635 container 🟢 Text
+								636 container Vertical / None
+									637 container Spacer
+								638 container Horisontal / None
+								639 container
+									640 text Смотрите  здесь
+								641 container Horisontal / None
+								642 container Vertical / None
+									643 container Spacer
+						644 container Title&Subtitle
+							645 container 🟢 Text
+								646 container Vertical / None
+									647 container Spacer
+								648 container Horisontal / None
+								649 text Если ссылка расположена в тексте, стоит выделять ей 1–2 слова. Лучше, если выделенные ссылкой слова расположены в начале или в конце предложения. Одну ссылку нежелательно разбивать на 2 строки.
+								650 container Horisontal / None
+								651 container Vertical / None
+									652 container Spacer
+						653 container ContentCompare
+							654 container 🟢 Text
+								655 container Vertical / None
+									656 container Spacer
+								657 container Horisontal / None
+								658 container
+									659 text В акции не участвуют товары с доставкой из-за рубежа.  Подробнее про кешбэк
+								660 container Horisontal / None
+								661 container Vertical / None
+									662 container Spacer
+							663 container 🟢 Text
+								664 container Vertical / None
+									665 container Spacer
+								666 container Horisontal / None
+								667 container
+									668 text В акции не участвуют товары с доставкой из-за рубежа.  Подробнее про кешбэк за баллы Ozon Карты
+								669 container Horisontal / None
+								670 container Vertical / None
+									671 container Spacer
+					672 container Форматы
+						673 container Title&Subtitle
+							674 container 🟢 Text
+								675 container Vertical / None
+									676 container Spacer
+								677 container Horisontal / None
+								678 text Подпись про обработку данных
+								679 container Horisontal / None
+								680 container Vertical / None
+									681 container Spacer
+							682 container 🟢 Text
+								683 container Vertical / None
+									684 container Spacer
+								685 container Horisontal / None
+								686 text Согласованный текст про обработку данных:
+								687 container Horisontal / None
+								688 container Vertical / None
+									689 container Spacer
+						690 container Compare
+							691 container 🟢 Text
+								692 container Vertical / None
+									693 container Spacer
+								694 container Horisontal / None
+								695 container
+									696 text «Нажимая на кнопку, я соглашаюсь с  условиями  обработки  персональных данных и с  условиями  продажи ».
+								697 container Horisontal / None
+								698 container Vertical / None
+									699 container Spacer
+					700 container Форматы
+						701 container Title&Subtitle
+							702 container 🟢 Text
+								703 container Vertical / None
+									704 container Spacer
+								705 container Horisontal / None
+								706 text Подпись про куки
+								707 container Horisontal / None
+								708 container Vertical / None
+									709 container Spacer
+							710 container 🟢 Text
+								711 container Vertical / None
+									712 container Spacer
+								713 container Horisontal / None
+								714 text Согласованный текст для десктопа:
+								715 container Horisontal / None
+								716 container Vertical / None
+									717 container Spacer
+						718 container Compare
+							719 container 🟢 Text
+								720 container Vertical / None
+									721 container Spacer
+								722 container Horisontal / None
+								723 text Используем куки и рекомендательные технологии
+								724 container Horisontal / None
+								725 container Vertical / None
+									726 container Spacer
+							727 container 🟢 Text
+								728 container Vertical / None
+									729 container Spacer
+								730 container Horisontal / None
+								731 container
+									732 text Это чтобы сайт работал лучше. Оставаясь с нами, вы соглашаетесь на использование  файлов куки . А ещё можно почитать, что такое  рекомендательные технологи и
+								733 container Horisontal / None
+								734 container Vertical / None
+									735 container Spacer
+							736 container 🟢 Button
+								737 text ОК
+						738 container Title&Subtitle
+							739 container 🟢 Text
+								740 container Vertical / None
+									741 container Spacer
+								742 container Horisontal / None
+								743 text Согласованный текст для мобильного веба:
+								744 container Horisontal / None
+								745 container Vertical / None
+									746 container Spacer
+						747 container Compare
+							748 container 🟢 Text
+								749 container Vertical / None
+									750 container Spacer
+								751 container Horisontal / None
+								752 container
+									753 text Используем  рекомендательные технологии  и  файлы куки . Оставаясь с нами, вы соглашаетесь на их применение
+								754 container Horisontal / None
+								755 container Vertical / None
+									756 container Spacer
+							757 container 🟢 Button
+								758 text ОК
+					759 container Форматы
+						760 container Title&Subtitle
+							761 container 🟢 Text
+								762 container Vertical / None
+									763 container Spacer
+								764 container Horisontal / None
+								765 text Списки
+								766 container Horisontal / None
+								767 container Vertical / None
+									768 container Spacer
+							769 container 🟢 Text
+								770 container Vertical / None
+									771 container Spacer
+								772 container Horisontal / None
+								773 text Списки в интерфейсах отличаются от списков в литературных текстах. Чаще всего списки в приложениях упрощают, из них удаляют сложные знаки типа точки с запятой. Это не какая-то неграмотность, а осознанный выбор в пользу привлекательного визуала и удобства прочтения.
+								774 container Horisontal / None
+								775 container Vertical / None
+									776 container Spacer
+						777 container Title&Subtitle
+							778 container 🟢 Text
+								779 container Vertical / None
+									780 container Spacer
+								781 container Horisontal / None
+								782 text Структура списка
+								783 container Horisontal / None
+								784 container Vertical / None
+									785 container Spacer
+							786 container 🟢 Text
+								787 container Vertical / None
+									788 container Spacer
+								789 container Horisontal / None
+								790 container
+									791 text Список состоит из двух элементов:
+									792 content list
+										793 text заголовка списка (объединяющее список предложение)
+										794 text элементов списка (у каждого элемента может быть подзаголовок и текст)
+									795 text В предложении выше фраза «Список состоит из двух элементов» — это заголовок списка. А буллитные поинты — это элементы списка.  Заголовок «Структура списка» — это заголовок блока. В некоторых случаях заголовок блока является заголовком списка.
+								796 container Horisontal / None
+								797 container Vertical / None
+									798 container Spacer
+						799 container Title&Subtitle
+							800 container 🟢 Text
+								801 container Vertical / None
+									802 container Spacer
+								803 container Horisontal / None
+								804 text Как писать элементы списка
+								805 container Horisontal / None
+								806 container Vertical / None
+									807 container Spacer
+							808 container 🟢 Text
+								809 container Vertical / None
+									810 container Spacer
+								811 container Horisontal / None
+								812 container
+									813 text Есть два варианта написания элементов списка. В первом есть только текстовые поинты, каждый размером от 1 до 3 предложений. Во втором — каждый элемент списка состоит из подзаголовка (объединяющего пункт слова или предложения) и основного текста, который может включать в себя от 1 до 3 предложений. Элементы списка пишем через длинное тире.
+								814 container Horisontal / None
+								815 container Vertical / None
+									816 container Spacer
+						817 container Compare
+							818 container 🟢 Text
+								819 container Vertical / None
+									820 container Spacer
+								821 container Horisontal / None
+								822 text Какие товары мы доставляем
+								823 container Horisontal / None
+								824 container Vertical / None
+									825 container Spacer
+							826 container 🟡 Cell
+								827 container Vertical / 200 [4]
+									828 container Spacer
+								829 container Vertical / None
+								830 container None
+									831 container Vertical / None
+								832 container 🧰Default-400
+									833 text —
+								834 container None
+									835 container Vertical / None
+								836 container Vertical / None
+								837 container Vertical / 200 [4]
+									838 container Spacer
+							839 container 🟡 Cell
+								840 container Vertical / 200 [4]
+									841 container Spacer
+								842 container Vertical / None
+								843 container None
+									844 container Vertical / None
+								845 container 🧰Default-400
+									846 text Свежие продукты
+								847 container None
+									848 container Vertical / None
+								849 container Vertical / None
+								850 container Vertical / 200 [4]
+									851 container Spacer
+							852 container 🟡 Cell
+								853 container Vertical / 200 [4]
+									854 container Spacer
+								855 container Vertical / None
+								856 container None
+									857 container Vertical / None
+								858 container 🧰Default-400
+									859 text —
+								860 container None
+									861 container Vertical / None
+								862 container Vertical / None
+								863 container Vertical / 200 [4]
+									864 container Spacer
+							865 container 🟡 Cell
+								866 container Vertical / 200 [4]
+									867 container Spacer
+								868 container Vertical / None
+								869 container None
+									870 container Vertical / None
+								871 container 🧰Default-400
+									872 text Автотовары
+								873 container None
+									874 container Vertical / None
+								875 container Vertical / None
+								876 container Vertical / 200 [4]
+									877 container Spacer
+							878 container 🟡 Cell
+								879 container Vertical / 200 [4]
+									880 container Spacer
+								881 container Vertical / None
+								882 container None
+									883 container Vertical / None
+								884 container 🧰Default-400
+									885 text —
+								886 container None
+									887 container Vertical / None
+								888 container Vertical / None
+								889 container Vertical / 200 [4]
+									890 container Spacer
+							891 container 🟡 Cell
+								892 container Vertical / 200 [4]
+									893 container Spacer
+								894 container Vertical / None
+								895 container None
+									896 container Vertical / None
+								897 container 🧰Default-400
+									898 text Одежду и обувь
+								899 container None
+									900 container Vertical / None
+								901 container Vertical / None
+								902 container Vertical / 200 [4]
+									903 container Spacer
+							904 container 🟢 Text
+								905 container Vertical / None
+									906 container Spacer
+								907 container Horisontal / None
+								908 text Тут 3 текстовых поинта, в каждом по одному предложению
+								909 container Horisontal / None
+								910 container Vertical / None
+									911 container Spacer
+						912 container Compare
+							913 container 🟢 Text
+								914 container Vertical / None
+									915 container Spacer
+								916 container Horisontal / None
+								917 text Какие товары мы доставляем
+								918 container Horisontal / None
+								919 container Vertical / None
+									920 container Spacer
+							921 container 🟡 Cell
+								922 container Vertical / 200 [4]
+									923 container Spacer
+								924 container Vertical / None
+								925 container None
+									926 container Vertical / None
+								927 container 🧰Default-400
+									928 text —
+								929 container None
+									930 container Vertical / None
+								931 container Vertical / None
+								932 container Vertical / 200 [4]
+									933 container Spacer
+							934 container 🟡 Cell
+								935 container Vertical / 200 [4]
+									936 container Spacer
+								937 container Vertical / None
+								938 container None
+									939 container Vertical / None
+								940 container 🧰Default-400
+									941 text Свежие продукты
+									942 container Spacer
+									943 text Ozon fresh поможет, если срочно нужно докупить что-то к столу
+								944 container None
+									945 container Vertical / None
+								946 container Vertical / None
+								947 container Vertical / 200 [4]
+									948 container Spacer
+							949 container 🟡 Cell
+								950 container Vertical / 200 [4]
+									951 container Spacer
+								952 container Vertical / None
+								953 container None
+									954 container Vertical / None
+								955 container 🧰Default-400
+									956 text —
+								957 container None
+									958 container Vertical / None
+								959 container Vertical / None
+								960 container Vertical / 200 [4]
+									961 container Spacer
+							962 container 🟡 Cell
+								963 container Vertical / 200 [4]
+									964 container Spacer
+								965 container Vertical / None
+								966 container None
+									967 container Vertical / None
+								968 container 🧰Default-400
+									969 text Автотовары
+									970 container Spacer
+									971 text Поставьте в «гараж» Ozon вашу машину, чтобы сохранить данные о ней
+								972 container None
+									973 container Vertical / None
+								974 container Vertical / None
+								975 container Vertical / 200 [4]
+									976 container Spacer
+							977 container 🟡 Cell
+								978 container Vertical / 200 [4]
+									979 container Spacer
+								980 container Vertical / None
+								981 container None
+									982 container Vertical / None
+								983 container 🧰Default-400
+									984 text —
+								985 container None
+									986 container Vertical / None
+								987 container Vertical / None
+								988 container Vertical / 200 [4]
+									989 container Spacer
+							990 container 🟡 Cell
+								991 container Vertical / 200 [4]
+									992 container Spacer
+								993 container Vertical / None
+								994 container None
+									995 container Vertical / None
+								996 container 🧰Default-400
+									997 text Одежду и обувь
+									998 container Spacer
+									999 text При заказе можно выбирать пункты выдачи с примеркой на месте
+								1000 container None
+									1001 container Vertical / None
+								1002 container Vertical / None
+								1003 container Vertical / 200 [4]
+									1004 container Spacer
+							1005 container 🟢 Text
+								1006 container Vertical / None
+									1007 container Spacer
+								1008 container Horisontal / None
+								1009 text Каждый поинт списка состоит из объединяющего предложения (Автотовары) и подзаголовка (Поставьте...)
+								1010 container Horisontal / None
+								1011 container Vertical / None
+									1012 container Spacer
+						1013 container Title&Subtitle
+							1014 container 🟢 Text
+								1015 container Vertical / None
+									1016 container Spacer
+								1017 container Horisontal / None
+								1018 text Структура элементов списка
+								1019 container Horisontal / None
+								1020 container Vertical / None
+									1021 container Spacer
+							1022 container 🟢 Text
+								1023 container Vertical / None
+									1024 container Spacer
+								1025 container Horisontal / None
+								1026 container
+									1027 text В каждом элементе списка может быть собственный подзаголовок — объединяющая фраза или слово. В дальнейшем тексте этот подзаголовок раскрывается.  Оформлять элементы списка можно разными способами:
+									1028 content list
+										1029 text подзаголовок и текст в одном блоке
+										1030 text подзаголовок и текст идут отдельными строками, текст меньшим кеглем
+										1031 text подзаголовок без текста
+								1032 container Horisontal / None
+								1033 container Vertical / None
+									1034 container Spacer
+						1035 container Compare
+							1036 container 🟢 Text
+								1037 container Vertical / None
+									1038 container Spacer
+								1039 container Horisontal / None
+								1040 text Какие бывают решения по возвратам
+								1041 container Horisontal / None
+								1042 container Vertical / None
+									1043 container Spacer
+							1044 container 🟡 Cell
+								1045 container Vertical / 200 [4]
+									1046 container Spacer
+								1047 container Vertical / None
+								1048 container None
+									1049 container Vertical / None
+								1050 container 🧰Default-400
+									1051 text —
+								1052 container None
+									1053 container Vertical / None
+								1054 container Vertical / None
+								1055 container Vertical / 200 [4]
+									1056 container Spacer
+							1057 container 🟡 Cell
+								1058 container Vertical / 200 [4]
+									1059 container Spacer
+								1060 container Vertical / None
+								1061 container None
+									1062 container Vertical / None
+								1063 container 🧰Default-400
+									1064 text Частичная компенсация. Если согласитесь, товар останется у вас
+								1065 container None
+									1066 container Vertical / None
+								1067 container Vertical / None
+								1068 container Vertical / 200 [4]
+									1069 container Spacer
+							1070 container 🟡 Cell
+								1071 container Vertical / 200 [4]
+									1072 container Spacer
+								1073 container Vertical / None
+								1074 container None
+									1075 container Vertical / None
+								1076 container 🧰Default-400
+									1077 text —
+								1078 container None
+									1079 container Vertical / None
+								1080 container Vertical / None
+								1081 container Vertical / 200 [4]
+									1082 container Spacer
+							1083 container 🟡 Cell
+								1084 container Vertical / 200 [4]
+									1085 container Spacer
+								1086 container Vertical / None
+								1087 container None
+									1088 container Vertical / None
+								1089 container 🧰Default-400
+									1090 text Согласование возврата. Товар нужно будет отправить за границу и оплатить доставку
+								1091 container None
+									1092 container Vertical / None
+								1093 container Vertical / None
+								1094 container Vertical / 200 [4]
+									1095 container Spacer
+							1096 container 🟡 Cell
+								1097 container Vertical / 200 [4]
+									1098 container Spacer
+								1099 container Vertical / None
+								1100 container None
+									1101 container Vertical / None
+								1102 container 🧰Default-400
+									1103 text —
+								1104 container None
+									1105 container Vertical / None
+								1106 container Vertical / None
+								1107 container Vertical / 200 [4]
+									1108 container Spacer
+							1109 container 🟡 Cell
+								1110 container Vertical / 200 [4]
+									1111 container Spacer
+								1112 container Vertical / None
+								1113 container None
+									1114 container Vertical / None
+								1115 container 🧰Default-400
+									1116 text Отказ по возврату. Вы сможете открыть спор
+								1117 container None
+									1118 container Vertical / None
+								1119 container Vertical / None
+								1120 container Vertical / 200 [4]
+									1121 container Spacer
+							1122 container 🟢 Text
+								1123 container Vertical / None
+									1124 container Spacer
+								1125 container Horisontal / None
+								1126 text В каждом элементе списка есть подзаголовок (объединяющая фраза) и раскрывающий текст
+								1127 container Horisontal / None
+								1128 container Vertical / None
+									1129 container Spacer
+						1130 container Compare
+							1131 container 🟢 Text
+								1132 container Vertical / None
+									1133 container Spacer
+								1134 container Horisontal / None
+								1135 text Какие бывают решения по возвратам
+								1136 container Horisontal / None
+								1137 container Vertical / None
+									1138 container Spacer
+							1139 container 🟡 Cell
+								1140 container Vertical / 200 [4]
+									1141 container Spacer
+								1142 container Vertical / None
+								1143 container None
+									1144 container Vertical / None
+								1145 container 🧰Default-400
+									1146 text —
+								1147 container None
+									1148 container Vertical / None
+								1149 container Vertical / None
+								1150 container Vertical / 200 [4]
+									1151 container Spacer
+							1152 container 🟡 Cell
+								1153 container Vertical / 200 [4]
+									1154 container Spacer
+								1155 container Vertical / None
+								1156 container None
+									1157 container Vertical / None
+								1158 container 🧰Default-400
+									1159 text Частичная компенсация
+									1160 container Spacer
+									1161 text Если согласитесь, товар останется у вас
+								1162 container None
+									1163 container Vertical / None
+								1164 container Vertical / None
+								1165 container Vertical / 200 [4]
+									1166 container Spacer
+							1167 container 🟡 Cell
+								1168 container Vertical / 200 [4]
+									1169 container Spacer
+								1170 container Vertical / None
+								1171 container None
+									1172 container Vertical / None
+								1173 container 🧰Default-400
+									1174 text —
+								1175 container None
+									1176 container Vertical / None
+								1177 container Vertical / None
+								1178 container Vertical / 200 [4]
+									1179 container Spacer
+							1180 container 🟡 Cell
+								1181 container Vertical / 200 [4]
+									1182 container Spacer
+								1183 container Vertical / None
+								1184 container None
+									1185 container Vertical / None
+								1186 container 🧰Default-400
+									1187 text Согласование возврата
+									1188 container Spacer
+									1189 text Товар нужно будет отправить за границу и оплатить доставку
+								1190 container None
+									1191 container Vertical / None
+								1192 container Vertical / None
+								1193 container Vertical / 200 [4]
+									1194 container Spacer
+							1195 container 🟡 Cell
+								1196 container Vertical / 200 [4]
+									1197 container Spacer
+								1198 container Vertical / None
+								1199 container None
+									1200 container Vertical / None
+								1201 container 🧰Default-400
+									1202 text —
+								1203 container None
+									1204 container Vertical / None
+								1205 container Vertical / None
+								1206 container Vertical / 200 [4]
+									1207 container Spacer
+							1208 container 🟡 Cell
+								1209 container Vertical / 200 [4]
+									1210 container Spacer
+								1211 container Vertical / None
+								1212 container None
+									1213 container Vertical / None
+								1214 container 🧰Default-400
+									1215 text Отказ по возврату
+									1216 container Spacer
+									1217 text Вы сможете открыть спор
+								1218 container None
+									1219 container Vertical / None
+								1220 container Vertical / None
+								1221 container Vertical / 200 [4]
+									1222 container Spacer
+							1223 container 🟢 Text
+								1224 container Vertical / None
+									1225 container Spacer
+								1226 container Horisontal / None
+								1227 text Подзаголовок и текст в элементах списка идут отдельными строками
+								1228 container Horisontal / None
+								1229 container Vertical / None
+									1230 container Spacer
+						1231 container Compare
+							1232 container 🟢 Text
+								1233 container Vertical / None
+									1234 container Spacer
+								1235 container Horisontal / None
+								1236 text Какие бывают решения по возвратам
+								1237 container Horisontal / None
+								1238 container Vertical / None
+									1239 container Spacer
+							1240 container 🟡 Cell
+								1241 container Vertical / 200 [4]
+									1242 container Spacer
+								1243 container Vertical / None
+								1244 container None
+									1245 container Vertical / None
+								1246 container 🧰Default-400
+									1247 text —
+								1248 container None
+									1249 container Vertical / None
+								1250 container Vertical / None
+								1251 container Vertical / 200 [4]
+									1252 container Spacer
+							1253 container 🟡 Cell
+								1254 container Vertical / 200 [4]
+									1255 container Spacer
+								1256 container Vertical / None
+								1257 container None
+									1258 container Vertical / None
+								1259 container 🧰Default-400
+									1260 text Частичная компенсация
+								1261 container None
+									1262 container Vertical / None
+								1263 container Vertical / None
+								1264 container Vertical / 200 [4]
+									1265 container Spacer
+							1266 container 🟡 Cell
+								1267 container Vertical / 200 [4]
+									1268 container Spacer
+								1269 container Vertical / None
+								1270 container None
+									1271 container Vertical / None
+								1272 container 🧰Default-400
+									1273 text —
+								1274 container None
+									1275 container Vertical / None
+								1276 container Vertical / None
+								1277 container Vertical / 200 [4]
+									1278 container Spacer
+							1279 container 🟡 Cell
+								1280 container Vertical / 200 [4]
+									1281 container Spacer
+								1282 container Vertical / None
+								1283 container None
+									1284 container Vertical / None
+								1285 container 🧰Default-400
+									1286 text Согласование возврата
+								1287 container None
+									1288 container Vertical / None
+								1289 container Vertical / None
+								1290 container Vertical / 200 [4]
+									1291 container Spacer
+							1292 container 🟡 Cell
+								1293 container Vertical / 200 [4]
+									1294 container Spacer
+								1295 container Vertical / None
+								1296 container None
+									1297 container Vertical / None
+								1298 container 🧰Default-400
+									1299 text —
+								1300 container None
+									1301 container Vertical / None
+								1302 container Vertical / None
+								1303 container Vertical / 200 [4]
+									1304 container Spacer
+							1305 container 🟡 Cell
+								1306 container Vertical / 200 [4]
+									1307 container Spacer
+								1308 container Vertical / None
+								1309 container None
+									1310 container Vertical / None
+								1311 container 🧰Default-400
+									1312 text Отказ по возврату
+								1313 container None
+									1314 container Vertical / None
+								1315 container Vertical / None
+								1316 container Vertical / 200 [4]
+									1317 container Spacer
+							1318 container 🟢 Text
+								1319 container Vertical / None
+									1320 container Spacer
+								1321 container Horisontal / None
+								1322 text Все элементы списка — подзаголовки без текста
+								1323 container Horisontal / None
+								1324 container Vertical / None
+									1325 container Spacer
+						1326 container Title&Subtitle
+							1327 container 🟢 Text
+								1328 container Vertical / None
+									1329 container Spacer
+								1330 container Horisontal / None
+								1331 text В списке может быть не больше трёх пунктов, в подзаголовке — до двух строк, в тексте — до трёх строк.
+								1332 container Horisontal / None
+								1333 container Vertical / None
+									1334 container Spacer
+						1335 container Title&Subtitle
+							1336 container 🟢 Text
+								1337 container Vertical / None
+									1338 container Spacer
+								1339 container Horisontal / None
+								1340 text Элементы списка должны быть связаны с заголовком блока
+								1341 container Horisontal / None
+								1342 container Vertical / None
+									1343 container Spacer
+							1344 container 🟢 Text
+								1345 container Vertical / None
+									1346 container Spacer
+								1347 container Horisontal / None
+								1348 container
+									1349 text Если список идёт после одного или двух абзацев текста, нужно обязательно связывать элементы с основным заголовком — как по синтаксису, так и по контексту. В идеале нужно добиться того, чтобы заголовок блока, заголовок списка и сами элементы списка складывались в единый сторителлинг. Подзаголовки списков склоняются относительно заголовка. Если в заге пишем «Какие товары мы доставляем», то в списке нельзя писать «Одежда». Необходимо написать «Одежду». Если заголовок списка является частью обычного текста внутри блока, после него допустимо поставить двоеточие. Если заголовок выделен цветом или кеглем, двоеточие в конце не ставится.
+								1350 container Horisontal / None
+								1351 container Vertical / None
+									1352 container Spacer
+						1353 container ContentCompare
+							1354 container 🟢 Text
+								1355 container Vertical / None
+									1356 container Spacer
+								1357 container Horisontal / None
+								1358 text Решения по возвратам
+								1359 container Horisontal / None
+								1360 container Vertical / None
+									1361 container Spacer
+							1362 container 🟢 Text
+								1363 container Vertical / None
+									1364 container Spacer
+								1365 container Horisontal / None
+								1366 text Заказы из-за рубежа нельзя вернуть в пункты выдачи Ozon. Вот как продавец может ответить на заявку о возврате:
+								1367 container Horisontal / None
+								1368 container Vertical / None
+									1369 container Spacer
+							1370 container 🟡 Cell
+								1371 container Vertical / 200 [4]
+									1372 container Spacer
+								1373 container Vertical / None
+								1374 container None
+									1375 container Vertical / None
+								1376 container 🧰Default-400
+									1377 text —
+								1378 container None
+									1379 container Vertical / None
+								1380 container Vertical / None
+								1381 container Vertical / 200 [4]
+									1382 container Spacer
+							1383 container 🟡 Cell
+								1384 container Vertical / 200 [4]
+									1385 container Spacer
+								1386 container Vertical / None
+								1387 container None
+									1388 container Vertical / None
+								1389 container 🧰Default-400
+									1390 text Частичная компенсация
+									1391 container Spacer
+									1392 text Если согласитесь, товар останется у вас
+								1393 container None
+									1394 container Vertical / None
+								1395 container Vertical / None
+								1396 container Vertical / 200 [4]
+									1397 container Spacer
+							1398 container 🟡 Cell
+								1399 container Vertical / 200 [4]
+									1400 container Spacer
+								1401 container Vertical / None
+								1402 container None
+									1403 container Vertical / None
+								1404 container 🧰Default-400
+									1405 text —
+								1406 container None
+									1407 container Vertical / None
+								1408 container Vertical / None
+								1409 container Vertical / 200 [4]
+									1410 container Spacer
+							1411 container 🟡 Cell
+								1412 container Vertical / 200 [4]
+									1413 container Spacer
+								1414 container Vertical / None
+								1415 container None
+									1416 container Vertical / None
+								1417 container 🧰Default-400
+									1418 text Согласование возврата
+									1419 container Spacer
+									1420 text Товар нужно будет отправить за границу и оплатить доставку
+								1421 container None
+									1422 container Vertical / None
+								1423 container Vertical / None
+								1424 container Vertical / 200 [4]
+									1425 container Spacer
+							1426 container 🟡 Cell
+								1427 container Vertical / 200 [4]
+									1428 container Spacer
+								1429 container Vertical / None
+								1430 container None
+									1431 container Vertical / None
+								1432 container 🧰Default-400
+									1433 text —
+								1434 container None
+									1435 container Vertical / None
+								1436 container Vertical / None
+								1437 container Vertical / 200 [4]
+									1438 container Spacer
+							1439 container 🟡 Cell
+								1440 container Vertical / 200 [4]
+									1441 container Spacer
+								1442 container Vertical / None
+								1443 container None
+									1444 container Vertical / None
+								1445 container 🧰Default-400
+									1446 text Отказ по возврату
+									1447 container Spacer
+									1448 text Вы сможете открыть спор
+								1449 container None
+									1450 container Vertical / None
+								1451 container Vertical / None
+								1452 container Vertical / 200 [4]
+									1453 container Spacer
+							1454 container 🟢 Text
+								1455 container Vertical / None
+									1456 container Spacer
+								1457 container Horisontal / None
+								1458 text Элементы списка связаны с основным заголовком. Можно прочитать так: Решения по возвратам — Частичная компенсация...
+								1459 container Horisontal / None
+								1460 container Vertical / None
+									1461 container Spacer
+							1462 container 🟢 Text
+								1463 container Vertical / None
+									1464 container Spacer
+								1465 container Horisontal / None
+								1466 text Как вернуть товар в другую страну
+								1467 container Horisontal / None
+								1468 container Vertical / None
+									1469 container Spacer
+							1470 container 🟢 Text
+								1471 container Vertical / None
+									1472 container Spacer
+								1473 container Horisontal / None
+								1474 text Заказы из-за рубежа нельзя вернуть в пункты выдачи Ozon. Вот как продавец может ответить на заявку о возврате:
+								1475 container Horisontal / None
+								1476 container Vertical / None
+									1477 container Spacer
+							1478 container 🟡 Cell
+								1479 container Vertical / 200 [4]
+									1480 container Spacer
+								1481 container Vertical / None
+								1482 container None
+									1483 container Vertical / None
+								1484 container 🧰Default-400
+									1485 text —
+								1486 container None
+									1487 container Vertical / None
+								1488 container Vertical / None
+								1489 container Vertical / 200 [4]
+									1490 container Spacer
+							1491 container 🟡 Cell
+								1492 container Vertical / 200 [4]
+									1493 container Spacer
+								1494 container Vertical / None
+								1495 container None
+									1496 container Vertical / None
+								1497 container 🧰Default-400
+									1498 text Частичная компенсация
+									1499 container Spacer
+									1500 text Если согласитесь, товар останется у вас
+								1501 container None
+									1502 container Vertical / None
+								1503 container Vertical / None
+								1504 container Vertical / 200 [4]
+									1505 container Spacer
+							1506 container 🟡 Cell
+								1507 container Vertical / 200 [4]
+									1508 container Spacer
+								1509 container Vertical / None
+								1510 container None
+									1511 container Vertical / None
+								1512 container 🧰Default-400
+									1513 text —
+								1514 container None
+									1515 container Vertical / None
+								1516 container Vertical / None
+								1517 container Vertical / 200 [4]
+									1518 container Spacer
+							1519 container 🟡 Cell
+								1520 container Vertical / 200 [4]
+									1521 container Spacer
+								1522 container Vertical / None
+								1523 container None
+									1524 container Vertical / None
+								1525 container 🧰Default-400
+									1526 text Согласование возврата
+									1527 container Spacer
+									1528 text Товар нужно будет отправить за границу и оплатить доставку
+								1529 container None
+									1530 container Vertical / None
+								1531 container Vertical / None
+								1532 container Vertical / 200 [4]
+									1533 container Spacer
+							1534 container 🟡 Cell
+								1535 container Vertical / 200 [4]
+									1536 container Spacer
+								1537 container Vertical / None
+								1538 container None
+									1539 container Vertical / None
+								1540 container 🧰Default-400
+									1541 text —
+								1542 container None
+									1543 container Vertical / None
+								1544 container Vertical / None
+								1545 container Vertical / 200 [4]
+									1546 container Spacer
+							1547 container 🟡 Cell
+								1548 container Vertical / 200 [4]
+									1549 container Spacer
+								1550 container Vertical / None
+								1551 container None
+									1552 container Vertical / None
+								1553 container 🧰Default-400
+									1554 text Отказ по возврату
+									1555 container Spacer
+									1556 text Вы сможете открыть спор
+								1557 container None
+									1558 container Vertical / None
+								1559 container Vertical / None
+								1560 container Vertical / 200 [4]
+									1561 container Spacer
+							1562 container 🟢 Text
+								1563 container Vertical / None
+									1564 container Spacer
+								1565 container Horisontal / None
+								1566 text Заголовок текста не связан с элементами списка. Читается так: Как вернуть товар в другую страну — Частичная компенсация...
+								1567 container Horisontal / None
+								1568 container Vertical / None
+									1569 container Spacer
+						1570 container Title&Subtitle
+							1571 container 🟢 Text
+								1572 container Vertical / None
+									1573 container Spacer
+								1574 container Horisontal / None
+								1575 text После элементов списка не ставим точки
+								1576 container Horisontal / None
+								1577 container Vertical / None
+									1578 container Spacer
+							1579 container 🟢 Text
+								1580 container Vertical / None
+									1581 container Spacer
+								1582 container Horisontal / None
+								1583 container
+									1584 text Каждый элемент списка является отдельным интерфейсным элементом, поэтому после него точки не ставятся.  Один элемент списка не может содержать больше одного абзаца текста. Элементы списка должны быть примерно равны по размеру.
+								1585 container Horisontal / None
+								1586 container Vertical / None
+									1587 container Spacer
+						1588 container Title&Subtitle
+							1589 container 🟢 Text
+								1590 container Vertical / None
+									1591 container Spacer
+								1592 container Horisontal / None
+								1593 text Нумерованные и ненумерованные списки
+								1594 container Horisontal / None
+								1595 container Vertical / None
+									1596 container Spacer
+							1597 container 🟢 Text
+								1598 container Vertical / None
+									1599 container Spacer
+								1600 container Horisontal / None
+								1601 container
+									1602 text Нумерованный список лучше использовать, когда важна иерархия перечисляемых параметров. В остальных случаях подойдёт маркированный список. Нумерованным списком обозначаем последовательность действий, например, инструкцию. После цифры ставим точку. В конце фразы точку не ставим.
+								1603 container Horisontal / None
+								1604 container Vertical / None
+									1605 container Spacer
+						1606 container Compare
+							1607 container 🟢 Text
+								1608 container Vertical / None
+									1609 container Spacer
+								1610 container Horisontal / None
+								1611 text Как принять решение по возвратам
+								1612 container Horisontal / None
+								1613 container Vertical / None
+									1614 container Spacer
+							1615 container 🟡 Cell
+								1616 container Vertical / 200 [4]
+									1617 container Spacer
+								1618 container Vertical / None
+								1619 container None
+									1620 container Vertical / None
+								1621 container 🧰Default-400
+									1622 text 1.
+								1623 container None
+									1624 container Vertical / None
+								1625 container Vertical / None
+								1626 container Vertical / 200 [4]
+									1627 container Spacer
+							1628 container 🟡 Cell
+								1629 container Vertical / 200 [4]
+									1630 container Spacer
+								1631 container Vertical / None
+								1632 container None
+									1633 container Vertical / None
+								1634 container 🧰Default-400
+									1635 text Вам на почту придёт заявка о возврате от покупателя
+								1636 container None
+									1637 container Vertical / None
+								1638 container Vertical / None
+								1639 container Vertical / 200 [4]
+									1640 container Spacer
+							1641 container 🟡 Cell
+								1642 container Vertical / 200 [4]
+									1643 container Spacer
+								1644 container Vertical / None
+								1645 container None
+									1646 container Vertical / None
+								1647 container 🧰Default-400
+									1648 text 2.
+								1649 container None
+									1650 container Vertical / None
+								1651 container Vertical / None
+								1652 container Vertical / 200 [4]
+									1653 container Spacer
+							1654 container 🟡 Cell
+								1655 container Vertical / 200 [4]
+									1656 container Spacer
+								1657 container Vertical / None
+								1658 container None
+									1659 container Vertical / None
+								1660 container 🧰Default-400
+									1661 text Изучите заявку, сравните описание проблемы с фотографиями от покупателя
+								1662 container None
+									1663 container Vertical / None
+								1664 container Vertical / None
+								1665 container Vertical / 200 [4]
+									1666 container Spacer
+							1667 container 🟡 Cell
+								1668 container Vertical / 200 [4]
+									1669 container Spacer
+								1670 container Vertical / None
+								1671 container None
+									1672 container Vertical / None
+								1673 container 🧰Default-400
+									1674 text 3.
+								1675 container None
+									1676 container Vertical / None
+								1677 container Vertical / None
+								1678 container Vertical / 200 [4]
+									1679 container Spacer
+							1680 container 🟡 Cell
+								1681 container Vertical / 200 [4]
+									1682 container Spacer
+								1683 container Vertical / None
+								1684 container None
+									1685 container Vertical / None
+								1686 container 🧰Default-400
+									1687 text Выберите из списка ответ. Он автоматически придёт клиенту в чат
+								1688 container None
+									1689 container Vertical / None
+								1690 container Vertical / None
+								1691 container Vertical / 200 [4]
+									1692 container Spacer
+						1693 text Ненумерованным (маркированным) списком с длинным тире обозначаем перечень, где не важна последовательность.
+					1694 container Форматы
+						1695 container Title&Subtitle
+							1696 container 🟢 Text
+								1697 container Vertical / None
+									1698 container Spacer
+								1699 container Horisontal / None
+								1700 text Сервисные СМС
+								1701 container Horisontal / None
+								1702 container Vertical / None
+									1703 container Spacer
+						1704 container Title&Subtitle
+							1705 container 🟢 Text
+								1706 container Vertical / None
+									1707 container Spacer
+								1708 container Horisontal / None
+								1709 text Длина СМС — до 140 знаков
+								1710 container Horisontal / None
+								1711 container Vertical / None
+									1712 container Spacer
+							1713 container 🟢 Text
+								1714 container Vertical / None
+									1715 container Spacer
+								1716 container Horisontal / None
+								1717 text Пишите СМС как можно короче, в идеале до 70 знаков с пробелами, максимум — до 140.
+								1718 container Horisontal / None
+								1719 container Vertical / None
+									1720 container Spacer
+						1721 container Title&Subtitle
+							1722 container 🟢 Text
+								1723 container Vertical / None
+									1724 container Spacer
+								1725 container Horisontal / None
+								1726 text Ссылки пишем текстом
+								1727 container Horisontal / None
+								1728 container Vertical / None
+									1729 container Spacer
+							1730 container 🟢 Text
+								1731 container Vertical / None
+									1732 container Spacer
+								1733 container Horisontal / None
+								1734 text По техническим причинам мы не можем зашить гиперссылку в СМС, поэтому пишем её текстом.
+								1735 container Horisontal / None
+								1736 container Vertical / None
+									1737 container Spacer
+						1738 container ContentCompare
+							1739 container 🟢 Text
+								1740 container Vertical / None
+									1741 container Spacer
+								1742 container Horisontal / None
+								1743 container
+									1744 text Ваш возврат одобрили:  https://ozon.ru/t/CС1M
+								1745 container Horisontal / None
+								1746 container Vertical / None
+									1747 container Spacer
+						1748 container Title&Subtitle
+							1749 container 🟢 Text
+								1750 container Vertical / None
+									1751 container Spacer
+								1752 container Horisontal / None
+								1753 text Без заголовка и без тире
+								1754 container Horisontal / None
+								1755 container Vertical / None
+									1756 container Spacer
+							1757 container 🟢 Text
+								1758 container Vertical / None
+									1759 container Spacer
+								1760 container Horisontal / None
+								1761 text Не используем заголовок в СМС. А тире нельзя поставить из-за технических ограничений.
+								1762 container Horisontal / None
+								1763 container Vertical / None
+									1764 container Spacer
+					1765 container Форматы
+						1766 container Title&Subtitle
+							1767 container 🟢 Text
+								1768 container Vertical / None
+									1769 container Spacer
+								1770 container Horisontal / None
+								1771 text Сервисные пуши
+								1772 container Horisontal / None
+								1773 container Vertical / None
+									1774 container Spacer
+							1775 container 🟢 Text
+								1776 container Vertical / None
+									1777 container Spacer
+								1778 container Horisontal / None
+								1779 text Пуш состоит из заголовка и подзаголовка (основного текста). Дублировать информацию в них нельзя.
+								1780 container Horisontal / None
+								1781 container Vertical / None
+									1782 container Spacer
+						1783 container ContentCompare
+							1784 container 🟢 Text
+								1785 container Vertical / None
+									1786 container Spacer
+								1787 container Horisontal / None
+								1788 text Подготовьтесь к праздникам!
+								1789 container Horisontal / None
+								1790 container Vertical / None
+									1791 container Spacer
+							1792 container 🟢 Text
+								1793 container Vertical / None
+									1794 container Spacer
+								1795 container Horisontal / None
+								1796 text Скидки до 80% на День Холостяка
+								1797 container Horisontal / None
+								1798 container Vertical / None
+									1799 container Spacer
+							1800 container 🟢 Text
+								1801 container Vertical / None
+									1802 container Spacer
+								1803 container Horisontal / None
+								1804 text Скидки до 80% на День Холостяка
+								1805 container Horisontal / None
+								1806 container Vertical / None
+									1807 container Spacer
+							1808 container 🟢 Text
+								1809 container Vertical / None
+									1810 container Spacer
+								1811 container Horisontal / None
+								1812 text Покупайте с выгодой до 80% на День Холостяка
+								1813 container Horisontal / None
+								1814 container Vertical / None
+									1815 container Spacer
+						1816 container Title&Subtitle
+							1817 container 🟢 Text
+								1818 container Vertical / None
+									1819 container Spacer
+								1820 container Horisontal / None
+								1821 text В заголовке — до 25 знаков
+								1822 container Horisontal / None
+								1823 container Vertical / None
+									1824 container Spacer
+							1825 container 🟢 Text
+								1826 container Vertical / None
+									1827 container Spacer
+								1828 container Horisontal / None
+								1829 container
+									1830 text Заголовок должен содержать призыв или самую важную информацию.  В крайнем случае можно делать заголовок длиной до 40 символов, но тогда он будет обрезаться на смартфонах (зависит от модели).
+								1831 container Horisontal / None
+								1832 container Vertical / None
+									1833 container Spacer
+						1834 container Title&Subtitle
+							1835 container 🟢 Text
+								1836 container Vertical / None
+									1837 container Spacer
+								1838 container Horisontal / None
+								1839 text Подзаголовок
+								1840 container Horisontal / None
+								1841 container Vertical / None
+									1842 container Spacer
+							1843 container 🟢 Text
+								1844 container Vertical / None
+									1845 container Spacer
+								1846 container Horisontal / None
+								1847 container
+									1848 text В подзаголовке нераскрытого пуша — до 2 строк, в каждой по 25 знаков с пробелами.  По возможности стараемся уложиться в это количество, чтобы пуш не пришлось раскрывать. Максимально допустимая длина основного текста — 150 символов. Но такого размера лучше не допускать, чтобы всё сообщение уместилось на экране телефона.
+								1849 container Horisontal / None
+								1850 container Vertical / None
+									1851 container Spacer
+						1852 container Title&Subtitle
+							1853 container 🟢 Text
+								1854 container Vertical / None
+									1855 container Spacer
+								1856 container Horisontal / None
+								1857 text Эмодзи перед текстом
+								1858 container Horisontal / None
+								1859 container Vertical / None
+									1860 container Spacer
+							1861 container 🟢 Text
+								1862 container Vertical / None
+									1863 container Spacer
+								1864 container Horisontal / None
+								1865 text В пуше можно использовать эмодзи, но их лучше ставить перед текстом, а не после или внутри.
+								1866 container Horisontal / None
+								1867 container Vertical / None
+									1868 container Spacer
+						1869 container ContentCompare
+							1870 container 🟢 Text
+								1871 container Vertical / None
+									1872 container Spacer
+								1873 container Horisontal / None
+								1874 text 😍 Подготовьтесь к праздникам!
+								1875 container Horisontal / None
+								1876 container Vertical / None
+									1877 container Spacer
+							1878 container 🟢 Text
+								1879 container Vertical / None
+									1880 container Spacer
+								1881 container Horisontal / None
+								1882 text Скидки до 80% на День Холостяка
+								1883 container Horisontal / None
+								1884 container Vertical / None
+									1885 container Spacer
+							1886 container 🟢 Text
+								1887 container Vertical / None
+									1888 container Spacer
+								1889 container Horisontal / None
+								1890 text Скидки до 80% 😍 на День Холостяка😍
+								1891 container Horisontal / None
+								1892 container Vertical / None
+									1893 container Spacer
+							1894 container 🟢 Text
+								1895 container Vertical / None
+									1896 container Spacer
+								1897 container Horisontal / None
+								1898 text Покупайте с выгодой до 80% на День Холостяка
+								1899 container Horisontal / None
+								1900 container Vertical / None
+									1901 container Spacer
+						1902 container Title&Subtitle
+							1903 container 🟢 Text
+								1904 container Vertical / None
+									1905 container Spacer
+								1906 container Horisontal / None
+								1907 text Не используем ссылки
+								1908 container Horisontal / None
+								1909 container Vertical / None
+									1910 container Spacer
+							1911 container 🟢 Text
+								1912 container Vertical / None
+									1913 container Spacer
+								1914 container Horisontal / None
+								1915 text В пушах не ставим ссылки и не пишем фразы типа «перейдите по ссылке» или «нажмите на пуш».
+								1916 container Horisontal / None
+								1917 container Vertical / None
+									1918 container Spacer
+					1919 container Форматы
+						1920 container Title&Subtitle
+							1921 container 🟢 Text
+								1922 container Vertical / None
+									1923 container Spacer
+								1924 container Horisontal / None
+								1925 text Кнопки
+								1926 container Horisontal / None
+								1927 container Vertical / None
+									1928 container Spacer
+						1929 container Title&Subtitle
+							1930 container 🟢 Text
+								1931 container Vertical / None
+									1932 container Spacer
+								1933 container Horisontal / None
+								1934 text Общие правила
+								1935 container Horisontal / None
+								1936 container Vertical / None
+									1937 container Spacer
+							1938 container 🟢 Text
+								1939 container Vertical / None
+									1940 container Spacer
+								1941 container Horisontal / None
+								1942 container
+									1943 text Кнопка — это решение клиента, выраженное в интерфейсе. Чаще всего текст на кнопке пишут в форме инфинитива (купить, перейти). Можно проверить, правильно ли написан текст на кнопке, «примерив» его на реакцию пользователя. Например, на предложение купить товар он может принять такие решения: «Ок, купить» или «Нет, закрыть предложение».
+								1944 container Horisontal / None
+								1945 container Vertical / None
+									1946 container Spacer
+						1947 container ContentCompare
+							1948 container 🟢 Text
+								1949 container Vertical / None
+									1950 container Spacer
+								1951 container Horisontal / None
+								1952 text Укажите адрес для курьера
+								1953 container Horisontal / None
+								1954 container Vertical / None
+									1955 container Spacer
+							1956 container 🟢 Button
+								1957 text Указать адрес
+							1958 container 🟢 Text
+								1959 container Vertical / None
+									1960 container Spacer
+								1961 container Horisontal / None
+								1962 text Укажите адрес для курьера
+								1963 container Horisontal / None
+								1964 container Vertical / None
+									1965 container Spacer
+							1966 container 🟢 Button
+								1967 text Указание адреса
+						1968 container Title&Subtitle
+							1969 container 🟢 Text
+								1970 container Vertical / None
+									1971 container Spacer
+								1972 container Horisontal / None
+								1973 text При этом кнопка может быть наречием, если пользователя просят только ознакомиться с информацией (ясно, понятно, хорошо). Не стоит использовать жаргонные слова и восклицательные знаки.
+								1974 container Horisontal / None
+								1975 container Vertical / None
+									1976 container Spacer
+						1977 container ContentCompare
+							1978 container 🟢 Text
+								1979 container Vertical / None
+									1980 container Spacer
+								1981 container Horisontal / None
+								1982 text Свежие продукты — только курьером
+								1983 container Horisontal / None
+								1984 container Vertical / None
+									1985 container Spacer
+							1986 container 🟢 Text
+								1987 container Vertical / None
+									1988 container Spacer
+								1989 container Horisontal / None
+								1990 text Мы не отправляем продукты с коротким сроком годности в пункты выдачи
+								1991 container Horisontal / None
+								1992 container Vertical / None
+									1993 container Spacer
+							1994 container 🟢 Button
+								1995 text Отлично
+							1996 container 🟢 Text
+								1997 container Vertical / None
+									1998 container Spacer
+								1999 container Horisontal / None
+								2000 text Свежие продукты — только курьером
+								2001 container Horisontal / None
+								2002 container Vertical / None
+									2003 container Spacer
+							2004 container 🟢 Text
+								2005 container Vertical / None
+									2006 container Spacer
+								2007 container Horisontal / None
+								2008 text Мы не отправляем продукты с коротким сроком годности в пункты выдачи
+								2009 container Horisontal / None
+								2010 container Vertical / None
+									2011 container Spacer
+							2012 container 🟢 Button
+								2013 text Кайфец!!!
+						2014 container Title&Subtitle
+							2015 container 🟢 Text
+								2016 container Vertical / None
+									2017 container Spacer
+								2018 container Horisontal / None
+								2019 container
+									2020 text Заголовок должен быть логически связан с кнопкой. Допустимо и даже правильно использовать в заголовке и кнопке одно и то же слово.  Важно учитывать, что мы просим от пользователя — если выполнить действие, то в кнопке должен быть инфинитив. А если просто информируем, то он может ответить наречием.
+								2021 container Horisontal / None
+								2022 container Vertical / None
+									2023 container Spacer
+						2024 container Title&Subtitle
+							2025 container 🟢 Text
+								2026 container Vertical / None
+									2027 container Spacer
+								2028 container Horisontal / None
+								2029 text Требуем действия от пользователя
+								2030 container Horisontal / None
+								2031 container Vertical / None
+									2032 container Spacer
+						2033 container ContentCompare
+							2034 container 🟢 Text
+								2035 container Vertical / None
+									2036 container Spacer
+								2037 container Horisontal / None
+								2038 text Укажите адрес для курьера
+								2039 container Horisontal / None
+								2040 container Vertical / None
+									2041 container Spacer
+							2042 container 🟢 Text
+								2043 container Vertical / None
+									2044 container Spacer
+								2045 container Horisontal / None
+								2046 text Свежие продукты отправляем только курьером. Так мы будем уверены, что ничего не испортится
+								2047 container Horisontal / None
+								2048 container Vertical / None
+									2049 container Spacer
+							2050 container 🟢 Button
+								2051 text Указать адрес
+							2052 container 🟢 Text
+								2053 container Vertical / None
+									2054 container Spacer
+								2055 container Horisontal / None
+								2056 text Укажите адрес для курьера
+								2057 container Horisontal / None
+								2058 container Vertical / None
+									2059 container Spacer
+							2060 container 🟢 Text
+								2061 container Vertical / None
+									2062 container Spacer
+								2063 container Horisontal / None
+								2064 text Свежие продукты отправляем только курьером. Так мы будем уверены, что ничего не испортится
+								2065 container Horisontal / None
+								2066 container Vertical / None
+									2067 container Spacer
+							2068 container 🟢 Button
+								2069 text Прекрасное решение!
+						2070 container Title&Subtitle
+							2071 container 🟢 Text
+								2072 container Vertical / None
+									2073 container Spacer
+								2074 container Horisontal / None
+								2075 text Просто информируем
+								2076 container Horisontal / None
+								2077 container Vertical / None
+									2078 container Spacer
+						2079 container ContentCompare
+							2080 container 🟢 Text
+								2081 container Vertical / None
+									2082 container Spacer
+								2083 container Horisontal / None
+								2084 text Свежие продукты — только курьером
+								2085 container Horisontal / None
+								2086 container Vertical / None
+									2087 container Spacer
+							2088 container 🟢 Text
+								2089 container Vertical / None
+									2090 container Spacer
+								2091 container Horisontal / None
+								2092 text Мы не отправляем продукты с коротким сроком годности в пункты выдачи
+								2093 container Horisontal / None
+								2094 container Vertical / None
+									2095 container Spacer
+							2096 container 🟢 Button
+								2097 text Понятно
+							2098 container 🟢 Text
+								2099 container Vertical / None
+									2100 container Spacer
+								2101 container Horisontal / None
+								2102 text Свежие продукты — только курьером
+								2103 container Horisontal / None
+								2104 container Vertical / None
+									2105 container Spacer
+							2106 container 🟢 Text
+								2107 container Vertical / None
+									2108 container Spacer
+								2109 container Horisontal / None
+								2110 text Мы не отправляем продукты с коротким сроком годности в пункты выдачи
+								2111 container Horisontal / None
+								2112 container Vertical / None
+									2113 container Spacer
+							2114 container 🟢 Button
+								2115 text Купить
+						2116 container Title&Subtitle
+							2117 container 🟢 Text
+								2118 container Vertical / None
+									2119 container Spacer
+								2120 container Horisontal / None
+								2121 text Кнопки в сторис и онбордингах
+								2122 container Horisontal / None
+								2123 container Vertical / None
+									2124 container Spacer
+							2125 container 🟢 Text
+								2126 container Vertical / None
+									2127 container Spacer
+								2128 container Horisontal / None
+								2129 text Кнопки в сторис и онбордингах лучше не использовать. Чтобы перейти от одного слайда к следующему, стоит применять обычный тап.
+								2130 container Horisontal / None
+								2131 container Vertical / None
+									2132 container Spacer
+						2133 container Title&Subtitle
+							2134 container 🟢 Text
+								2135 container Vertical / None
+									2136 container Spacer
+								2137 container Horisontal / None
+								2138 text Почему так
+								2139 container Horisontal / None
+								2140 container Vertical / None
+									2141 container Spacer
+							2142 container 🟢 Text
+								2143 container Vertical / None
+									2144 container Spacer
+								2145 container Horisontal / None
+								2146 container
+									2147 text При размещении кнопок в таких форматах есть 3 варианта текстов на кнопках:
+									2148 content list
+										2149 text Дефолтное «Далее», «Дальше», «ОК»
+										2150 text Излишне эмоциональные фразы типа «Вау, погнали дальше», «Давай ещё, вперёд!»
+										2151 text Пояснялки, которые рассказывают, что будет на следующем слайде: «А как это сделать», «Что мне за это будет», «Про условия рассрочки»
+									2152 text В каждом из этих вариантов есть свои минусы. Первый вариант скучный и необязательный, это просто текст-заглушка, его можно смело убирать. Фразы из второго варианта не всегда соответствуют моменту и сторителлингу. Третьи занимают много места на кнопке и полезны только в тех обстоятельствах, когда пользователю важно знать, куда он перейдёт дальше, например, при оформлении кредита.
+								2153 container Horisontal / None
+								2154 container Vertical / None
+									2155 container Spacer
+						2156 container Title&Subtitle
+							2157 container 🟢 Text
+								2158 container Vertical / None
+									2159 container Spacer
+								2160 container Horisontal / None
+								2161 text Кнопка-одобрение
+								2162 container Horisontal / None
+								2163 container Vertical / None
+									2164 container Spacer
+							2165 container 🟢 Text
+								2166 container Vertical / None
+									2167 container Spacer
+								2168 container Horisontal / None
+								2169 container
+									2170 text Есть тип кнопок, которые закрывают онбординги и никуда не ведут. Обычно это значит, что мы знакомим пользователя с информацией, и он может учесть её (а может и забить/забыть). В таком случае можно использовать следующие кнопки: «Хорошо», «ОК» (не «Окей» и не «Ок»), «Понятно», «Отлично» (если информация для пользователя позитивная) и даже «Спасибо» (если дарим что-то особенное). Избегайте кнопок, которые могут считаться как пассивно-агрессивные или подобострастные: «Ясно», «Уже бегу», «Будет сделано».
+								2171 container Horisontal / None
+								2172 container Vertical / None
+									2173 container Spacer
+						2174 container ContentCompare
+							2175 container 🟢 Text
+								2176 container Vertical / None
+									2177 container Spacer
+								2178 container Horisontal / None
+								2179 text Нужно указать адрес
+								2180 container Horisontal / None
+								2181 container Vertical / None
+									2182 container Spacer
+							2183 container 🟢 Button
+								2184 text Хорошо
+							2185 container 🟢 Text
+								2186 container Vertical / None
+									2187 container Spacer
+								2188 container Horisontal / None
+								2189 text Нужно указать адрес
+								2190 container Horisontal / None
+								2191 container Vertical / None
+									2192 container Spacer
+							2193 container 🟢 Button
+								2194 text Будет сделано
+						2195 container ContentCompare
+							2196 container 🟢 Text
+								2197 container Vertical / None
+									2198 container Spacer
+								2199 container Horisontal / None
+								2200 text Нужно указать адрес
+								2201 container Horisontal / None
+								2202 container Vertical / None
+									2203 container Spacer
+							2204 container 🟢 Button
+								2205 text Понятно
+							2206 container 🟢 Text
+								2207 container Vertical / None
+									2208 container Spacer
+								2209 container Horisontal / None
+								2210 text Нужно указать адрес
+								2211 container Horisontal / None
+								2212 container Vertical / None
+									2213 container Spacer
+							2214 container 🟢 Button
+								2215 text Уже бегу!
+						2216 container ContentCompare
+							2217 container 🟢 Text
+								2218 container Vertical / None
+									2219 container Spacer
+								2220 container Horisontal / None
+								2221 text Мы используем куки
+								2222 container Horisontal / None
+								2223 container Vertical / None
+									2224 container Spacer
+							2225 container 🟢 Button
+								2226 text ОК
+							2227 container 🟢 Text
+								2228 container Vertical / None
+									2229 container Spacer
+								2230 container Horisontal / None
+								2231 text Мы используем куки
+								2232 container Horisontal / None
+								2233 container Vertical / None
+									2234 container Spacer
+							2235 container 🟢 Button
+								2236 text Ясно
+						2237 container ContentCompare
+							2238 container 🟢 Text
+								2239 container Vertical / None
+									2240 container Spacer
+								2241 container Horisontal / None
+								2242 text Дарим вам бесплатную доставку
+								2243 container Horisontal / None
+								2244 container Vertical / None
+									2245 container Spacer
+							2246 container 🟢 Button
+								2247 text Спасибо
+							2248 container 🟢 Text
+								2249 container Vertical / None
+									2250 container Spacer
+								2251 container Horisontal / None
+								2252 text Дарим вам бесплатную доставку
+								2253 container Horisontal / None
+								2254 container Vertical / None
+									2255 container Spacer
+							2256 container 🟢 Button
+								2257 text Спасибо, услужили, закажу прямо сейчас
+					2258 container Форматы
+						2259 container Title&Subtitle
+							2260 container 🟢 Text
+								2261 container Vertical / None
+									2262 container Spacer
+								2263 container Horisontal / None
+								2264 text Заголовки и подзаголовки
+								2265 container Horisontal / None
+								2266 container Vertical / None
+									2267 container Spacer
+						2268 container Title&Subtitle
+							2269 container 🟢 Text
+								2270 container Vertical / None
+									2271 container Spacer
+								2272 container Horisontal / None
+								2273 text Заголовок и подзаголовок — две единицы смысла
+								2274 container Horisontal / None
+								2275 container Vertical / None
+									2276 container Spacer
+							2277 container 🟢 Text
+								2278 container Vertical / None
+									2279 container Spacer
+								2280 container Horisontal / None
+								2281 text В подзаголовке используем только полные фразы, чтобы их можно было прочитать по отдельности. Подзаголовки всегда пишем с большой буквы.
+								2282 container Horisontal / None
+								2283 container Vertical / None
+									2284 container Spacer
+						2285 container ContentCompare
+							2286 container 🟢 Text
+								2287 container Vertical / None
+									2288 container Spacer
+								2289 container Horisontal / None
+								2290 text Бонусы Ozon Карты
+								2291 container Horisontal / None
+								2292 container Vertical / None
+									2293 container Spacer
+							2294 container 🟢 Text
+								2295 container Vertical / None
+									2296 container Spacer
+								2297 container Horisontal / None
+								2298 text Дарим кешбэк 10% и подписку Premium
+								2299 container Horisontal / None
+								2300 container Vertical / None
+									2301 container Spacer
+							2302 container 🟢 Text
+								2303 container Vertical / None
+									2304 container Spacer
+								2305 container Horisontal / None
+								2306 text Вы получите
+								2307 container Horisontal / None
+								2308 container Vertical / None
+									2309 container Spacer
+							2310 container 🟢 Text
+								2311 container Vertical / None
+									2312 container Spacer
+								2313 container Horisontal / None
+								2314 text Больше кешбэка и подписку Premium 
+								2315 container Horisontal / None
+								2316 container Vertical / None
+									2317 container Spacer
+						2318 container ContentCompare
+							2319 container 🟢 Text
+								2320 container Vertical / None
+									2321 container Spacer
+								2322 container Horisontal / None
+								2323 text Выгода до 30%
+								2324 container Horisontal / None
+								2325 container Vertical / None
+									2326 container Spacer
+							2327 container 🟢 Text
+								2328 container Vertical / None
+									2329 container Spacer
+								2330 container Horisontal / None
+								2331 text Скидки на акционные товары
+								2332 container Horisontal / None
+								2333 container Vertical / None
+									2334 container Spacer
+							2335 container 🟢 Text
+								2336 container Vertical / None
+									2337 container Spacer
+								2338 container Horisontal / None
+								2339 text Скидки до 30%
+								2340 container Horisontal / None
+								2341 container Vertical / None
+									2342 container Spacer
+							2343 container 🟢 Text
+								2344 container Vertical / None
+									2345 container Spacer
+								2346 container Horisontal / None
+								2347 text на товары по акциям
+								2348 container Horisontal / None
+								2349 container Vertical / None
+									2350 container Spacer
+						2351 container ContentCompare
+							2352 container 🟢 Text
+								2353 container Vertical / None
+									2354 container Spacer
+								2355 container Horisontal / None
+								2356 text Скройте баланс
+								2357 container Horisontal / None
+								2358 container Vertical / None
+									2359 container Spacer
+							2360 container 🟢 Text
+								2361 container Vertical / None
+									2362 container Spacer
+								2363 container Horisontal / None
+								2364 text Посторонние не увидят сумму на главной странице и в личном кабинете
+								2365 container Horisontal / None
+								2366 container Vertical / None
+									2367 container Spacer
+							2368 container 🟢 Text
+								2369 container Vertical / None
+									2370 container Spacer
+								2371 container Horisontal / None
+								2372 text Скройте баланс
+								2373 container Horisontal / None
+								2374 container Vertical / None
+									2375 container Spacer
+							2376 container 🟢 Text
+								2377 container Vertical / None
+									2378 container Spacer
+								2379 container Horisontal / None
+								2380 text На главной странице и в личном кабинете
+								2381 container Horisontal / None
+								2382 container Vertical / None
+									2383 container Spacer
+						2384 container Title&Subtitle
+							2385 container 🟢 Text
+								2386 container Vertical / None
+									2387 container Spacer
+								2388 container Horisontal / None
+								2389 text Почему так
+								2390 container Horisontal / None
+								2391 container Vertical / None
+									2392 container Spacer
+							2393 container 🟢 Text
+								2394 container Vertical / None
+									2395 container Spacer
+								2396 container Horisontal / None
+								2397 container
+									2398 text Люди не читают текст целиком, а сканируют, пробегают по нему взглядом. Да, даже по самым коротким элементам интерфейса. Чаще всего тексты просматривают по траектории буквы F, захватывая первые слова из заголовков и абзацев. Поэтому важно, чтобы каждое предложение было отдельной единицей смысла. Даже если пользователь не прочитает какой-то из элементов, он в целом уловит смысл. Когда мы пишем одно предложение и разбиваем его на заголовок и подзаголовок, мы заставляем человека последовательно и внимательно читать текст целиком. Пользователю это тяжело и несвойственно, он напрягается, что снижает лояльность к нашему сервису.
+								2399 container Horisontal / None
+								2400 container Vertical / None
+									2401 container Spacer
+						2402 container Title&Subtitle
+							2403 container 🟢 Text
+								2404 container Vertical / None
+									2405 container Spacer
+								2406 container Horisontal / None
+								2407 text Есть подозрение, что именно так вы пробежали по тексту выше — по траектории буквы F
+								2408 container Horisontal / None
+								2409 container Vertical / None
+									2410 container Spacer
+							2411 container 🟢 Text
+								2412 container Vertical / None
+									2413 container Spacer
+								2414 container Horisontal / None
+								2415 container
+									2416 text Люди не читают текст целиком, а сканируют, пробегают по нему взглядом.  Да, даже по самым коротким элементам интерфейса. Чаще всего тексты просматривают по траектории буквы F, захватывая первые слова из заголовков и абзацев. Поэтому важно, чтобы каждое предложение было отдельной единицей смысла.  Даже если пользователь не прочитает какой-то из элементов, он в целом уловит смысл. Когда мы пишем одно предложение и разбиваем его на заголовок  и подзаголовок, мызаставляем его последовательно и внимательно читать текст целиком. Пользователю это тяжело и несвойственно , он напрягается, что снижает лояльность к нашему сервису.
+								2417 container Horisontal / None
+								2418 container Vertical / None
+									2419 container Spacer
+						2420 container Title&Subtitle
+							2421 container 🟢 Text
+								2422 container Vertical / None
+									2423 container Spacer
+								2424 container Horisontal / None
+								2425 text Исключение
+								2426 container Horisontal / None
+								2427 container Vertical / None
+									2428 container Spacer
+							2429 container 🟢 Text
+								2430 container Vertical / None
+									2431 container Spacer
+								2432 container Horisontal / None
+								2433 text Единственный случай, когда можно объединить заголовок и подзаголовок в одну смысловую фразу, это когда мы заявляем в заголовке номинал скидки, а в подзаголовке говорим, на что скидка распространяется.
+								2434 container Horisontal / None
+								2435 container Vertical / None
+									2436 container Spacer
+						2437 container ContentCompare
+							2438 container 🟢 Text
+								2439 container Vertical / None
+									2440 container Spacer
+								2441 container Horisontal / None
+								2442 text Скидки до 30%
+								2443 container Horisontal / None
+								2444 container Vertical / None
+									2445 container Spacer
+							2446 container 🟢 Text
+								2447 container Vertical / None
+									2448 container Spacer
+								2449 container Horisontal / None
+								2450 text На товары по акциям
+								2451 container Horisontal / None
+								2452 container Vertical / None
+									2453 container Spacer
+				156 container Pages
+					157 toolbar Stepper
+						158 button Previous frame
+							159 image
+						160 button Next frame
+							161 image
+					162 button Restart
+						163 image
+						164 text Restart
+
+The focused UI element is 165 container ✅ Форматы

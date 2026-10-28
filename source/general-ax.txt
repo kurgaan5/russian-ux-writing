@@ -1,0 +1,461 @@
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5986&scaling=min-zoom&starting-point-node-id=1%3A6116".
+1 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5986&scaling=min-zoom&starting-point-node-id=1%3A6116
+	2 container react-page
+		3 container
+			4 container Prototype controls
+			5 container
+				165 container ✅ Общее
+					166 button ic_m_step_back_filled
+						167 container ic_m_step_back_filled
+					168 container Device Button
+						169 link ic_m_mobile_phone_filled
+							170 container ic_m_mobile_phone_filled
+					171 container
+						172 button 🟢 TagButtonCustom
+							173 container 🟢 TagButtonCustom
+								174 text Пишем в инфостиле
+						175 button 🟢 TagButtonCustom
+							176 container 🟢 TagButtonCustom
+								177 text Safe Choice
+						178 button 🟢 TagButtonCustom
+							179 container 🟢 TagButtonCustom
+								180 text Идеальное количество текста
+						181 button 🟢 TagButtonCustom
+							182 container 🟢 TagButtonCustom
+								183 text Длина и смысл
+					184 link logo ozon blue
+					185 container Header Desk
+						186 button ic_m_step_back_filled
+							187 container ic_m_step_back_filled
+						188 container Title&Subtitle
+							189 container 🟢 Text
+								190 container Vertical / None
+									191 container Spacer
+								192 container Horisontal / None
+								193 text Общее
+								194 container Horisontal / None
+								195 container Vertical / None
+									196 container Spacer
+						197 container graduation-cap_black_m
+							198 image Img
+					199 container Общее
+						200 container Title&Subtitle
+							201 container 🟢 Text
+								202 container Vertical / None
+									203 container Spacer
+								204 container Horisontal / None
+								205 text Длина и смысл предложения
+								206 container Horisontal / None
+								207 container Vertical / None
+									208 container Spacer
+							209 container 🟢 Text
+								210 container Vertical / None
+									211 container Spacer
+								212 container Horisontal / None
+								213 container
+									214 text В одном предложении должна быть одна мысль. Не стоит соединять две мысли, иначе фраза будет слишком сложная для понимания. И никогда нельзя сокращать фразы в ущерб смыслу.
+								215 container Horisontal / None
+								216 container Vertical / None
+									217 container Spacer
+						218 container ContentCompare
+							219 container 🟢 Text
+								220 container Vertical / None
+									221 container Spacer
+								222 container Horisontal / None
+								223 container
+									224 text (сегодня 24 ноября)  Деньги поступят на счёт до 27 ноября. Иногда они идут дольше — до 10 рабочих дней
+								225 container Horisontal / None
+								226 container Vertical / None
+									227 container Spacer
+							228 container 🟢 Text
+								229 container Vertical / None
+									230 container Spacer
+								231 container Horisontal / None
+								232 text Предполагаем, что деньги придут на днях. Но если будет задержка на стороне банка, срок увеличится до 10 дней 
+								233 container Horisontal / None
+								234 container Vertical / None
+									235 container Spacer
+							236 container 🟢 Text
+								237 container Vertical / None
+									238 container Spacer
+								239 container Horisontal / None
+								240 container
+									241 text (сегодня 24 ноября)  Деньги поступят на счёт до 27 ноября, в течение 10 рабочих дней
+								242 container Horisontal / None
+								243 container Vertical / None
+									244 container Spacer
+							245 container 🟢 Text
+								246 container Vertical / None
+									247 container Spacer
+								248 container Horisontal / None
+								249 text Здесь две мысли соединены в одно предложение, из-за этого смысл искажён. У пользователя не скла-дывается математика — до 27 осталось 3 дня, при чём тут 10 дней?
+								250 container Horisontal / None
+								251 container Vertical / None
+									252 container Spacer
+					253 container Общее
+						254 container Title&Subtitle
+							255 container 🟢 Text
+								256 container Vertical / None
+									257 container Spacer
+								258 container Horisontal / None
+								259 text Идеальное количество текста
+								260 container Horisontal / None
+								261 container Vertical / None
+									262 container Spacer
+							263 container 🟢 Text
+								264 container Vertical / None
+									265 container Spacer
+								266 container Horisontal / None
+								267 container
+									268 text В интерфейсах считается, что чем меньше текста, тем лучше. Это действительно так, потому что большое количество текста повышает когнитивную нагрузку на пользователя — он просто устаёт читать. Однако есть исключение: если пользователю очень важна информация, он прочитает даже большой текст.  Например, в онбордингах и при обучении пользователь встречается с большим количеством текста. Но он с ним справляется, так как есть мотивация разобраться в новой информации. Поэтому важно стараться сокращать текст в интерфейсе, но не удалять важную информацию. Если текста получается много, его лучше разбивать на разные экраны и элементы, чтобы подавать пользователю порционно.
+								269 container Horisontal / None
+								270 container Vertical / None
+									271 container Spacer
+						272 container Title&Subtitle
+							273 container 🟢 Text
+								274 container Vertical / None
+									275 container Spacer
+								276 container Horisontal / None
+								277 text Примерный «идеальный» размер текста в интерфейсе (выведен опытным путём)
+								278 container Horisontal / None
+								279 container Vertical / None
+									280 container Spacer
+						281 container Title&Subtitle
+							282 container 🟢 Icon
+								283 text 1
+							284 container 🟢 Text
+								285 container Vertical / None
+									286 container Spacer
+								287 container Horisontal / None
+								288 text Заголовок
+								289 container Horisontal / None
+								290 container Vertical / None
+									291 container Spacer
+							292 container 🟢 Text
+								293 container Vertical / None
+									294 container Spacer
+								295 container Horisontal / None
+								296 text 1 предложение до 30 знаков
+								297 container Horisontal / None
+								298 container Vertical / None
+									299 container Spacer
+						300 container Title&Subtitle
+							301 container 🟢 Icon
+								302 text 2
+							303 container 🟢 Text
+								304 container Vertical / None
+									305 container Spacer
+								306 container Horisontal / None
+								307 text Подзаголовок (основной текст)
+								308 container Horisontal / None
+								309 container Vertical / None
+									310 container Spacer
+							311 container 🟢 Text
+								312 container Vertical / None
+									313 container Spacer
+								314 container Horisontal / None
+								315 text От 2 до 7 предложений до 200 знаков
+								316 container Horisontal / None
+								317 container Vertical / None
+									318 container Spacer
+						319 container Title&Subtitle
+							320 container 🟢 Icon
+								321 text 3
+							322 container 🟢 Text
+								323 container Vertical / None
+									324 container Spacer
+								325 container Horisontal / None
+								326 text Кнопка
+								327 container Horisontal / None
+								328 container Vertical / None
+									329 container Spacer
+							330 container 🟢 Text
+								331 container Vertical / None
+									332 container Spacer
+								333 container Horisontal / None
+								334 text От 1 до 3 слов до 15 знаков
+								335 container Horisontal / None
+								336 container Vertical / None
+									337 container Spacer
+						338 container Title&Subtitle
+							339 container 🟢 Text
+								340 container Vertical / None
+									341 container Spacer
+								342 container Horisontal / None
+								343 text Сокращения текстовых блоков
+								344 container Horisontal / None
+								345 container Vertical / None
+									346 container Spacer
+							347 container 🟢 Text
+								348 container Vertical / None
+									349 container Spacer
+								350 container Horisontal / None
+								351 text Если текст не умещается в заданный объём текстового блока, он может уходить в многоточие и раскрываться по клику на фразу «Показать полностью».
+								352 container Horisontal / None
+								353 container Vertical / None
+									354 container Spacer
+					355 container Общее
+						356 container Title&Subtitle
+							357 container 🟢 Text
+								358 container Vertical / None
+									359 container Spacer
+								360 container Horisontal / None
+								361 text Используем safe choice
+								362 container Horisontal / None
+								363 container Vertical / None
+									364 container Spacer
+							365 container 🟢 Text
+								366 container Vertical / None
+									367 container Spacer
+								368 container Horisontal / None
+								369 container
+									370 text Всегда пишите максимально просто и понятно. Не уверены, стоит ли шутить в этой ситуации — не шутите, напишите просто.  Сомневаетесь, поймёт ли аудитория отсылку к модной теме или новое слово — не используйте, скажите прямо. Хотите сделать текст в тональности другой компании — сначала определите, а точно ли нам подходит такая тональность. Это и есть safe choice или безопасный выбор. Он хорошо подходит для большого продукта, рассчитанного на разнообразную аудиторию.  У Ozon больше 40 млн активных пользователей из разных стран и городов, и все они обладают разным бэкграундом. Если мы хотим говорить с ними на одном языке, лучше избегать разночтений в тексте. Кроме того, safe choice позволяет делать тексты максимально быстро и бесперебойно, так как не требуется долго тестировать рискованные варианты.
+								371 container Horisontal / None
+								372 container Vertical / None
+									373 container Spacer
+					374 container Общее
+						375 container Title&Subtitle
+							376 container 🟢 Text
+								377 container Vertical / None
+									378 container Spacer
+								379 container Horisontal / None
+								380 text Пишем в инфостиле
+								381 container Horisontal / None
+								382 container Vertical / None
+									383 container Spacer
+							384 container 🟢 Text
+								385 container Vertical / None
+									386 container Spacer
+								387 container Horisontal / None
+								388 container
+									389 text Информационный стиль или инфостиль — это приёмы редактирования, которые помогают очистить текст от мусора, наполнить его полезной информацией и сделать читаемым. Термин ввёл редактор Максим Ильяхов, автор книги «Пиши, сокращай».
+								390 container Horisontal / None
+								391 container Vertical / None
+									392 container Spacer
+						393 container Title&Subtitle
+							394 container 🟢 Text
+								395 container Vertical / None
+									396 container Spacer
+								397 container Horisontal / None
+								398 container
+									399 link Description: 🔗 , Value: maximilyahov.ru/hello/
+									400 link Description: Знакомство с инфостилем, Value: maximilyahov.ru/hello/
+									401 link maximilyahov.ru/hello/
+								402 container Horisontal / None
+								403 container Vertical / None
+									404 container Spacer
+						405 container Title&Subtitle
+							406 container 🟢 Text
+								407 container Vertical / None
+									408 container Spacer
+								409 container Horisontal / None
+								410 text Убираем стоп-слова
+								411 container Horisontal / None
+								412 container Vertical / None
+									413 container Spacer
+							414 container 🟢 Text
+								415 container Vertical / None
+									416 container Spacer
+								417 container Horisontal / None
+								418 container
+									419 text Некоторые фразы и выражения засоряют текст, делают его громоздким и тяжёлым для восприятия.  Ниже собрали выдержки из уроков Ильяхова про то, что считается стоп-словом. Найдёте такое в тексте — можете убирать.
+								420 container Horisontal / None
+								421 container Vertical / None
+									422 container Spacer
+						423 container Title&Subtitle
+							424 container 🟢 Text
+								425 container Vertical / None
+									426 container Spacer
+								427 container Horisontal / None
+								428 container
+									429 link Description: 🔗 , Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=8dda011850
+									430 link Description: Вводные конструкции, Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=8dda011850
+									431 link us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=8dda011850
+								432 container Horisontal / None
+								433 container Vertical / None
+									434 container Spacer
+						435 container 🟢 Button
+							436 text например
+						437 container 🟢 Button
+							438 text бесспорно
+						439 container 🟢 Button
+							440 text кстати
+						441 container 🟢 Button
+							442 text мягко говоря
+						443 container Title&Subtitle
+							444 container 🟢 Text
+								445 container Vertical / None
+									446 container Spacer
+								447 container Horisontal / None
+								448 container
+									449 link Description: 🔗 , Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=c3046a204e
+									450 link Description: Усилители, Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=c3046a204e
+									451 link us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=c3046a204e
+								452 container Horisontal / None
+								453 container Vertical / None
+									454 container Spacer
+						455 container 🟢 ButtonCustom
+							456 container
+								457 text совершенно  отвратительный сценарий
+						458 container 🟢 ButtonCustom
+							459 container
+								460 text очень  быстрый процессор
+						461 container 🟢 ButtonCustom
+							462 container
+								463 text абсолютно  надёжный банк
+						464 container 🟢 ButtonCustom
+							465 container
+								466 text максимально  выгодный кредит
+						467 container 🟢 ButtonCustom
+							468 container
+								469 text самый  лучший фильм
+						470 container Title&Subtitle
+							471 container 🟢 Text
+								472 container Vertical / None
+									473 container Spacer
+								474 container Horisontal / None
+								475 container
+									476 link Description: 🔗 , Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=f6a8b3258b
+									477 link Description: Оценка, Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=f6a8b3258b
+									478 link us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=f6a8b3258b
+								479 container Horisontal / None
+								480 container Vertical / None
+									481 container Spacer
+						482 container 🟢 Button
+							483 text красивый
+						484 container 🟢 Button
+							485 text умный
+						486 container 🟢 Button
+							487 text качественный
+						488 container 🟢 Button
+							489 text недорогой
+						490 container 🟢 Button
+							491 text быстрый
+						492 container Title&Subtitle
+							493 container 🟢 Text
+								494 container Vertical / None
+									495 container Spacer
+								496 container Horisontal / None
+								497 container
+									498 link Description: 🔗 , Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=22d349c6f8
+									499 link Description: Паразиты времени, Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=22d349c6f8
+									500 link us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=22d349c6f8
+								501 container Horisontal / None
+								502 container Vertical / None
+									503 container Spacer
+						504 container 🟢 Button
+							505 text в настоящее время
+						506 container 🟢 Button
+							507 text сейчас
+						508 container 🟢 Button
+							509 text в наши дни
+						510 container Title&Subtitle
+							511 container 🟢 Text
+								512 container Vertical / None
+									513 container Spacer
+								514 container Horisontal / None
+								515 text Местоимения
+								516 container Horisontal / None
+								517 container Vertical / None
+									518 container Spacer
+							519 container 🟢 Text
+								520 container Vertical / None
+									521 container Spacer
+								522 container Horisontal / None
+								523 text Их не нужно удалять полностью, но будьте с ними аккуратны.
+								524 container Horisontal / None
+								525 container Vertical / None
+									526 container Spacer
+						527 container 🟢 ButtonCustom
+							528 container
+								529 text мы  не доставляем  ваши  заказы сюда
+						530 container 🟢 ButtonCustom
+							531 container
+								532 text мы  предлагаем  вам  попробовать  наше  новое блюдо
+						533 container Title&Subtitle
+							534 container 🟢 Text
+								535 container Vertical / None
+									536 container Spacer
+								537 container Horisontal / None
+								538 container
+									539 link Description: 🔗 , Value: us9.campaign-archive2.com/?u=89138ced008e0282fe335b3a8&id=379f0d28ae
+									540 link Description: Штампы, Value: us9.campaign-archive2.com/?u=89138ced008e0282fe335b3a8&id=379f0d28ae
+									541 link us9.campaign-archive2.com/?u=89138ced008e0282fe335b3a8&id=379f0d28ae
+								542 container Horisontal / None
+								543 container Vertical / None
+									544 container Spacer
+						545 container 🟢 Button
+							546 text сайты под ключ, работаем не покладая рук
+						547 container 🟢 Button
+							548 text не упустите возможность, ни для кого не секрет, что…
+						549 container 🟢 Button
+							550 text профессионалы своего дела
+						551 container Title&Subtitle
+							552 container 🟢 Text
+								553 container Vertical / None
+									554 container Spacer
+								555 container Horisontal / None
+								556 container
+									557 link Description: 🔗 , Value: maximilyahov.ru/participle/
+									558 link Description: Отглагольные существительные, Value: maximilyahov.ru/participle/
+									559 link maximilyahov.ru/participle/
+								560 container Horisontal / None
+								561 container Vertical / None
+									562 container Spacer
+						563 container 🟢 Button
+							564 text оказываем услуги по созданию и продвижению
+						565 container 🟢 Button
+							566 text предоставляем услуги по подбору
+						567 container 🟢 Button
+							568 text проводятся ремонтные работы
+						569 container Title&Subtitle
+							570 container 🟢 Text
+								571 container Vertical / None
+									572 container Spacer
+								573 container Horisontal / None
+								574 container
+									575 link Description: 🔗 , Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=12d53cb4cf
+									576 link Description: Всё неопред, Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=12d53cb4cf
+									577 link Description: е, Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=12d53cb4cf
+									578 link Description: л, Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=12d53cb4cf
+									579 link Description: ё, Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=12d53cb4cf
+									580 link Description: нное, Value: us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=12d53cb4cf
+									581 link us9.campaign-archive.com/?u=89138ced008e0282fe335b3a8&id=12d53cb4cf
+								582 container Horisontal / None
+								583 container Vertical / None
+									584 container Spacer
+						585 container 🟢 Button
+							586 text как-то
+						587 container 🟢 Button
+							588 text что-то
+						589 container 🟢 Button
+							590 text почти
+						591 container 🟢 Button
+							592 text около
+						593 container 🟢 Button
+							594 text примерно
+						595 container 🟢 Button
+							596 text более 20 тысяч
+						597 container Title&Subtitle
+							598 container 🟢 Text
+								599 container Vertical / None
+									600 container Spacer
+								601 container Horisontal / None
+								602 container
+									603 text Чтобы проверить, соответствует ли текст инфостилю, можно прогнать его через  
+									604 link Description: сервис Главреда, Value: glvrd.ru/
+									605 text . Сервис проверяет текст на соответствие информационному стилю, помогает очистить его от словесного мусора.
+								606 container Horisontal / None
+								607 container Vertical / None
+									608 container Spacer
+				156 container Pages
+					157 toolbar Stepper
+						158 button Previous frame
+							159 image
+						160 button Next frame
+							161 image
+					162 button Restart
+						163 image
+						164 text Restart
+
+The focused UI element is 165 container ✅ Общее

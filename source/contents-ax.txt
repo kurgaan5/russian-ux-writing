@@ -1,0 +1,219 @@
+Редактированная копия AX: блок сведений о команде и её социальных ссылок удалён по запросу пользователя.
+
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&type=design&node-id=1-6116&viewport=465%2C392%2C0.05&t=ZNZQbkJk17MrDI9c-1&scaling=min-zoom&starting-point-node-id=1%3A6116".
+0 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&type=design&node-id=1-6116&viewport=465%2C392%2C0.05&t=ZNZQbkJk17MrDI9c-1&scaling=min-zoom&starting-point-node-id=1%3A6116
+	1 container react-page
+		2 container
+			3 container Prototype controls
+			4 container
+					938 container Title&Subtitle
+						939 container 🟢 Text
+							940 container Vertical / None
+								941 container Spacer
+							942 container Horisontal / None
+							943 text Всем привет! 👋
+							944 container Horisontal / None
+							945 container Vertical / None
+								946 container Spacer
+						947 container 🟢 Text
+							948 container Vertical / None
+								949 container Spacer
+							950 container Horisontal / None
+							951 container
+							953 container Horisontal / None
+							954 container Vertical / None
+								955 container Spacer
+					956 container Desk Card Massive
+						957 link Title&Subtitle
+							958 container Title&Subtitle
+								959 container 🟢 Text
+									960 container Vertical / None
+										961 container Spacer
+									962 container Horisontal / None
+									963 text Общее
+									964 container Horisontal / None
+									965 container Vertical / None
+										966 container Spacer
+								967 container 🟢 Text
+									968 container Vertical / None
+										969 container Spacer
+									970 container Horisontal / None
+									971 text Инфостиль, safe choice,  размер текста
+									972 container Horisontal / None
+									973 container Vertical / None
+										974 container Spacer
+						975 link Title&Subtitle
+							976 container Title&Subtitle
+								977 container 🟢 Text
+									978 container Vertical / None
+										979 container Spacer
+									980 container Horisontal / None
+									981 text Ссылки
+									982 container Horisontal / None
+									983 container Vertical / None
+										984 container Spacer
+								985 container 🟢 Text
+									986 container Vertical / None
+										987 container Spacer
+									988 container Horisontal / None
+									989 text Полезные ресурсы для работы
+									990 container Horisontal / None
+									991 container Vertical / None
+										992 container Spacer
+						993 container qr_m
+							994 image Img
+						995 container graduation-cap_black_m
+							996 image Img
+						997 link Title&Subtitle
+							998 container Title&Subtitle
+								999 container 🟢 Text
+									1000 container Vertical / None
+										1001 container Spacer
+									1002 container Horisontal / None
+									1003 text Экраны успеха
+									1004 container Horisontal / None
+									1005 container Vertical / None
+										1006 container Spacer
+								1007 container 🟢 Text
+									1008 container Vertical / None
+										1009 container Spacer
+									1010 container Horisontal / None
+									1011 text Как сообщить о приятном, не упуская самое важное
+									1012 container Horisontal / None
+									1013 container Vertical / None
+										1014 container Spacer
+						1015 link Title&Subtitle
+							1016 container Title&Subtitle
+								1017 container 🟢 Text
+									1018 container Vertical / None
+										1019 container Spacer
+									1020 container Horisontal / None
+									1021 text Ошибки
+									1022 container Horisontal / None
+									1023 container Vertical / None
+										1024 container Spacer
+								1025 container 🟢 Text
+									1026 container Vertical / None
+										1027 container Spacer
+									1028 container Horisontal / None
+									1029 text Как не напугать и направить в нужную сторону
+									1030 container Horisontal / None
+									1031 container Vertical / None
+										1032 container Spacer
+						1033 container sign-error_m
+							1034 image Img
+						1035 container sign-success_m
+							1036 image Img
+						1037 link Title&Subtitle
+							1038 container Title&Subtitle
+								1039 container 🟢 Text
+									1040 container Vertical / None
+										1041 container Spacer
+									1042 container Horisontal / None
+									1043 text Форматы
+									1044 container Horisontal / None
+									1045 container Vertical / None
+										1046 container Spacer
+								1047 container 🟢 Text
+									1048 container Vertical / None
+										1049 container Spacer
+									1050 container Horisontal / None
+									1051 text Заголовки, кнопки, пуши, письма
+									1052 container Horisontal / None
+									1053 container Vertical / None
+										1054 container Spacer
+						1055 container product-card-two_m
+							1056 image Img
+						1057 container сhar_cat-box-six_m
+							1058 image Img
+						1059 link Title&Subtitle
+							1060 container Title&Subtitle
+								1061 container 🟢 Text
+									1062 container Vertical / None
+										1063 container Spacer
+									1064 container Horisontal / None
+									1065 text Пустые состояния
+									1066 container Horisontal / None
+									1067 container Vertical / None
+										1068 container Spacer
+								1069 container 🟢 Text
+									1070 container Vertical / None
+										1071 container Spacer
+									1072 container Horisontal / None
+									1073 text Правила приличия на пустых экранах
+									1074 container Horisontal / None
+									1075 container Vertical / None
+										1076 container Spacer
+						1077 container paper-sheets_txt_m
+							1078 image Img
+						1079 link Title&Subtitle
+							1080 container Title&Subtitle
+								1081 container 🟢 Text
+									1082 container Vertical / None
+										1083 container Spacer
+									1084 container Horisontal / None
+									1085 text Как проверять интерфейсные тексты
+									1086 container Horisontal / None
+									1087 container Vertical / None
+										1088 container Spacer
+								1089 container 🟢 Text
+									1090 container Vertical / None
+										1091 container Spacer
+									1092 container Horisontal / None
+									1093 text Контекст и список для самопроверки
+									1094 container Horisontal / None
+									1095 container Vertical / None
+										1096 container Spacer
+						1097 container kettlebell-logo-black_m
+							1098 image Img
+						1099 link Title&Subtitle
+							1100 container Title&Subtitle
+								1101 container 🟢 Text
+									1102 container Vertical / None
+										1103 container Spacer
+									1104 container Horisontal / None
+									1105 text Слова
+									1106 container Horisontal / None
+									1107 container Vertical / None
+										1108 container Spacer
+								1109 container 🟢 Text
+									1110 container Vertical / None
+										1111 container Spacer
+									1112 container Horisontal / None
+									1113 text Усиливаем грамотность
+									1114 container Horisontal / None
+									1115 container Vertical / None
+										1116 container Spacer
+						1117 container tag-three-violet_m
+							1118 image Img
+						1119 link Title&Subtitle
+							1120 container Title&Subtitle
+								1121 container 🟢 Text
+									1122 container Vertical / None
+										1123 container Spacer
+									1124 container Horisontal / None
+									1125 text Знаки
+									1126 container Horisontal / None
+									1127 container Vertical / None
+										1128 container Spacer
+								1129 container 🟢 Text
+									1130 container Vertical / None
+										1131 container Spacer
+									1132 container Horisontal / None
+									1133 text Ставим точки, тире и пробел
+									1134 container Horisontal / None
+									1135 container Vertical / None
+										1136 container Spacer
+					1137 container logo ozon blue
+					1138 text Гайд по текстам
+					1139 text в интерфейсе
+				881 container Pages
+					882 toolbar Stepper
+						883 button (disabled) Previous frame
+							884 image
+						885 button Next frame
+							886 image
+					887 button Restart
+						888 image
+						889 text Restart
+

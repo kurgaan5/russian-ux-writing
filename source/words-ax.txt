@@ -1,0 +1,893 @@
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&type=design&node-id=1-6032&viewport=465%2C392%2C0.05&t=ZNZQbkJk17MrDI9c-1&scaling=min-zoom&starting-point-node-id=1%3A6116".
+0 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&type=design&node-id=1-6032&viewport=465%2C392%2C0.05&t=ZNZQbkJk17MrDI9c-1&scaling=min-zoom&starting-point-node-id=1%3A6116
+	1 container react-page
+		2 container
+			3 container Prototype controls
+			4 container
+				5 container ✅ Слова
+					6 button ic_m_step_back_filled
+						7 container ic_m_step_back_filled
+					8 container Device Button
+						9 link ic_m_mobile_phone_filled
+							10 container ic_m_mobile_phone_filled
+					11 container
+						12 button 🟢 TagButtonCustom
+							13 container 🟢 TagButtonCustom
+								14 text Написание слов
+						15 button 🟢 TagButtonCustom
+							16 container 🟢 TagButtonCustom
+								17 text Названия элементов
+						18 button 🟢 TagButtonCustom
+							19 container 🟢 TagButtonCustom
+								20 text Графические форматы
+						21 button 🟢 TagButtonCustom
+							22 container 🟢 TagButtonCustom
+								23 text Числа
+						24 button 🟢 TagButtonCustom
+							25 container 🟢 TagButtonCustom
+								26 text Единицы измерения
+						27 button 🟢 TagButtonCustom
+							28 container 🟢 TagButtonCustom
+								29 text Даты
+						30 button 🟢 TagButtonCustom
+							31 container 🟢 TagButtonCustom
+								32 text Время
+						33 button 🟢 TagButtonCustom
+							34 container 🟢 TagButtonCustom
+								35 text Предлоги, союзы и частицы
+						36 button 🟢 TagButtonCustom
+							37 container 🟢 TagButtonCustom
+								38 text Номер и телефон, почта и email
+					39 link logo ozon blue
+					40 container Header Desk
+						41 button ic_m_step_back_filled
+							42 container ic_m_step_back_filled
+						43 container Title&Subtitle
+							44 container 🟢 Text
+								45 container Vertical / None
+									46 container Spacer
+								47 container Horisontal / None
+								48 text Слова
+								49 container Horisontal / None
+								50 container Vertical / None
+									51 container Spacer
+						52 container kettlebell-logo-black_m
+							53 image Img
+					54 container Слова
+						55 container Title&Subtitle
+							56 container 🟢 Text
+								57 container Vertical / None
+									58 container Spacer
+								59 container Horisontal / None
+								60 text Номер и телефон, почта и email
+								61 container Horisontal / None
+								62 container Vertical / None
+									63 container Spacer
+							64 container 🟢 Text
+								65 container Vertical / None
+									66 container Spacer
+								67 container Horisontal / None
+								68 text Пишем слово «номер» рядом с самим номером.
+								69 container Horisontal / None
+								70 container Vertical / None
+									71 container Spacer
+						72 container 🟢 ButtonCustom
+							73 text Позвоните в банк по номеру 8 800...
+						74 container Title&Subtitle
+							75 container 🟢 Text
+								76 container Vertical / None
+									77 container Spacer
+								78 container Horisontal / None
+								79 text Пишем слово «телефон», когда может быть разночтение, например, с номером заказа.
+								80 container Horisontal / None
+								81 container Vertical / None
+									82 container Spacer
+						83 container ContentCompare
+							84 container 🟢 Text
+								85 container Vertical / None
+									86 container Spacer
+								87 container Horisontal / None
+								88 text Сообщите сотруднику нашего пункта выдачи номер заказа или цифровой код. Если возникнут вопросы, звоните по телефону +7...
+								89 container Horisontal / None
+								90 container Vertical / None
+									91 container Spacer
+							92 container 🟢 Text
+								93 container Vertical / None
+									94 container Spacer
+								95 container Horisontal / None
+								96 text Сообщите сотруднику нашего пункта выдачи номер заказа или цифровой код. Если возникнут вопросы, звоните по номеру +7...
+								97 container Horisontal / None
+								98 container Vertical / None
+									99 container Spacer
+						100 container Title&Subtitle
+							101 container 🟢 Text
+								102 container Vertical / None
+									103 container Spacer
+								104 container Horisontal / None
+								105 text Пишем «почта» рядом с электронным адресом, если нет разночтений и когда очевидно, что речь не про физическую почту.
+								106 container Horisontal / None
+								107 container Vertical / None
+									108 container Spacer
+						109 container 🟢 ButtonCustom
+							110 text Отправили код на почту example@ozon.ru
+						111 container Title&Subtitle
+							112 container 🟢 Text
+								113 container Vertical / None
+									114 container Spacer
+								115 container Horisontal / None
+								116 text Пишем email, когда можно подумать про физическую почту.
+								117 container Horisontal / None
+								118 container Vertical / None
+									119 container Spacer
+						120 container ContentCompare
+							121 container 🟢 Text
+								122 container Vertical / None
+									123 container Spacer
+								124 container Horisontal / None
+								125 text Ваш заказ уже на Почте России, подробности в email и в разделе Сообщения
+								126 container Horisontal / None
+								127 container Vertical / None
+									128 container Spacer
+							129 container 🟢 Text
+								130 container Vertical / None
+									131 container Spacer
+								132 container Horisontal / None
+								133 text Ваш заказ уже на Почте России, подробности на почте и в разделе Сообщения
+								134 container Horisontal / None
+								135 container Vertical / None
+									136 container Spacer
+					137 container Слова
+						138 container Title&Subtitle
+							139 container 🟢 Text
+								140 container Vertical / None
+									141 container Spacer
+								142 container Horisontal / None
+								143 text Предлоги, союзы и частицы
+								144 container Horisontal / None
+								145 container Vertical / None
+									146 container Spacer
+							147 container 🟢 Text
+								148 container Vertical / None
+									149 container Spacer
+								150 container Horisontal / None
+								151 text Правило простое: предлоги, союзы и частицы не должны висеть в конце строки, их нужно подтягивать к связанным словам с помощью неразрывного пробела.
+								152 container Horisontal / None
+								153 container Vertical / None
+									154 container Spacer
+						155 container 🟢 ButtonCustom
+							156 text за
+						157 container 🟢 ButtonCustom
+							158 text и
+						159 container 🟢 ButtonCustom
+							160 text в
+						161 container 🟢 ButtonCustom
+							162 text к
+						163 container 🟢 ButtonCustom
+							164 text от
+						165 container 🟢 ButtonCustom
+							166 text у
+						167 container 🟢 ButtonCustom
+							168 text из
+						169 container 🟢 ButtonCustom
+							170 text но
+						171 container 🟢 ButtonCustom
+							172 text не
+						173 container 🟢 ButtonCustom
+							174 text или
+						175 container 🟢 ButtonCustom
+							176 text при
+						177 container 🟢 ButtonCustom
+							178 text для
+						179 container 🟢 ButtonCustom
+							180 text с
+						181 container 🟢 ButtonCustom
+							182 text а
+						183 container 🟢 ButtonCustom
+							184 text по
+						185 container 🟢 ButtonCustom
+							186 text на
+						187 container ContentCompare
+							188 container 🟢 Text
+								189 container Vertical / None
+									190 container Spacer
+								191 container Horisontal / None
+								192 container
+									193 text Товар можно приобрести всего  за 100 рублей Подпишитесь на уведомления  про скидки и акции Заказывайте у нас товары  с быстрой доставкой
+								194 container Horisontal / None
+								195 container Vertical / None
+									196 container Spacer
+							197 container 🟢 Text
+								198 container Vertical / None
+									199 container Spacer
+								200 container Horisontal / None
+								201 container
+									202 text Товар можно приобрести всего за 100 рублей Подпишитесь на уведомления про скидки и акции Заказывайте у нас товары с быстрой доставкой
+								203 container Horisontal / None
+								204 container Vertical / None
+									205 container Spacer
+					206 container Слова
+						207 container Title&Subtitle
+							208 container 🟢 Text
+								209 container Vertical / None
+									210 container Spacer
+								211 container Horisontal / None
+								212 text Время
+								213 container Horisontal / None
+								214 container Vertical / None
+									215 container Spacer
+						216 container Title&Subtitle
+							217 container 🟢 Text
+								218 container Vertical / None
+									219 container Spacer
+								220 container Horisontal / None
+								221 text Часы и минуты пишем через двоеточие
+								222 container Horisontal / None
+								223 container Vertical / None
+									224 container Spacer
+							225 container 🟢 Text
+								226 container Vertical / None
+									227 container Spacer
+								228 container Horisontal / None
+								229 text Если указываем и дату, и время, то пишем их через запятую.
+								230 container Horisontal / None
+								231 container Vertical / None
+									232 container Spacer
+						233 container ContentCompare
+							234 container 🟢 Text
+								235 container Vertical / None
+									236 container Spacer
+								237 container Horisontal / None
+								238 text Срок хранения: до 26 апреля, 21:00
+								239 container Horisontal / None
+								240 container Vertical / None
+									241 container Spacer
+							242 container 🟢 Text
+								243 container Vertical / None
+									244 container Spacer
+								245 container Horisontal / None
+								246 container
+									247 text Срок хранения: до 21:00 26 апреля Срок хранения: до 26 апреля, до 21:00
+								248 container Horisontal / None
+								249 container Vertical / None
+									250 container Spacer
+						251 container Title&Subtitle
+							252 container 🟢 Text
+								253 container Vertical / None
+									254 container Spacer
+								255 container Horisontal / None
+								256 text Во временных диапазонах не пишем лишние нули.
+								257 container Horisontal / None
+								258 container Vertical / None
+									259 container Spacer
+						260 container ContentCompare
+							261 container 🟢 Text
+								262 container Vertical / None
+									263 container Spacer
+								264 container Horisontal / None
+								265 container
+									266 text Курьер приедет в 9:00 Привезём утром, 12:00-21:00
+								267 container Horisontal / None
+								268 container Vertical / None
+									269 container Spacer
+							270 container 🟢 Text
+								271 container Vertical / None
+									272 container Spacer
+								273 container Horisontal / None
+								274 container
+									275 text Курьер приедет в 09:00 Привезём утром, 12:00 — 21:00
+								276 container Horisontal / None
+								277 container Vertical / None
+									278 container Spacer
+					279 container Слова
+						280 container Title&Subtitle
+							281 container 🟢 Text
+								282 container Vertical / None
+									283 container Spacer
+								284 container Horisontal / None
+								285 text Даты
+								286 container Horisontal / None
+								287 container Vertical / None
+									288 container Spacer
+						289 container Title&Subtitle
+							290 container 🟢 Text
+								291 container Vertical / None
+									292 container Spacer
+								293 container Horisontal / None
+								294 text Сокращение месяцев
+								295 container Horisontal / None
+								296 container Vertical / None
+									297 container Spacer
+							298 container 🟢 Text
+								299 container Vertical / None
+									300 container Spacer
+								301 container Horisontal / None
+								302 text Месяцы можно писать как целиком, так и сокращать до 3 знаков.
+								303 container Horisontal / None
+								304 container Vertical / None
+									305 container Spacer
+						306 container 🟢 ButtonCustom
+							307 text янв
+						308 container 🟢 ButtonCustom
+							309 text фев
+						310 container 🟢 ButtonCustom
+							311 text мар
+						312 container 🟢 ButtonCustom
+							313 text апр
+						314 container 🟢 ButtonCustom
+							315 text май
+						316 container 🟢 ButtonCustom
+							317 text июн
+						318 container 🟢 ButtonCustom
+							319 text июл
+						320 container 🟢 ButtonCustom
+							321 text авг
+						322 container 🟢 ButtonCustom
+							323 text сен
+						324 container 🟢 ButtonCustom
+							325 text окт
+						326 container 🟢 ButtonCustom
+							327 text ноя
+						328 container 🟢 ButtonCustom
+							329 text дек
+						330 container Title&Subtitle
+							331 container 🟢 Text
+								332 container Vertical / None
+									333 container Spacer
+								334 container Horisontal / None
+								335 text В датах с одним месяцем предпочтительнее писать месяц полностью.
+								336 container Horisontal / None
+								337 container Vertical / None
+									338 container Spacer
+						339 container 🟢 ButtonCustom
+							340 text 23 сентября
+						341 container Title&Subtitle
+							342 container 🟢 Text
+								343 container Vertical / None
+									344 container Spacer
+								345 container Horisontal / None
+								346 text Диапазоны дат, временные периоды
+								347 container Horisontal / None
+								348 container Vertical / None
+									349 container Spacer
+							350 container 🟢 Text
+								351 container Vertical / None
+									352 container Spacer
+								353 container Horisontal / None
+								354 container
+									355 text Во всех диапазонах ставим среднее тире (U+2013) и полпробела (U+2009). После числа ставим неразрывный полупробел (U+202F). Это нужно на случай переноса — тире не должно переноситься на вторую строку.  После тире ставим обычный полупробел.
+								356 container Horisontal / None
+								357 container Vertical / None
+									358 container Spacer
+						359 container 🟢 ButtonCustom
+							360 text 10 дек 2021 – 22 фев 2022
+						361 container 🟢 ButtonCustom
+							362 text 10 дек – 21 фев 2022
+						363 container 🟢 ButtonCustom
+							364 text 25.02 – 29.02
+						365 container 🟢 ButtonCustom
+							366 text 10 декабря – 21 февраля
+						367 container 🟢 ButtonCustom
+							368 text 26 ноя, 0:00 – 14 дек, 23:59
+						369 container 🟢 ButtonCustom
+							370 text пн – ср
+						371 container Title&Subtitle
+							372 container 🟢 Text
+								373 container Vertical / None
+									374 container Spacer
+								375 container Horisontal / None
+								376 container
+									377 text В русском языке принято по-разному прописывать временные периоды. Есть специальные правила для диапазонов в одном месяце, в следующих друг за другом годах и в годах с интервалом в несколько лет. В одном случае нужно писать дефис, в другом — среднее тире без пробелов, в третьем — тире с пробелами. Мы приняли решение унифицировать написание диапазонов и отойти от стандартных правил. Это позволяет добиться консистентности в ситуациях, где встречается несколько таких диапазонов рядом. Например, в выборе дат доставки на странице подтверждения заказа.
+								378 container Horisontal / None
+								379 container Vertical / None
+									380 container Spacer
+						381 container Title&Subtitle
+							382 container 🟢 Text
+								383 container Vertical / None
+									384 container Spacer
+								385 container Horisontal / None
+								386 text Дата и день недели
+								387 container Horisontal / None
+								388 container Vertical / None
+									389 container Spacer
+							390 container 🟢 Text
+								391 container Vertical / None
+									392 container Spacer
+								393 container Horisontal / None
+								394 text Внутри текстов, где день недели не имеет большого значения, например, в обозначениях графиков работы, пишем маленькими буквами, без точек.
+								395 container Horisontal / None
+								396 container Vertical / None
+									397 container Spacer
+						398 container 🟢 ButtonCustom
+							399 text пн
+						400 container 🟢 ButtonCustom
+							401 text вт
+						402 container 🟢 ButtonCustom
+							403 text ср
+						404 container 🟢 ButtonCustom
+							405 text чт
+						406 container 🟢 ButtonCustom
+							407 text пт
+						408 container 🟢 ButtonCustom
+							409 text сб
+						410 container 🟢 ButtonCustom
+							411 text вс
+						412 container Title&Subtitle
+							413 container 🟢 Icon
+								414 container ic_s_danger_filled
+							415 container 🟢 Text
+								416 container Vertical / None
+									417 container Spacer
+								418 container Horisontal / None
+								419 text Исключение
+								420 container Horisontal / None
+								421 container Vertical / None
+									422 container Spacer
+							423 container 🟢 Text
+								424 container Vertical / None
+									425 container Spacer
+								426 container Horisontal / None
+								427 container
+									428 text В ордертрекинге и в пушах, а также везде, где день недели критически важен для пользователя, пишем его с заглавной и отделяем от даты запятой.  Заглавная буква позволяет визуально выделить день недели, чтобы пользователь его точно не пропустил в чувствительных кейсах, например, когда нужно забрать заказ у курьера.
+								429 container Horisontal / None
+								430 container Vertical / None
+									431 container Spacer
+						432 container 🟢 ButtonCustom
+							433 text 25.02, Ср
+						434 container 🟢 ButtonCustom
+							435 text Привезём 25 сентября, Чт
+						436 container Title&Subtitle
+							437 container 🟢 Text
+								438 container Vertical / None
+									439 container Spacer
+								440 container Horisontal / None
+								441 text Часовые пояса
+								442 container Horisontal / None
+								443 container Vertical / None
+									444 container Spacer
+							445 container 🟢 Text
+								446 container Vertical / None
+									447 container Spacer
+								448 container Horisontal / None
+								449 text Часовые пояса пишем строчными буквами и не отделяем от времени знаками.
+								450 container Horisontal / None
+								451 container Vertical / None
+									452 container Spacer
+						453 container 🟢 ButtonCustom
+							454 text 18:30 мск
+						455 container Title&Subtitle
+							456 container 🟢 Text
+								457 container Vertical / None
+									458 container Spacer
+								459 container Horisontal / None
+								460 text Продолжительность перелёта, длительность пересадок
+								461 container Horisontal / None
+								462 container Vertical / None
+									463 container Spacer
+							464 container 🟢 Text
+								465 container Vertical / None
+									466 container Spacer
+								467 container Horisontal / None
+								468 text Единицы измерения времени (дни — «д», часы — «ч», минуты — «м») отделяются пробелом.
+								469 container Horisontal / None
+								470 container Vertical / None
+									471 container Spacer
+						472 container 🟢 ButtonCustom
+							473 text 1 д 18 ч 35 м
+					474 container Слова
+						475 container Title&Subtitle
+							476 container 🟢 Text
+								477 container Vertical / None
+									478 container Spacer
+								479 container Horisontal / None
+								480 text Единицы измерения
+								481 container Horisontal / None
+								482 container Vertical / None
+									483 container Spacer
+							484 container 🟢 Text
+								485 container Vertical / None
+									486 container Spacer
+								487 container Horisontal / None
+								488 text Все единицы измерения пишутся с маленькой буквы.
+								489 container Horisontal / None
+								490 container Vertical / None
+									491 container Spacer
+						492 container 🟢 ButtonCustom
+							493 text л
+						494 container 🟢 ButtonCustom
+							495 text мл
+						496 container 🟢 ButtonCustom
+							497 text г
+						498 container 🟢 ButtonCustom
+							499 text кг
+						500 container 🟢 ButtonCustom
+							501 text м
+						502 container 🟢 ButtonCustom
+							503 container
+								504 text м 2
+						505 container 🟢 ButtonCustom
+							506 text шт
+						507 container Title&Subtitle
+							508 container 🟢 Text
+								509 container Vertical / None
+									510 container Spacer
+								511 container Horisontal / None
+								512 text Полупробел ставится между каждой цифрой и единицей измерения (кроме %).
+								513 container Horisontal / None
+								514 container Vertical / None
+									515 container Spacer
+						516 container 🟢 ButtonCustom
+							517 text 5 л
+						518 container 🟢 ButtonCustom
+							519 text 5 мл
+						520 container 🟢 ButtonCustom
+							521 text 5 г
+						522 container 🟢 ButtonCustom
+							523 text 5 кг
+						524 container 🟢 ButtonCustom
+							525 text 5 м
+						526 container 🟢 ButtonCustom
+							527 container
+								528 text 5 м 2
+						529 container 🟢 ButtonCustom
+							530 text 5 шт
+						531 container Title&Subtitle
+							532 container 🟢 Text
+								533 container Vertical / None
+									534 container Spacer
+								535 container Horisontal / None
+								536 text Точка после единицы измерения не ставится — она «съедает» место, но не улучшает восприятие.
+								537 container Horisontal / None
+								538 container Vertical / None
+									539 container Spacer
+						540 container ContentCompare
+							541 text 100 г
+							542 text 100 г.
+						543 container Title&Subtitle
+							544 container 🟢 Text
+								545 container Vertical / None
+									546 container Spacer
+								547 container Horisontal / None
+								548 text Дробную часть единицы измерения отделяем точкой, а не запятой — так цифра не «скачет» визуально.
+								549 container Horisontal / None
+								550 container Vertical / None
+									551 container Spacer
+						552 container ContentCompare
+							553 text 120.5 кг
+							554 text 120,5 кг
+						555 container Title&Subtitle
+							556 container 🟢 Text
+								557 container Vertical / None
+									558 container Spacer
+								559 container Horisontal / None
+								560 text Полупробелом отделяются тысячные в числительных — каждые 3 цифры в числе.
+								561 container Horisontal / None
+								562 container Vertical / None
+									563 container Spacer
+						564 container 🟢 ButtonCustom
+							565 text 1 000 л
+						566 container 🟢 ButtonCustom
+							567 text 1 000 мл
+						568 container 🟢 ButtonCustom
+							569 text 1 000 г
+						570 container 🟢 ButtonCustom
+							571 text 1 000 кг
+						572 container 🟢 ButtonCustom
+							573 text 1 000 м
+						574 container 🟢 ButtonCustom
+							575 container
+								576 text 1 000 м 2
+						577 container 🟢 ButtonCustom
+							578 text 1 000 шт
+					579 container Слова
+						580 container Title&Subtitle
+							581 container 🟢 Text
+								582 container Vertical / None
+									583 container Spacer
+								584 container Horisontal / None
+								585 text Числа
+								586 container Horisontal / None
+								587 container Vertical / None
+									588 container Spacer
+							589 container 🟢 Text
+								590 container Vertical / None
+									591 container Spacer
+								592 container Horisontal / None
+								593 text Числа от четырёх знаков пишем с полупробелом после каждого третьего знака. Это особенно важно в ценах в плитке маркетплейса — если не отделять тысячные знаки, то сумму будет сложнее воспринимать.
+								594 container Horisontal / None
+								595 container Vertical / None
+									596 container Spacer
+						597 container 🟢 ButtonCustom
+							598 text 999
+						599 container 🟢 ButtonCustom
+							600 text 1 000
+						601 container 🟢 ButtonCustom
+							602 text 11 000
+						603 container 🟢 ButtonCustom
+							604 text 111 000
+						605 container Title&Subtitle
+							606 container 🟢 Text
+								607 container Vertical / None
+									608 container Spacer
+								609 container Horisontal / None
+								610 text В дробных числах используем не запятые, а точки. Они лучше выглядят в интерфейсе. Запятые в числах создают визуальный хаос.
+								611 container Horisontal / None
+								612 container Vertical / None
+									613 container Spacer
+						614 container ContentCompare
+							615 text 10.2
+							616 text 120.2
+							617 text 74.7
+							618 text 10,2
+							619 text 120,2
+							620 text 74,7
+						621 container Title&Subtitle
+							622 container 🟢 Text
+								623 container Vertical / None
+									624 container Spacer
+								625 container Horisontal / None
+								626 text Числа в английском языке
+								627 container Horisontal / None
+								628 container Vertical / None
+									629 container Spacer
+							630 container 🟢 Text
+								631 container Vertical / None
+									632 container Spacer
+								633 container Horisontal / None
+								634 container
+									635 text В числах, состоящих из четырёх и более цифр, нужно использовать запятые для разделения групп по три цифры (отсчёт ведётся справа налево).  Центы отделяем точкой.  Между цифрой и знаком доллара не ставим пробел, сначала пишем знак доллара, затем число.
+								636 container Horisontal / None
+								637 container Vertical / None
+									638 container Spacer
+						639 container 🟢 ButtonCustom
+							640 text $1,000,000.99
+						641 container Title&Subtitle
+							642 container 🟢 Text
+								643 container Vertical / None
+									644 container Spacer
+								645 container Horisontal / None
+								646 text Если валюта редко используется в этом регионе или не имеет условных обозначений, используем общепринятые сокращения.
+								647 container Horisontal / None
+								648 container Vertical / None
+									649 container Spacer
+						650 container 🟢 ButtonCustom
+							651 text 100 RUB
+						652 container 🟢 ButtonCustom
+							653 text 100 TRY
+					654 container Слова
+						655 container Title&Subtitle
+							656 container 🟢 Text
+								657 container Vertical / None
+									658 container Spacer
+								659 container Horisontal / None
+								660 text Графические форматы
+								661 container Horisontal / None
+								662 container Vertical / None
+									663 container Spacer
+							664 container 🟢 Text
+								665 container Vertical / None
+									666 container Spacer
+								667 container Horisontal / None
+								668 text Названия форматов пишутся только строчными буквами.
+								669 container Horisontal / None
+								670 container Vertical / None
+									671 container Spacer
+						672 container 🟢 ButtonCustom
+							673 text jpg
+						674 container 🟢 ButtonCustom
+							675 text png
+						676 container 🟢 ButtonCustom
+							677 text pdf
+						678 container 🟢 ButtonCustom
+							679 text exe
+						680 container 🟢 ButtonCustom
+							681 text dmg
+						682 container 🟢 ButtonCustom
+							683 text tiff
+					684 container Слова
+						685 container Title&Subtitle
+							686 container 🟢 Text
+								687 container Vertical / None
+									688 container Spacer
+								689 container Horisontal / None
+								690 text Названия элементов интерфейса
+								691 container Horisontal / None
+								692 container Vertical / None
+									693 container Spacer
+							694 container 🟢 Text
+								695 container Vertical / None
+									696 container Spacer
+								697 container Horisontal / None
+								698 container
+									699 text Названия элементов интерфейса пишем без кавычек. Пишем названия разделов с большой буквы, когда хотим показать пользователю навигацию: где нужно искать информацию или в какой раздел стоит перейти. C маленькой буквы пишем общеупотребительные слова, даже если они совпадают с названиями разделов. Например, корзина, личный кабинет, рассрочка, чаты. Если мы имеем в виду раздел с таким названием и нам важно показать пользователю навигацию по сервису, пишем с большой буквы.
+								700 container Horisontal / None
+								701 container Vertical / None
+									702 container Spacer
+						703 container Title&Subtitle
+							704 container 🟢 Text
+								705 container Vertical / None
+									706 container Spacer
+								707 container Horisontal / None
+								708 text Названия разделов как привычные сущности
+								709 container Horisontal / None
+								710 container Vertical / None
+									711 container Spacer
+							712 container 🟢 Text
+								713 container Vertical / None
+									714 container Spacer
+								715 container Horisontal / None
+								716 text Являются общеупотребительными словами, пишутся с маленькой буквы как исключение.
+								717 container Horisontal / None
+								718 container Vertical / None
+									719 container Spacer
+						720 container ContentCompare
+							721 container 🟢 Text
+								722 container Vertical / None
+									723 container Spacer
+								724 container Horisontal / None
+								725 container
+									726 text Скидки на товары в корзине Подробности по заказу – в личном кабинете Акции на главной странице
+								727 container Horisontal / None
+								728 container Vertical / None
+									729 container Spacer
+							730 container 🟢 Text
+								731 container Vertical / None
+									732 container Spacer
+								733 container Horisontal / None
+								734 container
+									735 text Скидки на товары в «Корзине» Подробности по заказу – в Личном кабинете Акции на Главной странице
+								736 container Horisontal / None
+								737 container Vertical / None
+									738 container Spacer
+						739 container Title&Subtitle
+							740 container 🟢 Text
+								741 container Vertical / None
+									742 container Spacer
+								743 container Horisontal / None
+								744 text Названия разделов как элементы навигации
+								745 container Horisontal / None
+								746 container Vertical / None
+									747 container Spacer
+							748 container 🟢 Text
+								749 container Vertical / None
+									750 container Spacer
+								751 container Horisontal / None
+								752 text Показывают направление по приложению, пишутся с большой буквы и склоняются.
+								753 container Horisontal / None
+								754 container Vertical / None
+									755 container Spacer
+						756 container ContentCompare
+							757 container 🟢 Text
+								758 container Vertical / None
+									759 container Spacer
+								760 container Horisontal / None
+								761 container
+									762 text Посмотрите в разделе Заказы Деньги уже на Балансе средств Переключиться на юрлицо можно через Мои компании Напишите в Поддержку
+								763 container Horisontal / None
+								764 container Vertical / None
+									765 container Spacer
+							766 container 🟢 Text
+								767 container Vertical / None
+									768 container Spacer
+								769 container Horisontal / None
+								770 container
+									771 text Посмотрите в разделе «заказы» Деньги уже на балансе средств Переключиться на юрлицо можно через мои компании Напишите в «Поддержка»
+								772 container Horisontal / None
+								773 container Vertical / None
+									774 container Spacer
+						775 container Title&Subtitle
+							776 container 🟢 Text
+								777 container Vertical / None
+									778 container Spacer
+								779 container Horisontal / None
+								780 text Привычные для пользователя слова
+								781 container Horisontal / None
+								782 container Vertical / None
+									783 container Spacer
+							784 container 🟢 Text
+								785 container Vertical / None
+									786 container Spacer
+								787 container Horisontal / None
+								788 text Пишутся с маленькой буквы.
+								789 container Horisontal / None
+								790 container Vertical / None
+									791 container Spacer
+						792 container ContentCompare
+							793 container 🟢 Text
+								794 container Vertical / None
+									795 container Spacer
+								796 container Horisontal / None
+								797 container
+									798 text У вас есть неоплаченный заказ Подключите рассрочку Настройте уведомления
+								799 container Horisontal / None
+								800 container Vertical / None
+									801 container Spacer
+							802 container 🟢 Text
+								803 container Vertical / None
+									804 container Spacer
+								805 container Horisontal / None
+								806 container
+									807 text У вас есть неоплаченный Заказ Подключите «Рассрочку» Настройте Уведомления
+								808 container Horisontal / None
+								809 container Vertical / None
+									810 container Spacer
+					811 container Слова
+						812 container Title&Subtitle
+							813 container 🟢 Text
+								814 container Vertical / None
+									815 container Spacer
+								816 container Horisontal / None
+								817 text Написание слов и исключения
+								818 container Horisontal / None
+								819 container Vertical / None
+									820 container Spacer
+							821 container 🟢 Text
+								822 container Vertical / None
+									823 container Spacer
+								824 container Horisontal / None
+								825 container
+									826 text При написании слов придерживаемся словарных норм. Можно проверять написание на сайте gramota.ru.  Слова-исключения в интерфейсах можно уточнить у группы UX-редактуры. Исключения определяем с учётом дизайна и здравого смысла.
+								827 container Horisontal / None
+								828 container Vertical / None
+									829 container Spacer
+						830 container Title&Subtitle
+							831 container 🟢 Text
+								832 container Vertical / None
+									833 container Spacer
+								834 container Horisontal / None
+								835 text Сложные слова и исключения
+								836 container Horisontal / None
+								837 container Vertical / None
+									838 container Spacer
+						839 container 🟢 ButtonCustom
+							840 text пресс-релиз
+						841 container 🟢 ButtonCustom
+							842 text кешбэк
+						843 container 🟢 ButtonCustom
+							844 text купить на Ozon
+						845 container 🟢 ButtonCustom
+							846 text корнер-кейс
+						847 container 🟢 ButtonCustom
+							848 text СМС
+						849 container 🟢 ButtonCustom
+							850 text пуш-уведомление
+						851 container 🟢 ButtonCustom
+							852 text email
+						853 container 🟢 ButtonCustom
+							854 text пункт выдачи заказов
+						855 container 🟢 ButtonCustom
+							856 text видеоматериалы
+						857 container 🟢 ButtonCustom
+							858 text мототехника
+						859 container 🟢 ButtonCustom
+							860 text премиум-товар
+						861 container 🟢 ButtonCustom
+							862 text Premium товар
+						863 container 🟢 ButtonCustom
+							864 text Premium бренд
+						865 container 🟢 ButtonCustom
+							866 text Premium магазин
+						867 container 🟢 ButtonCustom
+							868 text промоакция
+						869 container 🟢 ButtonCustom
+							870 text велозапчасти
+						871 container Title&Subtitle
+							872 container 🟢 Text
+								873 container Vertical / None
+									874 container Spacer
+								875 container Horisontal / None
+								876 container
+									877 text Один из примеров: email. В русском языке ещё нет литературной нормы. Но это слово часто сочетается с другими, например, email-рассылка. Если писать как в английском языке — «e-mail-рассылка» — получается некрасивая тяжеловесная конструкция с двумя дефисами. Поэтому мы пишем email без дефиса — правилами русского языка это не подтверждается и не опровергается.
+								878 container Horisontal / None
+								879 container Vertical / None
+									880 container Spacer
+				881 container Pages
+					882 toolbar Stepper
+						883 button Previous frame
+							884 image
+						885 button Next frame
+							886 image
+					887 button Restart
+						888 image
+						889 text Restart
+
+The focused UI element is 0 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&type=design&node-id=1-6032&viewport=465%2C392%2C0.05&t=ZNZQbkJk17MrDI9c-1&scaling=min-zoom&starting-point-node-id=1%3A6116

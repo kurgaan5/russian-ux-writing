@@ -1,0 +1,127 @@
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5941&scaling=min-zoom&starting-point-node-id=1%3A6116".
+1 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&node-id=1-5941&scaling=min-zoom&starting-point-node-id=1%3A6116
+	2 container react-page
+		3 container
+			4 container Prototype controls
+			5 container
+				165 container ✅ Ссылки
+					166 button ic_m_step_back_filled
+						167 container ic_m_step_back_filled
+					168 container Device Button
+						169 link ic_m_mobile_phone_filled
+							170 container ic_m_mobile_phone_filled
+					171 link logo ozon blue
+					172 container Header Desk
+						173 button ic_m_step_back_filled
+							174 container ic_m_step_back_filled
+						175 container Title&Subtitle
+							176 container 🟢 Text
+								177 container Vertical / None
+									178 container Spacer
+								179 container Horisontal / None
+								180 text Полезные ссылки
+								181 container Horisontal / None
+								182 container Vertical / None
+									183 container Spacer
+						184 container qr_m
+							185 image Img
+					186 container Ссылки
+						187 link 🟢 Text 🟢 Text
+							188 container 🟢 Text
+								189 container Vertical / None
+									190 container Spacer
+								191 container Horisontal / None
+								192 container
+									193 link Description: 🔗 , Value: gramota.ru/
+									194 link Description: Грамота.ру, Value: gramota.ru/
+								195 container Horisontal / None
+								196 container Vertical / None
+									197 container Spacer
+							198 container 🟢 Text
+								199 container Vertical / None
+									200 container Spacer
+								201 container Horisontal / 500 [16]
+									202 container Spacer
+								203 text Ответы на все сложные кейсы русского языка
+								204 container Horisontal / None
+								205 container Vertical / None
+									206 container Spacer
+						207 link 🟢 Text 🟢 Text
+							208 container 🟢 Text
+								209 container Vertical / None
+									210 container Spacer
+								211 container Horisontal / None
+								212 container
+									213 link Description: 🔗 , Value: glvrd.ru/
+									214 link Description: Главред, Value: glvrd.ru/
+								215 container Horisontal / None
+								216 container Vertical / None
+									217 container Spacer
+							218 container 🟢 Text
+								219 container Vertical / None
+									220 container Spacer
+								221 container Horisontal / 500 [16]
+									222 container Spacer
+								223 text Проверяет тексты на читаемость, показывает количество знаков
+								224 container Horisontal / None
+								225 container Vertical / None
+									226 container Spacer
+						227 container digit-silver-two_m
+							228 image Img
+						229 container digit-silver-three_m
+							230 image Img
+						231 container digit-silver-four_m
+							232 image Img
+						233 container digit-silver-one_m
+							234 image Img
+						235 link 🟢 Text 🟢 Text
+							236 container 🟢 Text
+								237 container Vertical / None
+									238 container Spacer
+								239 container Horisontal / None
+								240 container
+									241 link Description: 🔗 , Value: therules.ru/
+									242 link Description: The rules, Value: therules.ru/
+								243 container Horisontal / None
+								244 container Vertical / None
+									245 container Spacer
+							246 container 🟢 Text
+								247 container Vertical / None
+									248 container Spacer
+								249 container Horisontal / 500 [16]
+									250 container Spacer
+								251 text Удобный поиск по правилам русского языка
+								252 container Horisontal / None
+								253 container Vertical / None
+									254 container Spacer
+						255 link 🟢 Text 🟢 Text
+							256 container 🟢 Text
+								257 container Vertical / None
+									258 container Spacer
+								259 container Horisontal / None
+								260 container
+									261 link Description: 🔗 , Value: symbl.cc/ru/
+									262 link Description: SYMBL, Value: symbl.cc/ru/
+								263 container Horisontal / None
+								264 container Vertical / None
+									265 container Spacer
+							266 container 🟢 Text
+								267 container Vertical / None
+									268 container Spacer
+								269 container Horisontal / 500 [16]
+									270 container Spacer
+								271 text Символы Юникода: неразрывный и узкий пробел, минус и среднее тире
+								272 container Horisontal / None
+								273 container Vertical / None
+									274 container Spacer
+				156 container Pages
+					157 toolbar Stepper
+						158 button Previous frame
+							159 image
+						160 button Next frame
+							161 image
+					162 button Restart
+						163 image
+						164 text Restart
+
+The focused UI element is 165 container ✅ Ссылки

@@ -1,0 +1,1313 @@
+Browser tab: 1, Title: "Гайд по текстам в интерфейсе [desk] - 🟢 Desk", URL: "https://www.figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&type=design&node-id=1-6012&viewport=465%2C392%2C0.05&t=ZNZQbkJk17MrDI9c-1&scaling=min-zoom&starting-point-node-id=1%3A6116".
+0 AXWebArea Гайд по текстам в интерфейсе [desk] - 🟢 Desk, URL: figma.com/proto/7DGbCyXQIAPmXD5cyQ0sMC/%D0%93%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D0%BC-%D0%B2%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B5--desk-?page-id=0%3A1&type=design&node-id=1-6012&viewport=465%2C392%2C0.05&t=ZNZQbkJk17MrDI9c-1&scaling=min-zoom&starting-point-node-id=1%3A6116
+	1 container react-page
+		2 container
+			3 container Prototype controls
+			4 container
+				890 container ✅ Пустые состояния
+					891 button ic_m_step_back_filled
+						892 container ic_m_step_back_filled
+					893 container Device Button
+						894 link ic_m_mobile_phone_filled
+							895 container ic_m_mobile_phone_filled
+					896 button 🟢 TagButtonCustom
+						897 container 🟢 TagButtonCustom
+							898 text Общее
+					899 button 🟢 TagButtonCustom
+						900 container 🟢 TagButtonCustom
+							901 text Типовые тексты
+					902 link logo ozon blue
+					903 container Header Desk
+						904 button ic_m_step_back_filled
+							905 container ic_m_step_back_filled
+						906 container Title&Subtitle
+							907 container 🟢 Text
+								908 container Vertical / None
+									909 container Spacer
+								910 container Horisontal / None
+								911 text Пустые состояния
+								912 container Horisontal / None
+								913 container Vertical / None
+									914 container Spacer
+						915 container сhar_cat-box-six_m
+							916 image Img
+					917 container Пустые состояния
+						918 container Title&Subtitle
+							919 container 🟢 Text
+								920 container Vertical / None
+									921 container Spacer
+								922 container Horisontal / None
+								923 text Пустые состояния
+								924 container Horisontal / None
+								925 container Vertical / None
+									926 container Spacer
+							927 container 🟢 Text
+								928 container Vertical / None
+									929 container Spacer
+								930 container Horisontal / None
+								931 container
+									932 text Больше информации про пустые состояния читайте в 
+									933 link Description: статье на Хабре, Value: habr.com/ru/companies/ozontech/articles/753022/
+									934 text . Пустые состояния (empty states) — это сообщения, которые показывают, что в этой области интерфейса ничего нет. Пустое состояние может призывать пользователя заполнить данные или сообщать, что появится на экране, когда тот заполнится. Совсем пустой экран путает пользователя. Сразу возникает много вопросов: что случилось? что происходит сейчас? нажалась ли кнопка? что делать — подождать или попробовать снова? Поэтому пустые состояния всегда сопровождают поясняющим текстом о том, что произошло и что нужно сделать.
+								935 container Horisontal / None
+								936 container Vertical / None
+									937 container Spacer
+						938 container Title&Subtitle
+							939 container 🟢 Text
+								940 container Vertical / None
+									941 container Spacer
+								942 container Horisontal / None
+								943 text В каких ситуациях бывают пустые состояния
+								944 container Horisontal / None
+								945 container Vertical / None
+									946 container Spacer
+						947 container Title&Subtitle
+							948 container 🟢 Icon
+								949 container ic_m_non_visibility_filled
+							950 container 🟢 Text
+								951 container Vertical / None
+									952 container Spacer
+								953 container Horisontal / None
+								954 text В разделе нет контента
+								955 container Horisontal / None
+								956 container Vertical / None
+									957 container Spacer
+							958 container 🟢 Text
+								959 container Vertical / None
+									960 container Spacer
+								961 container Horisontal / None
+								962 text Это особенно актуально для новых пользователей. Они пока не успели накопить нужные данные: списки, товары, карты и т. д. Здесь очень важно рассказать, какую пользу принесёт заполнение экрана. Так пользователи лучше познакомятся с интерфейсом и узнают о его возможностях, а также смогут вернуться к экрану позже, когда заполнят его.
+								963 container Horisontal / None
+								964 container Vertical / None
+									965 container Spacer
+						966 container Compare
+							967 container 🌀Status Widget/App
+								968 container 🟢 Image
+									969 container .ImageRatio
+										970 container paper-sheets_txt_m
+											971 image Img
+								972 container 🟢 Text
+									973 container Horisontal / None
+										974 container Spacer
+									975 container Vertical / 500 [16]
+										976 container Spacer
+									977 text Списков пока нет
+									978 container Vertical / 500 [16]
+										979 container Spacer
+									980 container Horisontal / None
+										981 container Spacer
+								982 container 🟢 Text
+									983 container Horisontal / None
+										984 container Spacer
+									985 container Vertical / 500 [16]
+										986 container Spacer
+									987 text Здесь будут храниться товары,  которые вы можете подарить друзьям, близким или себе
+									988 container Vertical / 500 [16]
+										989 container Spacer
+									990 container Horisontal / None
+										991 container Spacer
+						992 container Title&Subtitle
+							993 container 🟢 Icon
+								994 container ic_m_trash_bin_filled
+							995 container 🟢 Text
+								996 container Vertical / None
+									997 container Spacer
+								998 container Horisontal / None
+								999 text Пользователь сам всё удалил
+								1000 container Horisontal / None
+								1001 container Vertical / None
+									1002 container Spacer
+							1003 container 🟢 Text
+								1004 container Vertical / None
+									1005 container Spacer
+								1006 container Horisontal / None
+								1007 text Не обязательно это означает, что он психанул и вычистил весь лист. Возможно, случилась позитивная ситуация: человек выполнил все дела из списка. Итоговый текст зависит от кейса: нужно или поддержать пользователя и смотивировать заполнить экран, или поздравить.
+								1008 container Horisontal / None
+								1009 container Vertical / None
+									1010 container Spacer
+						1011 container Compare
+							1012 container 🌀Status Widget/App
+								1013 container points-for-feedback-a_m
+									1014 image Img
+								1015 container 🟢 Text
+									1016 container Horisontal / None
+										1017 container Spacer
+									1018 container Vertical / 500 [16]
+										1019 container Spacer
+									1020 text Вы купили всё из списка и получили 100 баллов!
+									1021 container Vertical / 500 [16]
+										1022 container Spacer
+									1023 container Horisontal / None
+										1024 container Spacer
+						1025 container Title&Subtitle
+							1026 container 🟢 Icon
+								1027 container ic_m_search_filled
+							1028 container 🟢 Text
+								1029 container Vertical / None
+									1030 container Spacer
+								1031 container Horisontal / None
+								1032 text Ничего не нашли
+								1033 container Horisontal / None
+								1034 container Vertical / None
+									1035 container Spacer
+							1036 container 🟢 Text
+								1037 container Vertical / None
+									1038 container Spacer
+								1039 container Horisontal / None
+								1040 text Пользователь ожидал что-то увидеть, но нам нечего ему показать. Результат поиска его разочаровал, так что нужно помочь пользователю и посоветовать, что делать в такой ситуации. Например, если вы не нашли билетов на поезд, можно предложить билеты на самолёт и маршрут с пересадками или дать быстрый доступ к редактированию фильтров.
+								1041 container Horisontal / None
+								1042 container Vertical / None
+									1043 container Spacer
+						1044 container Compare
+							1045 container 🌀Status Widget/App
+								1046 container 🟢 Image
+									1047 container .ImageRatio
+										1048 container magnifier_blue_question.png_m
+											1049 image Img
+								1050 container 🟢 Text
+									1051 container Horisontal / None
+										1052 container Spacer
+									1053 container Vertical / 500 [16]
+										1054 container Spacer
+									1055 text Ничего не нашлось
+									1056 container Vertical / 500 [16]
+										1057 container Spacer
+									1058 container Horisontal / None
+										1059 container Spacer
+								1060 container 🟢 Text
+									1061 container Horisontal / None
+										1062 container Spacer
+									1063 container Vertical / 500 [16]
+										1064 container Spacer
+									1065 text Попробуйте изменить или очистить фильтры
+									1066 container Vertical / 500 [16]
+										1067 container Spacer
+									1068 container Horisontal / None
+										1069 container Spacer
+						1070 container Title&Subtitle
+							1071 container 🟢 Text
+								1072 container Vertical / None
+									1073 container Spacer
+								1074 container Horisontal / None
+								1075 text Как писать пустые состояния
+								1076 container Horisontal / None
+								1077 container Vertical / None
+									1078 container Spacer
+						1079 container Title&Subtitle
+							1080 container 🟢 Icon
+								1081 text 1
+							1082 container 🟢 Text
+								1083 container Vertical / None
+									1084 container Spacer
+								1085 container Horisontal / None
+								1086 text Определите контекст. Нужно понять, какая ситуация перед вами: контент пока не появился, контент уже удалён или сервис ничего не нашёл по запросу пользователя.
+								1087 container Horisontal / None
+								1088 container Vertical / None
+									1089 container Spacer
+						1090 container Title&Subtitle
+							1091 container 🟢 Icon
+								1092 text 2
+							1093 container 🟢 Text
+								1094 container Vertical / None
+									1095 container Spacer
+								1096 container Horisontal / None
+								1097 text В заголовке расскажите, что произошло, почему пользователь видит этот экран.
+								1098 container Horisontal / None
+								1099 container Vertical / None
+									1100 container Spacer
+						1101 container Title&Subtitle
+							1102 container 🟢 Icon
+								1103 text 3
+							1104 container 🟢 Text
+								1105 container Vertical / None
+									1106 container Spacer
+								1107 container Horisontal / None
+								1108 text В подзаголовке дайте инструкцию, что пользователю делать дальше. Если есть необходимость, успокойте пользователя, например скажите, что его данные не пропали или деньги под защитой.
+								1109 container Horisontal / None
+								1110 container Vertical / None
+									1111 container Spacer
+						1112 container Title&Subtitle
+							1113 container 🟢 Icon
+								1114 text 4
+							1115 container 🟢 Text
+								1116 container Vertical / None
+									1117 container Spacer
+								1118 container Horisontal / None
+								1119 text В тексте на кнопке по возможности направьте пользователя к целевому действию, например «Обновить».
+								1120 container Horisontal / None
+								1121 container Vertical / None
+									1122 container Spacer
+						1123 container Title&Subtitle
+							1124 container 🟢 Icon
+								1125 text 5
+							1126 container 🟢 Text
+								1127 container Vertical / None
+									1128 container Spacer
+								1129 container Horisontal / None
+								1130 text Можно подобрать или нарисовать подходящие изображения: от простых вопросительных знаков и пожимающих плечами маскотов до сложных комиксовых сюжетов.
+								1131 container Horisontal / None
+								1132 container Vertical / None
+									1133 container Spacer
+						1134 container Title&Subtitle
+							1135 container 🟢 Text
+								1136 container Vertical / None
+									1137 container Spacer
+								1138 container Horisontal / None
+								1139 text Что можно использовать вместо пустых состояний
+								1140 container Horisontal / None
+								1141 container Vertical / None
+									1142 container Spacer
+						1143 container Title&Subtitle
+							1144 container 🟢 Icon
+								1145 container ic_m_education_filled
+							1146 container 🟢 Text
+								1147 container Vertical / None
+									1148 container Spacer
+								1149 container Horisontal / None
+								1150 text Обучающие подсказки и онбординг
+								1151 container Horisontal / None
+								1152 container Vertical / None
+									1153 container Spacer
+							1154 container 🟢 Text
+								1155 container Vertical / None
+									1156 container Spacer
+								1157 container Horisontal / None
+								1158 text Расскажите, что пользователь сможет сделать, когда контент появится на экране. Можно не ограничиваться текстом, а добавить видеоподсказку или подробную инструкцию.
+								1159 container Horisontal / None
+								1160 container Vertical / None
+									1161 container Spacer
+						1162 container Title&Subtitle
+							1163 container 🟢 Icon
+								1164 container ic_m_similar_product_filled
+							1165 container 🟢 Text
+								1166 container Vertical / None
+									1167 container Spacer
+								1168 container Horisontal / None
+								1169 text Похожий контент
+								1170 container Horisontal / None
+								1171 container Vertical / None
+									1172 container Spacer
+							1173 container 🟢 Text
+								1174 container Vertical / None
+									1175 container Spacer
+								1176 container Horisontal / None
+								1177 text Если нет возможности дать пользователю то, что он просит, но вы можете предложить нечто похожее, сообщите об этом.
+								1178 container Horisontal / None
+								1179 container Vertical / None
+									1180 container Spacer
+						1181 container Title&Subtitle
+							1182 container 🟢 Icon
+								1183 container ic_m_document_check_filled
+							1184 container 🟢 Text
+								1185 container Vertical / None
+									1186 container Spacer
+								1187 container Horisontal / None
+								1188 text Предложения по использованию сервиса
+								1189 container Horisontal / None
+								1190 container Vertical / None
+									1191 container Spacer
+							1192 container 🟢 Text
+								1193 container Vertical / None
+									1194 container Spacer
+								1195 container Horisontal / None
+								1196 container
+									1197 text Допустим, вы понимаете, что пользователь видит пустое состояние, если допускает ошибку в поиске.  В таком случае можно сообщить ему, как эффективнее пользоваться вашим приложением. Дайте краткую инструкцию или прямые ссылки. Ну а если такие ошибки возникают часто, то лучше пересмотреть интерфейс в пользу клиентов.
+								1198 container Horisontal / None
+								1199 container Vertical / None
+									1200 container Spacer
+						1201 container Title&Subtitle
+							1202 container 🟢 Icon
+								1203 container ic_m_text_align_center_filled
+							1204 container 🟢 Text
+								1205 container Vertical / None
+									1206 container Spacer
+								1207 container Horisontal / None
+								1208 text Демоверсия контента
+								1209 container Horisontal / None
+								1210 container Vertical / None
+									1211 container Spacer
+							1212 container 🟢 Text
+								1213 container Vertical / None
+									1214 container Spacer
+								1215 container Horisontal / None
+								1216 container
+									1217 text Если часть экрана видят только некоторые пользователи, например с премиум-подпиской, приоткройте завесу тайны для остальных.  Можно показать часть контента или предоставить стартовые возможности. Вдруг потом пользователь захочет больше и оформит подписку?
+								1218 container Horisontal / None
+								1219 container Vertical / None
+									1220 container Spacer
+						1221 container Title&Subtitle
+							1222 container 🟢 Icon
+								1223 container ic_m_award_filled
+							1224 container 🟢 Text
+								1225 container Vertical / None
+									1226 container Spacer
+								1227 container Horisontal / None
+								1228 text Вознаграждение
+								1229 container Horisontal / None
+								1230 container Vertical / None
+									1231 container Spacer
+							1232 container 🟢 Text
+								1233 container Vertical / None
+									1234 container Spacer
+								1235 container Horisontal / None
+								1236 container
+									1237 text Такой вариант подходит не для всех экранов пустых состояний, а только для тех, где пустота связана с каким-то достижением. Подумайте, чего хотят достичь ваши пользователи.  Порадуйте их и поздравьте — например, с тем, что они выполнили все дела из списка. Кстати, для таких случаев можно придумать ачивки.
+								1238 container Horisontal / None
+								1239 container Vertical / None
+									1240 container Spacer
+						1241 container Title&Subtitle
+							1242 container 🟢 Icon
+								1243 container ic_m_help_chat_filled
+							1244 container 🟢 Text
+								1245 container Vertical / None
+									1246 container Spacer
+								1247 container Horisontal / None
+								1248 text Помощь и комфорт
+								1249 container Horisontal / None
+								1250 container Vertical / None
+									1251 container Spacer
+							1252 container 🟢 Text
+								1253 container Vertical / None
+									1254 container Spacer
+								1255 container Horisontal / None
+								1256 text Если пустое состояние возникло из-за ошибки, успокойте пользователя. Обязательно скажите, что всё хорошо и данные не пропали.
+								1257 container Horisontal / None
+								1258 container Vertical / None
+									1259 container Spacer
+						1260 container Title&Subtitle
+							1261 container 🟢 Icon
+								1262 container ic_m_reload_filled
+							1263 container 🟢 Text
+								1264 container Vertical / None
+									1265 container Spacer
+								1266 container Horisontal / None
+								1267 text Асинхронные запросы с лоадером
+								1268 container Horisontal / None
+								1269 container Vertical / None
+									1270 container Spacer
+							1271 container 🟢 Text
+								1272 container Vertical / None
+									1273 container Spacer
+								1274 container Horisontal / None
+								1275 container
+									1276 text Бывает, что мы не можем быстро показать нужную информацию, например, количественные данные или большой список. Однако стоит немного подождать, и эти данные появятся.  В таком случае проблему можно решить асинхронными запросами, при которых страница уже загрузилась целиком, а проблемный блок подгрузится позже.  Вместо пустого состояния можно показать «крутилку» или скелетный экран. Также можно делать периодические дополнительные запросы раз в N секунд.
+								1277 container Horisontal / None
+								1278 container Vertical / None
+									1279 container Spacer
+						1280 container Title&Subtitle
+							1281 container 🟢 Text
+								1282 container Vertical / None
+									1283 container Spacer
+								1284 container Horisontal / None
+								1285 text Пустые состояния: не надо так
+								1286 container Horisontal / None
+								1287 container Vertical / None
+									1288 container Spacer
+							1289 container 🟢 Text
+								1290 container Vertical / None
+									1291 container Spacer
+								1292 container Horisontal / None
+								1293 text Не рассказывайте о других фичах — это запутает пользователя. Говорите только о том, что происходит на экране или в соответствующем разделе.
+								1294 container Horisontal / None
+								1295 container Vertical / None
+									1296 container Spacer
+						1297 container ContentCompare
+							1298 container Compare
+								1299 container 🌀Status Widget/App
+									1300 container 🟢 Image
+										1301 container .ImageRatio
+											1302 container basket_m
+												1303 image Img
+									1304 container 🟢 Text
+										1305 container Horisontal / None
+											1306 container Spacer
+										1307 container Vertical / 500 [16]
+											1308 container Spacer
+										1309 text В корзине пока ничего нет
+										1310 container Vertical / 500 [16]
+											1311 container Spacer
+										1312 container Horisontal / None
+											1313 container Spacer
+									1314 container 🟢 Text
+										1315 container Horisontal / None
+											1316 container Spacer
+										1317 container Vertical / 500 [16]
+											1318 container Spacer
+										1319 text Здесь будут храниться товары,  которые вы можете подарить друзьям, близким или себе
+										1320 container Vertical / 500 [16]
+											1321 container Spacer
+										1322 container Horisontal / None
+											1323 container Spacer
+							1324 container Compare
+								1325 container 🌀Status Widget/App
+									1326 container 🟢 Image
+										1327 container .ImageRatio
+											1328 container basket_m
+												1329 image Img
+									1330 container 🟢 Text
+										1331 container Horisontal / None
+											1332 container Spacer
+										1333 container Vertical / 500 [16]
+											1334 container Spacer
+										1335 text В корзине пока ничего нет
+										1336 container Vertical / 500 [16]
+											1337 container Spacer
+										1338 container Horisontal / None
+											1339 container Spacer
+									1340 container 🟢 Text
+										1341 container Horisontal / None
+											1342 container Spacer
+										1343 container Vertical / 500 [16]
+											1344 container Spacer
+										1345 text Здесь пока нет товаров, появятся, когда вы их добавите. Кстати, а еще у нас можно купить билеты и оплатить проживание в отеле!
+										1346 container Vertical / 500 [16]
+											1347 container Spacer
+										1348 container Horisontal / None
+											1349 container Spacer
+						1350 container Title&Subtitle
+							1351 container 🟢 Text
+								1352 container Vertical / None
+									1353 container Spacer
+								1354 container Horisontal / None
+								1355 text Не шутите в ситуациях, когда пользователь может быть разочарован. Такие шутки вызывают только гнев и раздражение.
+								1356 container Horisontal / None
+								1357 container Vertical / None
+									1358 container Spacer
+						1359 container ContentCompare
+							1360 container Compare
+								1361 container 🌀Status Widget/App
+									1362 container 🟢 Image
+										1363 container .ImageRatio
+											1364 container magnifier_blue_m
+												1365 image Img
+									1366 container 🟢 Text
+										1367 container Horisontal / None
+											1368 container Spacer
+										1369 container Vertical / 500 [16]
+											1370 container Spacer
+										1371 text Ничего не нашлось
+										1372 container Vertical / 500 [16]
+											1373 container Spacer
+										1374 container Horisontal / None
+											1375 container Spacer
+									1376 container 🟢 Text
+										1377 container Horisontal / None
+											1378 container Spacer
+										1379 container Vertical / 500 [16]
+											1380 container Spacer
+										1381 text Попробуйте изменить вариант товара
+										1382 container Vertical / 500 [16]
+											1383 container Spacer
+										1384 container Horisontal / None
+											1385 container Spacer
+							1386 container Compare
+								1387 container 🌀Status Widget/App
+									1388 container 🟢 Image
+										1389 container .ImageRatio
+											1390 container magnifier_blue_m
+												1391 image Img
+									1392 container 🟢 Text
+										1393 container Horisontal / None
+											1394 container Spacer
+										1395 container Vertical / 500 [16]
+											1396 container Spacer
+										1397 text Категория не найдена
+										1398 container Vertical / 500 [16]
+											1399 container Spacer
+										1400 container Horisontal / None
+											1401 container Spacer
+									1402 container 🟢 Text
+										1403 container Horisontal / None
+											1404 container Spacer
+										1405 container Vertical / 500 [16]
+											1406 container Spacer
+										1407 text Ну ничего, повезет в любви 😜
+										1408 container Vertical / 500 [16]
+											1409 container Spacer
+										1410 container Horisontal / None
+											1411 container Spacer
+						1412 container ContentCompare
+							1413 container Compare
+								1414 container 🌀Status Widget/App
+									1415 container 🟢 Image
+										1416 container .ImageRatio
+											1417 container magnifier_blue_m
+												1418 image Img
+									1419 container 🟢 Text
+										1420 container Horisontal / None
+											1421 container Spacer
+										1422 container Vertical / 500 [16]
+											1423 container Spacer
+										1424 text Категория не найдена
+										1425 container Vertical / 500 [16]
+											1426 container Spacer
+										1427 container Horisontal / None
+											1428 container Spacer
+									1429 container 🟢 Text
+										1430 container Horisontal / None
+											1431 container Spacer
+										1432 container Vertical / 500 [16]
+											1433 container Spacer
+										1434 text Ого, ну и запросы у вас! Ничего из этого мы не нашли
+										1435 container Vertical / 500 [16]
+											1436 container Spacer
+										1437 container Horisontal / None
+											1438 container Spacer
+							1439 container Compare
+								1440 container 🌀Status Widget/App
+									1441 container 🟢 Image
+										1442 container .ImageRatio
+											1443 container magnifier_blue_m
+												1444 image Img
+									1445 container 🟢 Text
+										1446 container Horisontal / None
+											1447 container Spacer
+										1448 container Vertical / 500 [16]
+											1449 container Spacer
+										1450 text Категория не найдена
+										1451 container Vertical / 500 [16]
+											1452 container Spacer
+										1453 container Horisontal / None
+											1454 container Spacer
+									1455 container 🟢 Text
+										1456 container Horisontal / None
+											1457 container Spacer
+										1458 container Vertical / 500 [16]
+											1459 container Spacer
+										1460 text Возможно, это пришельцы или у нас что-то сломалось
+										1461 container Vertical / 500 [16]
+											1462 container Spacer
+										1463 container Horisontal / None
+											1464 container Spacer
+						1465 container Title&Subtitle
+							1466 container 🟢 Text
+								1467 container Vertical / None
+									1468 container Spacer
+								1469 container Horisontal / None
+								1470 text Не драматизируйте. Не стоит лишний раз извиняться или делать из пустого состояния трагедию. Придерживайтесь спокойного и доброжелательного тона.
+								1471 container Horisontal / None
+								1472 container Vertical / None
+									1473 container Spacer
+						1474 container ContentCompare
+							1475 container Compare
+								1476 container 🌀Status Widget/App
+									1477 container 🟢 Image
+										1478 container .ImageRatio
+											1479 container magnifier_blue_m
+												1480 image Img
+									1481 container 🟢 Text
+										1482 container Horisontal / None
+											1483 container Spacer
+										1484 container Vertical / 500 [16]
+											1485 container Spacer
+										1486 text Ничего не нашлось
+										1487 container Vertical / 500 [16]
+											1488 container Spacer
+										1489 container Horisontal / None
+											1490 container Spacer
+									1491 container 🟢 Text
+										1492 container Horisontal / None
+											1493 container Spacer
+										1494 container Vertical / 500 [16]
+											1495 container Spacer
+										1496 text Попробуйте изменить вариант товара
+										1497 container Vertical / 500 [16]
+											1498 container Spacer
+										1499 container Horisontal / None
+											1500 container Spacer
+							1501 container Compare
+								1502 container 🌀Status Widget/App
+									1503 container 🟢 Image
+										1504 container .ImageRatio
+											1505 container magnifier_blue_m
+												1506 image Img
+									1507 container 🟢 Text
+										1508 container Horisontal / None
+											1509 container Spacer
+										1510 container Vertical / 500 [16]
+											1511 container Spacer
+										1512 text Ничего не нашлось
+										1513 container Vertical / 500 [16]
+											1514 container Spacer
+										1515 container Horisontal / None
+											1516 container Spacer
+									1517 container 🟢 Text
+										1518 container Horisontal / None
+											1519 container Spacer
+										1520 container Vertical / 500 [16]
+											1521 container Spacer
+										1522 text Мы очень старались, но так ничего и не нашли. Простите нас, пожалуйста! 😭
+										1523 container Vertical / 500 [16]
+											1524 container Spacer
+										1525 container Horisontal / None
+											1526 container Spacer
+						1527 container Title&Subtitle
+							1528 container 🟢 Text
+								1529 container Vertical / None
+									1530 container Spacer
+								1531 container Horisontal / None
+								1532 text Избегайте страдательного залога. Это тот самый канцелярит, который любят использовать чиновники: «Ничего не найдено». Вместо этого лучше сказать «Мы не нашли». Ещё подходит фраза «Ничего не нашлось».
+								1533 container Horisontal / None
+								1534 container Vertical / None
+									1535 container Spacer
+						1536 container ContentCompare
+							1537 container Compare
+								1538 container 🌀Status Widget/App
+									1539 container 🟢 Image
+										1540 container .ImageRatio
+											1541 container ticket-blue-weak-shadow_m
+												1542 image Img
+									1543 container 🟢 Text
+										1544 container Horisontal / None
+											1545 container Spacer
+										1546 container Vertical / 500 [16]
+											1547 container Spacer
+										1548 text Не нашли прямых рейсов
+										1549 container Vertical / 500 [16]
+											1550 container Spacer
+										1551 container Horisontal / None
+											1552 container Spacer
+									1553 container 🟢 Text
+										1554 container Horisontal / None
+											1555 container Spacer
+										1556 container Vertical / 500 [16]
+											1557 container Spacer
+										1558 text Готовы предложить вам рейсы с пересадкой
+										1559 container Vertical / 500 [16]
+											1560 container Spacer
+										1561 container Horisontal / None
+											1562 container Spacer
+									1563 container Кнопки, 32 px
+										1564 container 🟢 Button
+											1565 text Рейсы с пересадкой
+							1566 container Compare
+								1567 container 🌀Status Widget/App
+									1568 container 🟢 Image
+										1569 container .ImageRatio
+											1570 container ticket-blue-weak-shadow_m
+												1571 image Img
+									1572 container 🟢 Text
+										1573 container Horisontal / None
+											1574 container Spacer
+										1575 container Vertical / 500 [16]
+											1576 container Spacer
+										1577 text Прямых рейсов не найдено
+										1578 container Vertical / 500 [16]
+											1579 container Spacer
+										1580 container Horisontal / None
+											1581 container Spacer
+									1582 container 🟢 Text
+										1583 container Horisontal / None
+											1584 container Spacer
+										1585 container Vertical / 500 [16]
+											1586 container Spacer
+										1587 text Вам будут предложены рейсы с пересадкой
+										1588 container Vertical / 500 [16]
+											1589 container Spacer
+										1590 container Horisontal / None
+											1591 container Spacer
+									1592 container Кнопки, 32 px
+										1593 container 🟢 Button
+											1594 text Рейсы с пересадкой
+						1595 container ContentCompare
+							1596 container Compare
+								1597 container 🌀Status Widget/App
+									1598 container 🟢 Image
+										1599 container .ImageRatio
+											1600 container magnifier_blue_m
+												1601 image Img
+									1602 container 🟢 Text
+										1603 container Horisontal / None
+											1604 container Spacer
+										1605 container Vertical / 500 [16]
+											1606 container Spacer
+										1607 text Ничего не нашлось
+										1608 container Vertical / 500 [16]
+											1609 container Spacer
+										1610 container Horisontal / None
+											1611 container Spacer
+							1612 container Compare
+								1613 container 🌀Status Widget/App
+									1614 container 🟢 Image
+										1615 container .ImageRatio
+											1616 container magnifier_blue_m
+												1617 image Img
+									1618 container 🟢 Text
+										1619 container Horisontal / None
+											1620 container Spacer
+										1621 container Vertical / 500 [16]
+											1622 container Spacer
+										1623 text Ничего не найдено
+										1624 container Vertical / 500 [16]
+											1625 container Spacer
+										1626 container Horisontal / None
+											1627 container Spacer
+					1628 container Пустые состояния
+						1629 container Title&Subtitle
+							1630 container 🟢 Text
+								1631 container Vertical / None
+									1632 container Spacer
+								1633 container Horisontal / None
+								1634 text Тексты пустых состояний: можно брать и использовать
+								1635 container Horisontal / None
+								1636 container Vertical / None
+									1637 container Spacer
+						1638 container 🌀Status Widget/App
+							1639 container 🟢 Image
+								1640 container .ImageRatio
+									1641 container basket-simple-empty-blue-tilted_m
+										1642 image Img
+							1643 container 🟢 Text
+								1644 container Horisontal / None
+									1645 container Spacer
+								1646 container Vertical / 500 [16]
+									1647 container Spacer
+								1648 text В корзине пока пусто
+								1649 container Vertical / 500 [16]
+									1650 container Spacer
+								1651 container Horisontal / None
+									1652 container Spacer
+							1653 container 🟢 Text
+								1654 container Horisontal / None
+									1655 container Spacer
+								1656 container Vertical / 500 [16]
+									1657 container Spacer
+								1658 text В каталоге можно найти много классных товаров
+								1659 container Vertical / 500 [16]
+									1660 container Spacer
+								1661 container Horisontal / None
+									1662 container Spacer
+							1663 container Кнопки, 32 px
+								1664 container 🟢 Button
+									1665 text К каталогу
+						1666 container 🌀Status Widget/App
+							1667 container 🟢 Image
+								1668 container .ImageRatio
+									1669 container basket-simple-empty-blue-tilted_m
+										1670 image Img
+							1671 container 🟢 Text
+								1672 container Horisontal / None
+									1673 container Spacer
+								1674 container Vertical / 500 [16]
+									1675 container Spacer
+								1676 text В корзине пока пусто
+								1677 container Vertical / 500 [16]
+									1678 container Spacer
+								1679 container Horisontal / None
+									1680 container Spacer
+							1681 container 🟢 Text
+								1682 container Horisontal / None
+									1683 container Spacer
+								1684 container Vertical / 500 [16]
+									1685 container Spacer
+								1686 text Посмотрите самые популярные товары
+								1687 container Vertical / 500 [16]
+									1688 container Spacer
+								1689 container Horisontal / None
+									1690 container Spacer
+							1691 container Кнопки, 32 px
+								1692 container 🟢 Button
+									1693 text К каталогу
+						1694 container 🌀Status Widget/App
+							1695 container 🟢 Image
+								1696 container .ImageRatio
+									1697 container pointer_blue_m
+										1698 image Img
+							1699 container 🟢 Text
+								1700 container Horisontal / None
+									1701 container Spacer
+								1702 container Vertical / 500 [16]
+									1703 container Spacer
+								1704 text Нет сохранённых пунктов выдачи
+								1705 container Vertical / 500 [16]
+									1706 container Spacer
+								1707 container Horisontal / None
+									1708 container Spacer
+							1709 container 🟢 Text
+								1710 container Horisontal / None
+									1711 container Spacer
+								1712 container Vertical / 500 [16]
+									1713 container Spacer
+								1714 text Выбирайте пункты и постаматы рядом с домом или офисом
+								1715 container Vertical / 500 [16]
+									1716 container Spacer
+								1717 container Horisontal / None
+									1718 container Spacer
+							1719 container Кнопки, 32 px
+								1720 container 🟢 Button
+									1721 text Выбрать на карте
+						1722 container 🌀Status Widget/App
+							1723 container 🟢 Image
+								1724 container .ImageRatio
+									1725 container pointer_blue_m
+										1726 image Img
+							1727 container 🟢 Text
+								1728 container Horisontal / None
+									1729 container Spacer
+								1730 container Vertical / 500 [16]
+									1731 container Spacer
+								1732 text Нет сохранённых адресов
+								1733 container Vertical / 500 [16]
+									1734 container Spacer
+								1735 container Horisontal / None
+									1736 container Spacer
+							1737 container 🟢 Text
+								1738 container Horisontal / None
+									1739 container Spacer
+								1740 container Vertical / 500 [16]
+									1741 container Spacer
+								1742 text Выбирайте на карте удобные адреса для курьерской доставки
+								1743 container Vertical / 500 [16]
+									1744 container Spacer
+								1745 container Horisontal / None
+									1746 container Spacer
+							1747 container Кнопки, 32 px
+								1748 container 🟢 Button
+									1749 text Выбрать на карте
+						1750 container 🌀Status Widget/App
+							1751 container 🟢 Image
+								1752 container .ImageRatio
+									1753 container ticket-red-weak-shadow_m
+										1754 image Img
+							1755 container 🟢 Text
+								1756 container Horisontal / None
+									1757 container Spacer
+								1758 container Vertical / 500 [16]
+									1759 container Spacer
+								1760 text Нет билетов на поезд
+								1761 container Vertical / 500 [16]
+									1762 container Spacer
+								1763 container Horisontal / None
+									1764 container Spacer
+							1765 container 🟢 Text
+								1766 container Horisontal / None
+									1767 container Spacer
+								1768 container Vertical / 500 [16]
+									1769 container Spacer
+								1770 text Попробуйте изменить направление или дату. А ещё можно поискать авиарейсы
+								1771 container Vertical / 500 [16]
+									1772 container Spacer
+								1773 container Horisontal / None
+									1774 container Spacer
+							1775 container Кнопки, 32 px
+								1776 container 🟢 Button
+									1777 text Новый поиск
+						1778 container 🌀Status Widget/App
+							1779 container 🟢 Image
+								1780 container .ImageRatio
+									1781 container ticket-blue-weak-shadow_m
+										1782 image Img
+							1783 container 🟢 Text
+								1784 container Horisontal / None
+									1785 container Spacer
+								1786 container Vertical / 500 [16]
+									1787 container Spacer
+								1788 text Не нашли прямых рейсов
+								1789 container Vertical / 500 [16]
+									1790 container Spacer
+								1791 container Horisontal / None
+									1792 container Spacer
+							1793 container 🟢 Text
+								1794 container Horisontal / None
+									1795 container Spacer
+								1796 container Vertical / 500 [16]
+									1797 container Spacer
+								1798 text Попробуйте выбрать другие даты
+								1799 container Vertical / 500 [16]
+									1800 container Spacer
+								1801 container Horisontal / None
+									1802 container Spacer
+							1803 container Кнопки, 32 px
+								1804 container 🟢 Button
+									1805 text Новый поиск
+						1806 container 🌀Status Widget/App
+							1807 container 🟢 Image
+								1808 container .ImageRatio
+									1809 container magnifier_blue_question.png_m
+										1810 image Img
+							1811 container 🟢 Text
+								1812 container Horisontal / None
+									1813 container Spacer
+								1814 container Vertical / 500 [16]
+									1815 container Spacer
+								1816 text Не нашли билетов
+								1817 container Vertical / 500 [16]
+									1818 container Spacer
+								1819 container Horisontal / None
+									1820 container Spacer
+							1821 container 🟢 Text
+								1822 container Horisontal / None
+									1823 container Spacer
+								1824 container Vertical / 500 [16]
+									1825 container Spacer
+								1826 text Попробуйте изменить или очистить фильтры
+								1827 container Vertical / 500 [16]
+									1828 container Spacer
+								1829 container Horisontal / None
+									1830 container Spacer
+							1831 container Кнопки, 32 px
+								1832 container 🟢 Button
+									1833 text Назад
+						1834 container 🌀Status Widget/App
+							1835 container 🟢 Image
+								1836 container .ImageRatio
+									1837 container magnifier_blue_question.png_m
+										1838 image Img
+							1839 container 🟢 Text
+								1840 container Horisontal / None
+									1841 container Spacer
+								1842 container Vertical / 500 [16]
+									1843 container Spacer
+								1844 text Результаты поиска могли устареть
+								1845 container Vertical / 500 [16]
+									1846 container Spacer
+								1847 container Horisontal / None
+									1848 container Spacer
+							1849 container 🟢 Text
+								1850 container Horisontal / None
+									1851 container Spacer
+								1852 container Vertical / 500 [16]
+									1853 container Spacer
+								1854 text Обновите, чтобы увидеть только актуальные места и цены
+								1855 container Vertical / 500 [16]
+									1856 container Spacer
+								1857 container Horisontal / None
+									1858 container Spacer
+							1859 container Кнопки, 32 px
+								1860 container 🟢 Button
+									1861 text Обновить поиск
+						1862 container 🌀Status Widget/App
+							1863 container 🟢 Image
+								1864 container .ImageRatio
+									1865 container paper-sheets_txt_m
+										1866 image Img
+							1867 container 🟢 Text
+								1868 container Horisontal / None
+									1869 container Spacer
+								1870 container Vertical / 500 [16]
+									1871 container Spacer
+								1872 text Списков пока нет
+								1873 container Vertical / 500 [16]
+									1874 container Spacer
+								1875 container Horisontal / None
+									1876 container Spacer
+							1877 container 🟢 Text
+								1878 container Horisontal / None
+									1879 container Spacer
+								1880 container Vertical / 500 [16]
+									1881 container Spacer
+								1882 text Создавайте списки с товарами из Избранного и делитесь ими с семьёй и друзьями
+								1883 container Vertical / 500 [16]
+									1884 container Spacer
+								1885 container Horisontal / None
+									1886 container Spacer
+							1887 container Кнопки, 32 px
+								1888 container 🟢 Button
+									1889 text Создать список
+						1890 container 🌀Status Widget/App
+							1891 container 🟢 Image
+								1892 container .ImageRatio
+									1893 container box-open_heart_m
+										1894 image Img
+							1895 container 🟢 Text
+								1896 container Horisontal / None
+									1897 container Spacer
+								1898 container Vertical / 500 [16]
+									1899 container Spacer
+								1900 text В Избранном пока пусто
+								1901 container Vertical / 500 [16]
+									1902 container Spacer
+								1903 container Horisontal / None
+									1904 container Spacer
+							1905 container 🟢 Text
+								1906 container Horisontal / None
+									1907 container Spacer
+								1908 container Vertical / 500 [16]
+									1909 container Spacer
+								1910 text Не теряйте покупки, если вы откладываете их на потом. Добавляйте товары в Избранное с помощью ♥
+								1911 container Vertical / 500 [16]
+									1912 container Spacer
+								1913 container Horisontal / None
+									1914 container Spacer
+							1915 container Кнопки, 32 px
+								1916 container 🟢 Button
+									1917 text В каталог
+						1918 container 🌀Status Widget/App
+							1919 container 🟢 Image
+								1920 container .ImageRatio
+									1921 container paper-sheets_table_m
+										1922 image Img
+							1923 container 🟢 Text
+								1924 container Horisontal / None
+									1925 container Spacer
+								1926 container Vertical / 500 [16]
+									1927 container Spacer
+								1928 text Нет списков сравнения
+								1929 container Vertical / 500 [16]
+									1930 container Spacer
+								1931 container Horisontal / None
+									1932 container Spacer
+							1933 container 🟢 Text
+								1934 container Horisontal / None
+									1935 container Spacer
+								1936 container Vertical / 500 [16]
+									1937 container Spacer
+								1938 text Сравнивайте интересующие товары из каталога
+								1939 container Vertical / 500 [16]
+									1940 container Spacer
+								1941 container Horisontal / None
+									1942 container Spacer
+							1943 container Кнопки, 32 px
+								1944 container 🟢 Button
+									1945 text В каталог
+						1946 container 🌀Status Widget/App
+							1947 container 🟢 Image
+								1948 container .ImageRatio
+									1949 container paper-sheets_heart_m
+										1950 image Img
+							1951 container 🟢 Text
+								1952 container Horisontal / None
+									1953 container Spacer
+								1954 container Vertical / 500 [16]
+									1955 container Spacer
+								1956 text Нет Избранных магазинов
+								1957 container Vertical / 500 [16]
+									1958 container Spacer
+								1959 container Horisontal / None
+									1960 container Spacer
+							1961 container 🟢 Text
+								1962 container Horisontal / None
+									1963 container Spacer
+								1964 container Vertical / 500 [16]
+									1965 container Spacer
+								1966 text Добавляйте магазины в Избранное с помощью ♥
+								1967 container Vertical / 500 [16]
+									1968 container Spacer
+								1969 container Horisontal / None
+									1970 container Spacer
+						1971 container 🌀Status Widget/App
+							1972 container 🟢 Image
+								1973 container .ImageRatio
+									1974 container paper-sheets_heart_m
+										1975 image Img
+							1976 container 🟢 Text
+								1977 container Horisontal / None
+									1978 container Spacer
+								1979 container Vertical / 500 [16]
+									1980 container Spacer
+								1981 text Коллекция пуста
+								1982 container Vertical / 500 [16]
+									1983 container Spacer
+								1984 container Horisontal / None
+									1985 container Spacer
+							1986 container 🟢 Text
+								1987 container Horisontal / None
+									1988 container Spacer
+								1989 container Vertical / 500 [16]
+									1990 container Spacer
+								1991 text Сюда можно сохранять понравившиеся бренды, серии книг или авторов
+								1992 container Vertical / 500 [16]
+									1993 container Spacer
+								1994 container Horisontal / None
+									1995 container Spacer
+							1996 container Кнопки, 32 px
+								1997 container 🟢 Button
+									1998 text В каталог
+						1999 container 🌀Status Widget/App
+							2000 container 🟢 Image
+								2001 container .ImageRatio
+									2002 container bulb-ozon-first_m
+										2003 image Img
+							2004 container 🟢 Text
+								2005 container Horisontal / None
+									2006 container Spacer
+								2007 container Vertical / 500 [16]
+									2008 container Spacer
+								2009 text Список идей пуст
+								2010 container Vertical / 500 [16]
+									2011 container Spacer
+								2012 container Horisontal / None
+									2013 container Spacer
+							2014 container 🟢 Text
+								2015 container Horisontal / None
+									2016 container Spacer
+								2017 container Vertical / 500 [16]
+									2018 container Spacer
+								2019 text Здесь будут храниться товары, которые вы можете подарить друзьям, близким или себе
+								2020 container Vertical / 500 [16]
+									2021 container Spacer
+								2022 container Horisontal / None
+									2023 container Spacer
+							2024 container Кнопки, 32 px
+								2025 container 🟢 Button
+									2026 text В каталог
+						2027 container 🌀Status Widget/App
+							2028 container 🟢 Image
+								2029 container .ImageRatio
+									2030 container feedback-gray-star_m
+										2031 image Img
+							2032 container 🟢 Text
+								2033 container Horisontal / None
+									2034 container Spacer
+								2035 container Vertical / 500 [16]
+									2036 container Spacer
+								2037 text Здесь пока ничего нет
+								2038 container Vertical / 500 [16]
+									2039 container Spacer
+								2040 container Horisontal / None
+									2041 container Spacer
+							2042 container 🟢 Text
+								2043 container Horisontal / None
+									2044 container Spacer
+								2045 container Vertical / 500 [16]
+									2046 container Spacer
+								2047 text В этом разделе будут ваши отзывы о товаре или комментарии к отзывам
+								2048 container Vertical / 500 [16]
+									2049 container Spacer
+								2050 container Horisontal / None
+									2051 container Spacer
+						2052 container 🌀Status Widget/App
+							2053 container 🟢 Image
+								2054 container .ImageRatio
+									2055 container message-crack_lighting_m
+										2056 image Img
+							2057 container 🟢 Text
+								2058 container Horisontal / None
+									2059 container Spacer
+								2060 container Vertical / 500 [16]
+									2061 container Spacer
+								2062 text Такого чата не существует
+								2063 container Vertical / 500 [16]
+									2064 container Spacer
+								2065 container Horisontal / None
+									2066 container Spacer
+							2067 container 🟢 Text
+								2068 container Horisontal / None
+									2069 container Spacer
+								2070 container Vertical / 500 [16]
+									2071 container Spacer
+								2072 text Скорее всего, вы перешли по неправильной ссылке. Выберите существующий чат
+								2073 container Vertical / 500 [16]
+									2074 container Spacer
+								2075 container Horisontal / None
+									2076 container Spacer
+							2077 container Кнопки, 32 px
+								2078 container 🟢 Button
+									2079 text Вернуться к чатам
+						2080 container 🌀Status Widget/App
+							2081 container 🟢 Image
+								2082 container .ImageRatio
+									2083 container feedback-gray-star_m
+										2084 image Img
+							2085 container 🟢 Text
+								2086 container Horisontal / None
+									2087 container Spacer
+								2088 container Vertical / 500 [16]
+									2089 container Spacer
+								2090 text Отзывов пока нет
+								2091 container Vertical / 500 [16]
+									2092 container Spacer
+								2093 container Horisontal / None
+									2094 container Spacer
+							2095 container 🟢 Text
+								2096 container Horisontal / None
+									2097 container Spacer
+								2098 container Vertical / 500 [16]
+									2099 container Spacer
+								2100 text Когда появятся, будут отображаться здесь
+								2101 container Vertical / 500 [16]
+									2102 container Spacer
+								2103 container Horisontal / None
+									2104 container Spacer
+							2105 container Кнопки, 32 px
+								2106 container 🟢 Button
+									2107 text В каталог
+						2108 container 🌀Status Widget/App
+							2109 container 🟢 Image
+								2110 container .ImageRatio
+									2111 container magnifier_blue_question.png_m
+										2112 image Img
+							2113 container 🟢 Text
+								2114 container Horisontal / None
+									2115 container Spacer
+								2116 container Vertical / 500 [16]
+									2117 container Spacer
+								2118 text Ничего не нашлось
+								2119 container Vertical / 500 [16]
+									2120 container Spacer
+								2121 container Horisontal / None
+									2122 container Spacer
+							2123 container 🟢 Text
+								2124 container Horisontal / None
+									2125 container Spacer
+								2126 container Vertical / 500 [16]
+									2127 container Spacer
+								2128 text Сформулируйте по-другому или измените запрос
+								2129 container Vertical / 500 [16]
+									2130 container Spacer
+								2131 container Horisontal / None
+									2132 container Spacer
+							2133 container Кнопки, 32 px
+								2134 container 🟢 Button
+									2135 text К поиску
+						2136 container 🌀Status Widget/App
+							2137 container 🟢 Image
+								2138 container .ImageRatio
+									2139 container car-front-blue_m
+										2140 image Img
+							2141 container 🟢 Text
+								2142 container Horisontal / None
+									2143 container Spacer
+								2144 container Vertical / 500 [16]
+									2145 container Spacer
+								2146 text Такой автомобиль уже существует
+								2147 container Vertical / 500 [16]
+									2148 container Spacer
+								2149 container Horisontal / None
+									2150 container Spacer
+							2151 container 🟢 Text
+								2152 container Horisontal / None
+									2153 container Spacer
+								2154 container Vertical / 500 [16]
+									2155 container Spacer
+								2156 text Вы добавили автомобиль с таким госномером или VIN. Проверьте данные и попробуйте снова
+								2157 container Vertical / 500 [16]
+									2158 container Spacer
+								2159 container Horisontal / None
+									2160 container Spacer
+						2161 container 🌀Status Widget/App
+							2162 container 🟢 Image
+								2163 container .ImageRatio
+									2164 container app_update_m
+										2165 image Img
+							2166 container 🟢 Text
+								2167 container Horisontal / None
+									2168 container Spacer
+								2169 container Vertical / 500 [16]
+									2170 container Spacer
+								2171 text Обновляем приложение
+								2172 container Vertical / 500 [16]
+									2173 container Spacer
+								2174 container Horisontal / None
+									2175 container Spacer
+							2176 container 🟢 Text
+								2177 container Horisontal / None
+									2178 container Spacer
+								2179 container Vertical / 500 [16]
+									2180 container Spacer
+								2181 text С 4:00 до 6:00 оно будет недоступно, зато станет ещё лучше
+								2182 container Vertical / 500 [16]
+									2183 container Spacer
+								2184 container Horisontal / None
+									2185 container Spacer
+				881 container Pages
+					882 toolbar Stepper
+						883 button Previous frame
+							884 image
+						885 button Next frame
+							886 image
+					887 button Restart
+						888 image
+						889 text Restart
+
+The focused UI element is 890 container ✅ Пустые состояния
